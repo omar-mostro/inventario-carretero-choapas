@@ -378,6 +378,24 @@ body,
     width: 100%;
 }
 
+#fixedWindow .subTitle{
+
+    color: #000;
+    font-size: 18px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    padding: 0 4px;
+}
+#fixedWindow .description{
+    margin: 5px 0;
+    color: #000;
+    font-family: arial;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 15px;
+    padding: 0 4px;
+}
+
 
 /*Menú icons*/
 
