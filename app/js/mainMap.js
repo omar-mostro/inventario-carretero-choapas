@@ -11,6 +11,16 @@ function initialize() {
     [km40Code, 18.008377, -94.589308],
     [km0, 17.909953, -94.939167]
     ];
+
+   //Options for the strret view
+   var panoramaOptions = {
+        addressControlOptions : { position : google.maps.ControlPosition.TOP_CENTER },
+        enableCloseButton : true,
+        visible: false //set to false so streetview is not triggered on the initial map load
+    };
+
+    var panorama = new  google.maps.StreetViewPanorama(document.getElementById("map_canvas"), panoramaOptions);
+
     //Map options
    var mapOptions = {
 	zoom: 11,
@@ -23,9 +33,9 @@ function initialize() {
     disableDoubleClickZoom: true,
     keyboardShortcuts: false,
     maxZoom: 11,
-    minZoom: 11
-  };
-
+    minZoom: 11,
+    streetView : panorama //this is where we set the panorama object to the map
+  }
     //map canvas
   map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions );
    //coordinates por the polyline

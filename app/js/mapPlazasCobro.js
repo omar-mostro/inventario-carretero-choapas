@@ -19,6 +19,15 @@ function initialize() {
 
     ];
 
+   //Options for the strret view
+   var panoramaOptions = {
+        addressControlOptions : { position : google.maps.ControlPosition.TOP_CENTER },
+        enableCloseButton : true,
+        visible: false //set to false so streetview is not triggered on the initial map load
+    };
+
+    var panorama = new  google.maps.StreetViewPanorama(document.getElementById("map_canvas"), panoramaOptions);
+
     //Map options
     var mapOptions = {
         zoom: 13,
@@ -29,7 +38,8 @@ function initialize() {
         zoomControl: false,
         disableDoubleClickZoom: true,
         keyboardShortcuts: false,
-        minZoom: 11
+        minZoom: 11,
+        streetView: panorama
     };
 
     //map canvas
