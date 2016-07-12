@@ -7,14 +7,14 @@ function initialize() {
     var locations = [
     ['<div id="fixedWindow">' +
      '<img src="img/PlazasCobro/1.JPG" alt="plaza de cobro">' +
-     '<h4 class="fixedWindowTitle">PLAZA DE COBRO 119 ACAYUCAN: TRAMO ISLA: ACAYUCAN - COSOLEACAQUE 0+200.</h4>' +
+     '<h4 class="fixedWindowTitle titlePlazasCobro">PLAZA DE COBRO 119 ACAYUCAN: TRAMO ISLA: ACAYUCAN - COSOLEACAQUE 0+200.</h4>' +
      '<h5 class="subTitle"> CADENAMIENTO </h5> <p class="description"> 0+200 </p>' +
      '<h5 class="subTitle"> CUERPO </h5> <p class="description"> Ambos </p>' +
      '<h5 class="subTitle"> NÚMERO DE CABINAS </h5> <p class="description"> 5 </p>' +
      '<h5 class="subTitle"> CONDICIÓN </h5> <p class="description"> BUENA, SE REQUIERE REFORZAR CON SEÑALAMIENTO VERTICAL Y HORIZONTAL. </p>' +
-     '<h5 class="subTitle"> LATITUD </h5> <p class="description"> 7º 54 35.97 </p>' +
+     '<h5 class="subTitle"> LATITUD </h5> <p class="description"> 17º 54 35.97 </p>' +
      '<h5 class="subTitle"> LONGITUD </h5> <p class="description"> -94º 56 16.03 </p>' +
-     '<h5 class="subTitle"> LONGITUD </h5> <p class="description"> 65.8 m.s.n.m. </p>' +
+     '<h5 class="subTitle"> ALTITUD </h5> <p class="description"> 65.8 m.s.n.m. </p>' +
      '</div>', 17.909992, -94.937786]
 
     ];
@@ -61,7 +61,7 @@ function initialize() {
     var line = new google.maps.Polyline({
         path: linePath,
         geodesic: true,
-        strokeColor: '#ff0000',
+        strokeColor: '#0e266a',
         strokeOpacity: 0.8,
         strokeWeight: 8,
         editable: false
