@@ -6094,8 +6094,8 @@ var infowindow = new google.maps.InfoWindow();
 '<h5 class="subTitle"> ALTITUD </h5> <p class="description"> 20.70 m.s.n.m. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-17.962277,
--94.66487933,
+17.962278,
+-94.659046,
  'KM 30+000 AL 35+000',
 ' <b>Kilometro: </b> 30+920 <br> <b>Lado:</b> Derecho',
 '<a class="hvr-bounce-to-right" onClick="justOne( 305 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
@@ -6514,8 +6514,8 @@ var infowindow = new google.maps.InfoWindow();
 '<h5 class="subTitle"> ALTITUD </h5> <p class="description"> 19.10 m.s.n.m. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-17.978155,
--94.6473355,
+ 17.977927,
+-94.630592,
  'KM 30+000 AL 35+000',
 ' <b>Kilometro: </b> 34+400 <br> <b>Lado:</b> Izquierdo',
 '<a class="hvr-bounce-to-right" onClick="justOne( 326 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
