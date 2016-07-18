@@ -7,9 +7,283 @@ var infowindow = new google.maps.InfoWindow();
    //locations array, contains the html to dsiplay the total info, the coordinates of all the services, a category to make the filter and a kilometer of the location service to display in the filter
     var locations = [
 
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/1.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+059.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN CANCELADA, APROXIMADAMENTE A UNOS 80 METROS ANTES DE INCORPORARSE AL CAMINO PRINCIPAL, EXISTE ESCOMBRO QUE IMPIDE EL PASO VEHICULAR </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  35.499"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  17.916"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 67.2 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.90986083,
+-94.93831,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+059.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/2.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+082.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESINCORPORACIÓN EN BUEN ESTADO, REQUIERE REFORZADO DE PINTURA Y COLOCACIÓN DE VIALETAS Y/O BOTONES </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  35.478"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  16.9326"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 72.6 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.909855,
+-94.93803683,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+082.00 <br> <b>Tipo:</b> DESINCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/3.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACION </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+100.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESINCORPORACIÓN CANCELADA, CERRADA CON BARRERA METALICA, AL PARECER SE UTILIZA COMO ESTACIONAMIENTO PARA PERSONAL QUE LABORA EN CASETA DE COBRO. </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  36.4644"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  16.6128"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 60.1 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.910129,
+-94.937948,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+100.00 <br> <b>Tipo:</b> DESINCORPORACION <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/4.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+120.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACION CANCELADA, CERRADA CON BARRERA METALICA, AL PARECER SE UTILIZA COMO ESTACIONAMIENTO PARA PERSONAL QUE LABORA EN CASETA DE COBRO. </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  36.7158"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  15.8244"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 65.1 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.91019883,
+-94.937729,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+120.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/5.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+180.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE REFORZADO DE PINTURA. </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  36.7884"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  14.9712"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 63.4 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.910219,
+-94.937492,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+180.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/6.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+200.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE REFORZADO DE PINTURA. </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  35.964"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  12.4188"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 68.4 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.90999,
+-94.936783,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+200.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/7.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 0+360.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESICOPORACIÓN EN BUEN ESTADO, REQUIERE REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">17º 54  37.2666"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 56  7.1838"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 62 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+17.91035183,
+-94.93532883,
+ 'KM 0+000 AL 5+000',
+' <b>Kilometro: </b> 0+360.00 <br> <b>Tipo:</b> DESINCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/8.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 38+970.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESINCORPORACIÓN EN  ESTADO REGULAR, REQUIERE REENCARPETAMIENTO, REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  5.979"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  45.7836"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 15.2 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00166083,
+-94.596051,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 38+970.00 <br> <b>Tipo:</b> DESINCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/9.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+035.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  8.5962"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  44.9838"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 16.9 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00238783,
+-94.59582883,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+035.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/10.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+100.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  10.3134"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  42.1512"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 23.7 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00286483,
+-94.595042,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+100.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/11.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+250.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESINCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  10.3134"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  42.1512"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.9 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00286483,
+-94.595042,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+250.00 <br> <b>Tipo:</b> DESINCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/12.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+297.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  14.9832"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  39.2748"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 12.6 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.004162,
+-94.594243,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+297.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/13.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> INCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+380.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Derecho </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> INCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  17.589"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  35.739"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 21.8 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00488583,
+-94.59326083,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+380.00 <br> <b>Tipo:</b> INCORPORACIÓN <br> <b>Lado:</b>Derecho',
+'<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Intersecciones/14.JPG" alt="Imagen de Intersecciones">' +
+'<h4 class="fixedWindowTitle titleIntersecciones">Relación de Intersecciones Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Tipo de Intersección </h5> <p class="description"> DESINCORPORACIÓN </p>' +
+'<h5 class="subTitle"> Cadenamiento </h5> <p class="description"> 39+742.00 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description">B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> Izquierdo </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description"> DESINCORPORACIÓN EN BUEN ESTADO, REQUIERE  REFORZAR SEÑALAMIENTO (COLOCACIÓN DE VIALETAS, AMORTIGUADOR DE IMPACTO  Y PINTURA) </p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description">18º 0  27.252"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> -94º 35  27.5892"</p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 16.6 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>',
+18.00757,
+-94.590997,
+ 'KM 35+000 AL 40+000',
+' <b>Kilometro: </b> 39+742.00 <br> <b>Tipo:</b> DESINCORPORACIÓN <br> <b>Lado:</b>Izquierdo',
+'<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
     ];
 
@@ -125,7 +399,7 @@ function initialize() {
     var line = new google.maps.Polyline({
         path: linePath,
         geodesic: true,
-        strokeColor: '#6E0000',
+        strokeColor: '#c0392b',
         strokeOpacity: 0.8,
         strokeWeight: 8,
         editable: false
@@ -230,14 +504,14 @@ function filterMarkers(category) {
 
         if (locations[i][3] == category && category.length != 0) {
             marker.setVisible(true);
-             fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+             fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
              map.setZoom(10);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
-            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
             map.setZoom(10);
         }
@@ -298,7 +572,7 @@ function start(){
 
     for (i = 0; i < locations.length; i++) {
 
-            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
     }
 
@@ -332,13 +606,13 @@ function back() {
     for (i = 0; i < locations.length; i++) {
         if (locations[i][3] == selectValue) {
 
-            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>" + "<div class ='titleSquareInfo'>" +"Puente # "+servicesCounter + "</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
+            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>" + "<div class ='titleSquareInfo'>" +"Intersección # "+servicesCounter + "</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
             servicesCounter++;
         }
         //this else is to show all the info
         else if (selectValue == "all"){
 
-            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>" + "<div class ='titleSquareInfo'>" +"Puente # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
+            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>" + "<div class ='titleSquareInfo'>" +"Intersección # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
             servicesCounter++;
 
         }
