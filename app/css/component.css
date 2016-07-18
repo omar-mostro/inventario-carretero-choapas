@@ -375,7 +375,7 @@ body,
 
 
 .titlePlazasCobro {
-    background-color: #0f397c;
+    background-color: #2C3E50;
     margin-top: -8px;
 }
 
@@ -434,6 +434,17 @@ body,
     text-transform: capitalize;
 }
 
+#noSelect{
+
+
+    color: #000;
+    font-size: 110%;
+    font-weight: bolder;
+    font-family: Helvetica, arial, sans-serif;
+    text-transform: capitalize;
+}
+
+
 #displayInfo {
 
     margin-top: 50px;
@@ -488,6 +499,11 @@ body,
 .borderSquareInfoIntersecciones{
 
      border-left: 10px solid #c0392b;
+}
+
+.borderSquareInfoIntersecciones{
+
+     border-left: 10px solid #2C3E50;
 }
 /* mas información button*/
 

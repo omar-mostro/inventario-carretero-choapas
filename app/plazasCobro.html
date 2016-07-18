@@ -15,7 +15,7 @@
 
 </head>
 
-<body>
+<body onload="start()">
     <div class="container">
         <!-- Push Wrapper -->
         <div class="mp-pusher" id="mp-pusher">
@@ -45,10 +45,21 @@
                         <p><a href="#" id="trigger" class="menu-trigger">Mostrar Menú</a></p>
 
                     </div>
-                    <div class="block-60 center-text">
-                        <h2><i class="fa fa-money icons-main" aria-hidden="true"></i> Plazas de Cobro</h2>
-                    </div>
+                    <div class="block">
 
+                        <div class="img-izq">
+                            <img src="img/sct.jpg" alt="sct logo">
+                        </div>
+                        <div class=" center-text block-60">
+
+                              <h2><i class="fa fa-money icons" aria-hidden="true" ></i> Plazas de Cobro </h2>
+
+                        </div>
+
+                        <div class="img-der">
+                            <img src="img/scala.jpg" alt="scala logo">
+                        </div>
+                    </div>
 
                 </div>
 
@@ -56,8 +67,17 @@
             <!-- /scroller-inner -->
 
             <div id="infowindow">
+
+
+
+                <div id="noSelect" >
+
+                </div>
+           </div>
+            <div id="map_canvas">
+
+
             </div>
-            <div id="map_canvas"></div>
 
 
 
