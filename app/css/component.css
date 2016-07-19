@@ -405,6 +405,12 @@ body,
     margin-top: -8px;
 }
 
+.titleSenalamientos{
+    background-color: #8E44AD;
+    margin-top: -8px;
+
+}
+
 #fixedWindow{
 
     line-height: 25px;
@@ -501,7 +507,7 @@ body,
      border-left: 10px solid #c0392b;
 }
 
-.borderSquareInfoIntersecciones{
+.borderSquareInfoPCobro{
 
      border-left: 10px solid #2C3E50;
 }

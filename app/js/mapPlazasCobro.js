@@ -245,14 +245,14 @@ function filterMarkers(category) {
 
         if (locations[i][3] == category && category.length != 0) {
             marker.setVisible(true);
-             fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+             fullList += "<div class='squareInfo borderSquareInfoPCobro'>"+ "<div class ='titleSquareInfo'>"+"Plaza de Cobro # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
              map.setZoom(10);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
-            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoPCobro'>"+ "<div class ='titleSquareInfo'>"+"Plaza de Cobro # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
             map.setZoom(10);
         }
@@ -313,7 +313,7 @@ function start(){
 
     for (i = 0; i < locations.length; i++) {
 
-            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoPCobro'>"+ "<div class ='titleSquareInfo'>"+"Plaza de Cobro # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
     }
 
@@ -334,7 +334,7 @@ function back() {
     for (i = 0; i < locations.length; i++) {
 
 
-            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>" + "<div class ='titleSquareInfo'>" +"Intersección # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
+            fullList += "<div class='squareInfo borderSquareInfoPCobro'>" + "<div class ='titleSquareInfo'>" +"Plaza de Cobro # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
             servicesCounter++;
 
 

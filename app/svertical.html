@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link rel="stylesheet" href="css/jquery-labelauty.css">
+
+</head>
+
+<body onload="start()">
+    <div class="container">
+        <!-- Push Wrapper -->
+        <div class="mp-pusher" id="mp-pusher">
+
+            <!-- mp-menu -->
+            <nav id="mp-menu" class="mp-menu">
+                <div class="mp-level">
+                    <h2><i class="fa fa-bars"></i> Menú</h2>
+                    <ul>
+                        <li><a href="index.html"><i class="fa fa-home icons" aria-hidden="true"></i> Inicio</a></li>
+                        <li><a href="cortes.html"><i class="fa fa-ellipsis-h icons" aria-hidden="true"></i> Cortes</a></li>
+                        <li><a href="intersecciones.html"><i class="fa fa-map-signs icons" aria-hidden="true"></i> Intersecciones</a></li>
+                        <li><a href="alcantarillas.html"><i class="fa fa-dot-circle-o icons" aria-hidden="true" ></i> Alcantarillas</a></li>
+                        <li><a href="servicios.html"><i class="fa fa-ambulance icons" aria-hidden="true" ></i> Servicios</a></li>
+                        <li><a href="plazasCobro.html"><i class="fa fa-money icons" aria-hidden="true" ></i> Plazas de Cobro</a></li>
+                        <li><a href="svertical.html"><i class="fa fa-share icons" aria-hidden="true" ></i> Señalamiento Vertical</a></li>
+                        <li><a href="puentes.html"><i class="fa fa-map icons" aria-hidden="true"></i> Puentes </a></li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- /mp-menu -->
+
+
+            <div class="scroller-inner">
+                <div class="content clearfix">
+                    <div class="block block-40 clearfix">
+                        <p><a href="#" id="trigger" class="menu-trigger">Mostrar Menú</a></p>
+
+                    </div>
+                    <div class="block">
+
+                        <div class="img-izq">
+                            <img src="img/sct.jpg" alt="sct logo">
+                        </div>
+                        <div class=" center-text block-60">
+
+                            <h2><i class="fa fa-share icons" aria-hidden="true" ></i> Señalamiento Vertical </h2>
+
+                        </div>
+
+                        <div class="img-der">
+                            <img src="img/scala.jpg" alt="scala logo">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /scroller-inner -->
+
+
+            <div id="infowindow">
+
+
+                <!--
+                <select id="select-all" class="turnintodropdown" onclick="filterMarkers(this.value);" >
+                    <option class="activetrigger" value="all">Todos los Señalamientos </option>
+                    <option class="activetrigger" value="KM 0+000 AL 5+000">Km 0+000 al 5+000</option>
+                    <option class="activetrigger" value="KM 35+000 AL 40+000">KM 35+000 al 40+000</option>
+
+
+                </select>
+-->
+
+                <form>
+                    <input checked type="checkbox"  data-labelauty="Mostrar Ambos Lados|No Mostrar" />
+                    <input type="checkbox" data-labelauty="No Mostrar Lados derechos|Mostrar Lados derechos" />
+
+
+
+                </form>
+
+                <div id="displayInfo">
+
+                </div>
+            </div>
+            <div id="map_canvas">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    </div>
+
+    <!-- /pusher -->
+    </div>
+    <!-- /container -->
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyD3DRdHDzSXTCl4ChCIVABHRl85z-VN2vU"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/mapSVertical.js" charset="utf-8"></script>
+    <script src="js/modernizr.custom.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/mlpushmenu.js"></script>
+    <script src="js/jquery-labelauty.js"></script>
+    <script>
+        new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
+    </script>
+    <script>
+        $(document).ready(function () {
+            $(":checkbox").labelauty();
+        });
+    </script>
+
+</body>
+
+</html>
