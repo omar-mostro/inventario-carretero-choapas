@@ -518,7 +518,7 @@ function back() {
     //end
 
     //this section is to get the selected option from the select
-    var e = document.getElementById("select-all");
+    var e = document.getElementById("singleSelect");
     var selectValue = e.options[e.selectedIndex].value;
     //end
 

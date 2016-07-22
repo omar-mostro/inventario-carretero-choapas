@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-
+    <link rel="stylesheet" href="css/sumoselect.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/component.css" />
@@ -14,7 +15,7 @@
 </head>
 
 <body onload="start()">
-    <div class="container">
+    <div class="container-menu">
         <!-- Push Wrapper -->
         <div class="mp-pusher" id="mp-pusher">
 
@@ -37,9 +38,9 @@
             <!-- /mp-menu -->
 
 
-             <div class="scroller-inner">
-                <div class="content clearfix">
-                    <div class="block block-40 clearfix">
+            <div class="scroller-inner">
+                <div class="content clearfix-menu">
+                    <div class="block block-40 clearfix-menu">
                         <p><a href="#" id="trigger" class="menu-trigger">Mostrar Menú</a></p>
 
                     </div>
@@ -50,7 +51,7 @@
                         </div>
                         <div class=" center-text block-60">
 
-                              <h2><i class="fa fa-dot-circle-o icons" aria-hidden="true" ></i> Alcantarillas</h2>
+                            <h2><i class="fa fa-dot-circle-o icons" aria-hidden="true" ></i> Alcantarillas</h2>
 
                         </div>
 
@@ -65,29 +66,30 @@
             <!-- /scroller-inner -->
 
 
-          <div id="infowindow">
+            <div id="infowindow">
+
+                <div class="filtros">
+                    <p class="filterText"><i class="fa fa-filter" aria-hidden="true"></i> Filtro por kilometro</p>
+                    <select id="singleSelect" class="SlectBox" placeholder="this is placeholder" onclick="filterMarkers(this.value);">
+                        <option class="activetrigger" value="all">Todos las alcantarillas</option>
+                        <option class="activetrigger" value="KM 0+000 AL 5+000">Km 0+000 al 5+000</option>
+                        <option class="activetrigger" value="KM 5+000 AL 10+000">Km 5+000 al 10+000</option>
+                        <option class="activetrigger" value="KM 10+000 AL 15+000">Km 10+000 al 15+000</option>
+                        <option class="activetrigger" value="KM 15+000 AL 20+000">Km 15+000 al 20+000</option>
+                        <option class="activetrigger" value="KM 20+000 AL 25+000">Km 20+000 al 25+000</option>
+                        <option class="activetrigger" value="KM 25+000 AL 30+000">KM 25+000 al 30+000</option>
+                        <option class="activetrigger" value="KM 30+000 AL 35+000">KM 30+000 al 35+000</option>
+                        <option class="activetrigger" value="KM 35+000 AL 40+000">KM 35+000 al 40+000</option>
 
 
-                <select id="select-all" class="turnintodropdown" onclick="filterMarkers(this.value);" >
-                    <option class="activetrigger" value="all">Todos las alcantarillas</option>
-                    <option class="activetrigger" value="KM 0+000 AL 5+000">Km 0+000 al 5+000</option>
-                    <option class="activetrigger" value="KM 5+000 AL 10+000">Km 5+000 al 10+000</option>
-                    <option class="activetrigger" value="KM 10+000 AL 15+000">Km 10+000 al 15+000</option>
-                    <option class="activetrigger" value="KM 15+000 AL 20+000">Km 15+000 al 20+000</option>
-                    <option class="activetrigger" value="KM 20+000 AL 25+000">Km 20+000 al 25+000</option>
-                    <option class="activetrigger" value="KM 25+000 AL 30+000">KM 25+000 al 30+000</option>
-                    <option class="activetrigger" value="KM 30+000 AL 35+000">KM 30+000 al 35+000</option>
-                    <option class="activetrigger" value="KM 35+000 AL 40+000">KM 35+000 al 40+000</option>
+                    </select>
 
-                    
-                </select>
-
-
+                </div>
 
                 <div id="displayInfo">
 
                 </div>
-           </div>
+            </div>
             <div id="map_canvas">
 
             </div>
@@ -110,14 +112,20 @@
     <script src="js/modernizr.custom.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/mlpushmenu.js"></script>
+    <script src="js/jquery.sumoselect.js"></script>
     <script>
         new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
     </script>
+
     <script type="text/javascript">
+        $(document).ready(function () {
+            window.asd = $('.SlectBox').SumoSelect({
+                csvDispCount: 3,
+                captionFormatAllSelected: "Todos Seleccionados"
+            });
 
-
-
-		</script>
+        });
+    </script>
 
 </body>
 

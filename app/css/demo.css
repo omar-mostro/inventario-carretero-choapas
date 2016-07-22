@@ -35,13 +35,13 @@ a:hover, a:focus {
 }
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
-.clearfix:before,
-.clearfix:after {
+.clearfix-menu:before,
+.clearfix-menu:after {
 	display: table;
 	content: " ";
 }
 
-.clearfix:after {
+.clearfix-menu:after {
 	clear: both;
 }
 
@@ -166,8 +166,6 @@ a:hover, a:focus {
 }
 
 .block-60 {
-    position: relative;
-    bottom: 30px;
     display: inline-block;
 	width: 65%;
     font-size: 22px;
