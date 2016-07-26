@@ -22,7 +22,7 @@
     background-image: -ms-linear-gradient(left, rgb(0, 58, 88) 31%, rgb(44, 62, 80) 100%);
     position: fixed;
     z-index: 1;
-    width: 247px;
+    width: 232px;
 }
 
 .SumoSelect {
@@ -38,7 +38,6 @@
 .sumoStopScroll {
     overflow: hidden;
 }
-
 
 /*this is applied on that hidden select. DO NOT USE display:none; or visiblity:hidden; and Do not override any of these properties. */
 

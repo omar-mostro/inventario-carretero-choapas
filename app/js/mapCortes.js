@@ -6,24 +6,23 @@ var infowindow = new google.maps.InfoWindow();
 
    //locations array, contains the html to dsiplay the total info, the coordinates of all the services, a category to make the filter and a kilometer of the location service to display in the filter
     var locations = [
-
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/1.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 2+120 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">2+166 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 0+920 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">1+070 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B  </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">REGULAR INESTABILIDAD.</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 41  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 55 03" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 96.2 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 38.57  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°55 47.20   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 23.2 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.910302,
--94.930053,
- 'REGULAR INESTABILIDAD.',
-' <b>Kilometro: </b> 2+120 <br> <b>Condición:</b> REGULAR INESTABILIDAD.',
+'</div>', 
+17.91071389,
+-94.92977778,
+ 'Estable',
+' <b>Kilometro: </b> 0+920 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -32,181 +31,1099 @@ var infowindow = new google.maps.InfoWindow();
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
 '<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 0+970 </p>' +
 '<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">1+030 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 37  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 55 48" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 108.8 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 37  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°55 48   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 108.8 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.911462,
--94.915663,
- 'ESTABLE',
-' <b>Kilometro: </b> 0+970 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.910278,
+-94.93,
+ 'Estable',
+' <b>Kilometro: </b> 0+970 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/3.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 1+340 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">1+300 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> B </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 1+600 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">1+800 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">EL TALUD DEL CORTE PRESENTA INESTABILIDAD.</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 41  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 54 56" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 67 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 38.74  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°55 21.04   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 0.7 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.914242,
--94.868175,
- 'EL TALUD DEL CORTE PRESENTA INESTABILIDAD.',
-' <b>Kilometro: </b> 1+340 <br> <b>Condición:</b> EL TALUD DEL CORTE PRESENTA INESTABILIDAD.',
+'</div>', 
+17.91076111,
+-94.92251111,
+ 'Estable',
+' <b>Kilometro: </b> 1+600 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/4.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 7+223 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+300 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 1+600 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">1+900 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 51  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 52 05" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 37.2 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 40.17  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°55 18.02   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.2 M.S.N.M </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.913003,
--94.891115,
- 'ESTABLE',
-' <b>Kilometro: </b> 7+223 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.91115833,
+-94.92167222,
+ 'Estable',
+' <b>Kilometro: </b> 1+600 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/5.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 5+230 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">5+260 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 2+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">2+196 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">EL TALUD DEL CORTE PRESENTA INESTABILIDAD.</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 47  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 53 28" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 94.5 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Regular Inestabilidad</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 40.20  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°55 03.09   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 96.2 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.915048,
--94.86408,
- 'EL TALUD DEL CORTE PRESENTA INESTABILIDAD.',
-' <b>Kilometro: </b> 5+230 <br> <b>Condición:</b> EL TALUD DEL CORTE PRESENTA INESTABILIDAD.',
+'</div>', 
+17.911167,
+-94.917525,
+ 'Regular Inestabilidad',
+' <b>Kilometro: </b> 2+100 <br> <b>Condición:</b> Regular Inestabilidad',
 '<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/6.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 8+000 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">8+050 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 2+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">2+420 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 54 54  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 51 51" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 35.6 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">El Talud Del Corte Presenta Inestabilidad</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 41  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°54 56   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.918155,
--94.850573,
- 'ESTABLE',
-' <b>Kilometro: </b> 8+000 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.911389,
+-94.915556,
+ 'El Talud Del Corte Presenta Inestabilidad',
+' <b>Kilometro: </b> 2+100 <br> <b>Condición:</b> El Talud Del Corte Presenta Inestabilidad',
 '<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/7.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 9+430 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">9+485 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 2+700 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">2+860 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 55 05  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 51 02" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 53.6 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 42.09  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°54 48.53   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 27.9M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.926867,
--94.808763,
- 'ESTABLE',
-' <b>Kilometro: </b> 9+430 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.911692,
+-94.913481,
+ 'Estable',
+' <b>Kilometro: </b> 2+700 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/8.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 14+000 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">14+080 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 3+240 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">3+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 55 37  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 48 32" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 12.5 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 43.49  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°54 31.22   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 27.9 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.933085,
--94.705839,
- 'ESTABLE',
-' <b>Kilometro: </b> 14+000 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.912081,
+-94.908672,
+ 'Estable',
+' <b>Kilometro: </b> 3+240 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/9.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 25+000 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">25+120 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 4+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">4+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 55 59  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 42 21" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 15 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 45.76  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°53 50.00   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24.2 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.982908,
--94.620398,
- 'ESTABLE',
-' <b>Kilometro: </b> 25+000 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.912711,
+-94.897222,
+ 'Estable',
+' <b>Kilometro: </b> 4+400 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
 ['<div id="fixedWindow">' +
  '<img src="img/Cortes/10.JPG" alt="Imagen de Cortes">' +
 '<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
-'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 35+050 </p>' +
-'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">35+100 </p>' +
-'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> A </p>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 4+300 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">4+530 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
 '<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
-'<h5 class="subTitle"> Condición </h5> <p class="description">ESTABLE</p>' +
-'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17 58 58  </p>' +
-'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94 37 13" </p>' +
-'<h5 class="subTitle"> Altitud </h5> <p class="description"> 16.3 </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 44.47  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°53 50.42   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24.2 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
-'</div>',
-17.982908,
--94.620398,
- 'ESTABLE',
-' <b>Kilometro: </b> 35+050 <br> <b>Condición:</b> ESTABLE',
+'</div>', 
+17.912353,
+-94.897339,
+ 'Estable',
+' <b>Kilometro: </b> 4+300 <br> <b>Condición:</b> Estable',
 '<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/11.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 5+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">5+660 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">El Talud Del Corte Presenta Inestabilidad</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 46.04  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°53 26.57   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 94.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.912789,
+-94.890714,
+ 'El Talud Del Corte Presenta Inestabilidad',
+' <b>Kilometro: </b> 5+000 <br> <b>Condición:</b> El Talud Del Corte Presenta Inestabilidad',
+'<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/12.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 5+800 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">5+910 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 47.44  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°53 05.30   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 27.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.913178,
+-94.884806,
+ 'Inestable',
+' <b>Kilometro: </b> 5+800 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/13.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 5+800 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">5+910 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 49  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°53 05   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.913611,
+-94.884722,
+ 'Estable',
+' <b>Kilometro: </b> 5+800 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/14.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 6+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 51  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°52 25   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 28.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.914167,
+-94.873611,
+ 'Inestable',
+' <b>Kilometro: </b> 6+900 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/15.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 7+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+280 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 52  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°52 14   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.914444,
+-94.870556,
+ 'Estable',
+' <b>Kilometro: </b> 7+100 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/16.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 7+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+250 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 50.57  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°52 17.18   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 23.4 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.914047,
+-94.871439,
+ 'Inestable',
+' <b>Kilometro: </b> 7+200 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 16 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/17.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 7+580 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+620 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 51.96  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°52 3.23   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.914433,
+-94.867564,
+ 'Inestable',
+' <b>Kilometro: </b> 7+580 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 17 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/18.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 7+520 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">7+630 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 53.57  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°52 0.55   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 26.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.914881,
+-94.866819,
+ 'Estable',
+' <b>Kilometro: </b> 7+520 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/19.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 8+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">8+200 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 54  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°51 51   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 35.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.915,
+-94.864167,
+ 'Estable',
+' <b>Kilometro: </b> 8+000 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 19 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/20.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 8+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">8+200 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 58  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°51 40   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 34.3 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.916111,
+-94.861111,
+ 'Estable',
+' <b>Kilometro: </b> 8+000 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 20 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/21.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 8+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">8+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 58.06  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°51 37.52   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 19.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.916128,
+-94.860422,
+ 'Estable',
+' <b>Kilometro: </b> 8+200 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 21 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/22.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 9+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">9+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 4.41  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°51 01.30   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 23.2 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.917892,
+-94.850361,
+ 'Inestable',
+' <b>Kilometro: </b> 9+200 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 22 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/23.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 9+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">9+310 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 04.33  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°51 1.89   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 53.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.917869,
+-94.850525,
+ 'Inestable',
+' <b>Kilometro: </b> 9+100 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 23 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/24.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 9+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">9+310 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 06.46  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°50 58.63   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 12.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.918461,
+-94.849619,
+ 'Estable',
+' <b>Kilometro: </b> 9+100 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 24 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/25.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 12+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">12+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 26.74  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°49 20.16   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.924094,
+-94.822267,
+ 'Estable',
+' <b>Kilometro: </b> 12+400 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 25 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/26.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 12+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">13+050 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 29.54  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°49 06.61   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.924872,
+-94.818503,
+ 'Estable',
+' <b>Kilometro: </b> 12+900 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 26 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/27.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 12+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">13+050 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 31  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°49 06   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 16.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.925278,
+-94.818333,
+ 'Estable',
+' <b>Kilometro: </b> 12+900 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 27 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/28.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 13+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">13+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 33.29  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 55.89   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 12.3 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.925914,
+-94.815525,
+ 'Estable',
+' <b>Kilometro: </b> 13+400 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 28 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/29.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 13+700 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">13+880 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 35.08  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 41.28   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 11.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.926411,
+-94.811467,
+ 'Estable',
+' <b>Kilometro: </b> 13+700 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 29 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/30.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 13+700 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">13+880 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 37  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 41   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 14.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.926944,
+-94.811389,
+ 'Estable',
+' <b>Kilometro: </b> 13+700 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 30 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/31.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 14+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">14+080 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 36.59  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 29.80   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 12.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.926831,
+-94.808278,
+ 'Estable',
+' <b>Kilometro: </b> 14+000 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 31 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/32.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 14+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">14+080 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 38  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 30   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 7.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.927222,
+-94.808333,
+ 'Estable',
+' <b>Kilometro: </b> 14+000 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 32 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/33.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 14+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">14+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 38  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 21   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 7.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.927222,
+-94.805833,
+ 'Estable',
+' <b>Kilometro: </b> 14+400 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 33 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/34.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 14+600 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">14+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 38  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°48 18   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 7.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.927222,
+-94.805,
+ 'Estable',
+' <b>Kilometro: </b> 14+600 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 34 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/35.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 22+010 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">22+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 46  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 58   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 27.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.929444,
+-94.732778,
+ 'Estable',
+' <b>Kilometro: </b> 22+010 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 35 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/36.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 22+010 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">22+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 45.66  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 50.73   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 105.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.92935,
+-94.730758,
+ 'Inestable',
+' <b>Kilometro: </b> 22+010 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 36 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/37.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 22+860 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">22+940 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 47.87  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 35.75   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 0.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.929964,
+-94.726597,
+ 'Estable',
+' <b>Kilometro: </b> 22+860 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 37 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/38.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 22+860 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">22+940 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 49.26  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 35.91   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 3.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.93035,
+-94.726642,
+ 'Inestable',
+' <b>Kilometro: </b> 22+860 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 38 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/39.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 23+180 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">23+230 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 51  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 21   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 2.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.930833,
+-94.7225,
+ 'Estable',
+' <b>Kilometro: </b> 23+180 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 39 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/40.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 23+340 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">23+400 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 51.87  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°43 16.07   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 2.4 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.931075,
+-94.721131,
+ 'Inestable',
+' <b>Kilometro: </b> 23+340 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 40 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/41.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 24+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">24+050 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 55.57  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°42 52.12   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 2.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.932103,
+-94.714478,
+ 'Inestable',
+' <b>Kilometro: </b> 24+000 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 41 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/42.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 24+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">25+120 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°55 59  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°42 21   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 15 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.933056,
+-94.705833,
+ 'Estable',
+' <b>Kilometro: </b> 24+900 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 42 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/43.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 25+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">25+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 05.07  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°42 03.63   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 0.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.934742,
+-94.701008,
+ 'Estable',
+' <b>Kilometro: </b> 25+400 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 43 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/44.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 25+450 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">25+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 3.13  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°42 11.76   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 9.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.934203,
+-94.703267,
+ 'Estable',
+' <b>Kilometro: </b> 25+450 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 44 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/45.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 25+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">25+280 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 07  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°42 03   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 17.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.935278,
+-94.700833,
+ 'Inestable',
+' <b>Kilometro: </b> 25+200 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 45 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/46.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 25+800 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">26+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 12  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°41 56   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 26.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.936667,
+-94.698889,
+ 'Estable',
+' <b>Kilometro: </b> 25+800 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 46 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/47.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 27+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">27+200 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 25  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°41 37   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 15.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.940278,
+-94.693611,
+ 'Estable',
+' <b>Kilometro: </b> 27+100 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 47 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/48.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 34+140 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">34+180 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 36  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°37 59   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.976667,
+-94.633056,
+ 'Estable',
+' <b>Kilometro: </b> 34+140 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 48 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/49.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 34+140 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">34+180 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 55  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°37 24   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 10.3 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.981944,
+-94.623333,
+ 'Estable',
+' <b>Kilometro: </b> 34+140 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 49 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/50.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 35+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">35+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 53.10  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°37 23.41   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 11.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.981417,
+-94.623169,
+ 'Estable',
+' <b>Kilometro: </b> 35+200 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 50 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/51.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 35+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">35+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 59  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°37 13   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.2 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.983056,
+-94.620278,
+ 'Estable',
+' <b>Kilometro: </b> 35+200 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 51 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/52.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 35+500 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">35+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 59.77  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°37 13.49   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20.6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.983269,
+-94.620414,
+ 'Inestable',
+' <b>Kilometro: </b> 35+500 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 52 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/53.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 36+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">37+080 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 17.68  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°36 32.62   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 29.3 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.988244,
+-94.609061,
+ 'Estable',
+' <b>Kilometro: </b> 36+900 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 53 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/54.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 36+600 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">37+080 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Inestable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 19  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°36 33   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 28.9 M.S. N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.988611,
+-94.609167,
+ 'Inestable',
+' <b>Kilometro: </b> 36+600 <br> <b>Condición:</b> Inestable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 54 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/55.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 38+550 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">38+900 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO A </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 49  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°36 00   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 17.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.996944,
+-94.6,
+ 'Estable',
+' <b>Kilometro: </b> 38+550 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 55 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Cortes/56.JPG" alt="Imagen de Cortes">' +
+'<h4 class="fixedWindowTitle titleCortes">Relación de Cortes:KM 00+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento Inicial (KM) </h5> <p class="description"> 38+550 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (KM) </h5> <p class="description">38+900 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> CUERPO B </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">Estable</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 56  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°35 56   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 32.8 m.s.n.m. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.998889,
+-94.598889,
+ 'Estable',
+' <b>Kilometro: </b> 38+550 <br> <b>Condición:</b> Estable',
+'<a class="hvr-bounce-to-right" onClick="justOne( 56 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
     ];
 

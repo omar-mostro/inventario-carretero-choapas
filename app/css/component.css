@@ -355,7 +355,7 @@ body,
     z-index: 100;
     height: 80%;
     width: 250px;
-    overflow: auto;
+    overflow:auto;
     border-top: 1px solid #ccc;
     border-left: 1px solid #ccc;
     border-bottom: 1px solid #999;
@@ -364,6 +364,7 @@ body,
     border-radius: 5px;
     box-shadow: 0px 0px 8px #999;
     background-color: #ffffff;
+    
 }
 
 .fixedWindowTitle {
@@ -413,6 +414,17 @@ body,
 
 }
 
+.titleServicios{
+    background-color: #2b749b;
+    margin-bottom: 10px;
+
+}
+.titleTerraplenes{
+    background-color: #5e5e34;
+    margin-bottom: 10px;
+    
+}
+
 #fixedWindow{
 
     line-height: 25px;
@@ -459,6 +471,16 @@ body,
 #displayInfo {
 
     margin-top: 90px;
+    color: #000;
+    line-height: 0;
+    font-size: 110%;
+    font-weight: bolder;
+    font-family: Helvetica, arial, sans-serif;
+    text-transform: capitalize;
+}
+#displayInfo-Terraplen{
+    
+    margin-top: 113px;
     color: #000;
     line-height: 0;
     font-size: 110%;
@@ -531,6 +553,16 @@ body,
 .borderSquareInfoSenalamientos{
 
      border-left: 10px solid  #5d276a;
+}
+
+.borderSquareInfoServicios{
+
+     border-left: 10px solid  #2b749b;
+}
+
+.borderSquareInfoTerraplenes{
+
+     border-left: 10px solid  #5e5e34;
 }
 /* mas información button*/
 

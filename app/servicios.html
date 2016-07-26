@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="author" content="Omar Sánchez Martínez">
+    <link rel="icon" href="img/logo.ico">
+
+    <title>Servicios</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/sumoselect.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+</head>
+
+<body onload="start()">
+    <div class="container-menu">
+        <!-- Push Wrapper -->
+        <div class="mp-pusher" id="mp-pusher">
+
+            <!-- mp-menu -->
+            <nav id="mp-menu" class="mp-menu">
+                <div class="mp-level">
+                    <h2><i class="fa fa-bars"></i> Menú</h2>
+                    <ul>
+                        <li><a href="index.html"><i class="fa fa-globe icons" aria-hidden="true"></i> Macrolocalización</a></li>
+                        <li><a href="inicio.html"><i class="fa fa-home icons" aria-hidden="true"></i> Inicio</a></li>
+                        <li><a href="cortes.html"><i class="fa fa-ellipsis-h icons" aria-hidden="true"></i> Cortes</a></li>
+                        <li><a href="intersecciones.html"><i class="fa fa-map-signs icons" aria-hidden="true"></i> Intersecciones</a></li>
+                        <li><a href="alcantarillas.html"><i class="fa fa-dot-circle-o icons" aria-hidden="true" ></i> Alcantarillas</a></li>
+                        <li><a href="servicios.html"><i class="fa fa-ambulance icons" aria-hidden="true" ></i> Servicios</a></li>
+                        <li><a href="plazasCobro.html"><i class="fa fa-money icons" aria-hidden="true" ></i> Plazas de Cobro</a></li>
+                        <li><a href="svertical.html"><i class="fa fa-share icons" aria-hidden="true" ></i> Señalamiento </a></li>
+                        <li><a href="puentes.html"><i class="fa fa-map icons" aria-hidden="true"></i> Puentes </a></li>
+                        <li><a href="terraplenes.html"><i class="fa fa-picture-o icons" aria-hidden="true"></i> Terraplenes </a></li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- /mp-menu -->
+
+
+            <div class="scroller-inner">
+                <div class="content clearfix-menu">
+                    <div class="block block-40 clearfix-menu">
+                        <p><a href="#" id="trigger" class="menu-trigger">Mostrar Menú</a></p>
+
+                    </div>
+                    <div class="block">
+
+                        <div class="img-izq">
+                            <img src="img/sct.jpg" alt="sct logo">
+                        </div>
+                        <div class=" center-text block-60">
+
+                            <h2><i class="fa fa-ambulance icons-main" aria-hidden="true" ></i> Servicios </h2>
+
+                        </div>
+
+                        <div class="img-der">
+                            <img src="img/scala.jpg" alt="scala logo">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /scroller-inner -->
+
+
+            <div id="infowindow">
+                <div class="filtros">
+                    <p class="filterText"><i class="fa fa-filter" aria-hidden="true"></i> Filtro por Servicio</p>
+                    <select id="singleSelect" class="SlectBox" placeholder="this is placeholder" onclick="filterMarkers(this.value);">
+                        <option class="activetrigger" value="all">Todos los Servicios</option>
+                        <option class="activetrigger" value="GRÚAS">Grúas</option>
+                        <option class="activetrigger" value="SANITARIOS">Sanitarios</option>
+                        <option class="activetrigger" value="GASOLINERA">Gasolineras</option>
+                        <option class="activetrigger" value="RESTAURANTE">Restaurantes</option>
+                        <option class="activetrigger" value="VULCANIZADORA">Vulcanizadoras</option>
+                    </select>
+
+
+                </div>
+                <div id="displayInfo">
+
+                </div>
+            </div>
+            <div id="map_canvas">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyD3DRdHDzSXTCl4ChCIVABHRl85z-VN2vU"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/mapServicios.js" charset="utf-8"></script>
+    <script src="js/modernizr.custom.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/mlpushmenu.js"></script>
+    <script src="js/jquery.sumoselect.js"></script>
+    <script>
+        new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'));
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            window.asd = $('.SlectBox').SumoSelect({
+                csvDispCount: 3,
+                captionFormatAllSelected: "Todos Seleccionados"
+            });
+
+        });
+    </script>
+
+</body>
+
+</html>
