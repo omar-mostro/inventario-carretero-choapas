@@ -6,7 +6,884 @@ var infowindow = new google.maps.InfoWindow();
 
    //locations array, contains the html to dsiplay the total info, the coordinates of all the services, a category to make the filter and a kilometer of the location service to display in the filter
     var locations = [
-    
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/1.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 0+500 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">0+620 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°04 00.21  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°14 56.46   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 55.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.066725,
+-94.24901667,
+ 'KM 0+000 AL 5+000',
+' <b>Cadenamiento Inicial(km): </b> 0+500 <br> <b>Cadenamiento Final (km):</b> 0+620 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/2.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 1+920 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">2+050 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°03 29.87  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°14 37.64   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 55.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.05829722,
+-94.24378889,
+ 'KM 0+000 AL 5+000',
+' <b>Cadenamiento Inicial(km): </b> 1+920 <br> <b>Cadenamiento Final (km):</b> 2+050 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/3.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 1+930 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">2+050 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°03 29.66  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°14 36.8   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 70 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.05823889,
+-94.24355556,
+ 'KM 0+000 AL 5+000',
+' <b>Cadenamiento Inicial(km): </b> 1+930 <br> <b>Cadenamiento Final (km):</b> 2+050 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/4.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 2+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">3+100 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°03 01.25  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°14 19.23   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 56.7 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.21701389,
+-94.238675,
+ 'KM 0+000 AL 5+000',
+' <b>Cadenamiento Inicial(km): </b> 2+900 <br> <b>Cadenamiento Final (km):</b> 3+100 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/5.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 2+870 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">3+110 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°03 01.7  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°14 19.6   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 45 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.05047222,
+-94.23877778,
+ 'KM 0+000 AL 5+000',
+' <b>Cadenamiento Inicial(km): </b> 2+870 <br> <b>Cadenamiento Final (km):</b> 3+110 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/6.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 5+000 AL 10+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 5+300 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">5+305 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA, PRESENTA SOCAVACION DE LA ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°02 02.5  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°13 34.5   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 77  M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.03402778,
+-94.22625,
+ 'KM 5+000 AL 10+000',
+' <b>Cadenamiento Inicial(km): </b> 5+300 <br> <b>Cadenamiento Final (km):</b> 5+305 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/7.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 5+000 AL 10+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 7+920 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">7+928 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA, PRESENTA ASENTAMIENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°00 51.8  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°12 41.6   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 35 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.01438889,
+-94.21155556,
+ 'KM 5+000 AL 10+000',
+' <b>Cadenamiento Inicial(km): </b> 7+920 <br> <b>Cadenamiento Final (km):</b> 7+928 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/8.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 5+000 AL 10+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 9+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">9+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 18°00 04.53  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°12 10.05   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 39.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+18.00125833,
+-94.20279167,
+ 'KM 5+000 AL 10+000',
+' <b>Cadenamiento Inicial(km): </b> 9+200 <br> <b>Cadenamiento Final (km):</b> 9+500 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/9.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 10+000 AL 15+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 11+040 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">11+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 24.02  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°11 46.20   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 40.4 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.99000556,
+-94.19616667,
+ 'KM 10+000 AL 15+000',
+' <b>Cadenamiento Inicial(km): </b> 11+040 <br> <b>Cadenamiento Final (km):</b> 11+300 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/10.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 10+000 AL 15+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 11+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">11+101 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA, PRESENTA SOCAVACION DE LA ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°59 21.7  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°11 45.1   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 37.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.98936111,
+-94.19586111,
+ 'KM 10+000 AL 15+000',
+' <b>Cadenamiento Inicial(km): </b> 11+100 <br> <b>Cadenamiento Final (km):</b> 11+101 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/11.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 10+000 AL 15+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 13+500 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">13+700 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°58 14.35  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°11 07.42   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 33 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.97065278,
+-94.18539444,
+ 'KM 10+000 AL 15+000',
+' <b>Cadenamiento Inicial(km): </b> 13+500 <br> <b>Cadenamiento Final (km):</b> 13+700 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/12.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 10+000 AL 15+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 14+850 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">15+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°57 31.21  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°10 45.75   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 30 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.95866944,
+-94.179375,
+ 'KM 10+000 AL 15+000',
+' <b>Cadenamiento Inicial(km): </b> 14+850 <br> <b>Cadenamiento Final (km):</b> 15+500 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/13.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 15+000 AL 20+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 16+050 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">16+060 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA, PRESENTA ASENTAMIENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°56 59.8  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°10 29.8   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 24 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.94994444,
+-94.17494444,
+ 'KM 15+000 AL 20+000',
+' <b>Cadenamiento Inicial(km): </b> 16+050 <br> <b>Cadenamiento Final (km):</b> 16+060 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/14.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 20+000 AL 25+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 21+890 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">22+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 22.49  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°08 38.26   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 13.8 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.90624722,
+-94.14396111,
+ 'KM 20+000 AL 25+000',
+' <b>Cadenamiento Inicial(km): </b> 21+890 <br> <b>Cadenamiento Final (km):</b> 22+300 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/15.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 20+000 AL 25+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 21+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">22+250 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°54 22.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°08 38.0   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 14 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.90613889,
+-94.14388889,
+ 'KM 20+000 AL 25+000',
+' <b>Cadenamiento Inicial(km): </b> 21+900 <br> <b>Cadenamiento Final (km):</b> 22+250 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/16.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 20+000 AL 25+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 24+380 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">24+386 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA, PRESENTA SOCAVACION DE LA ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°53 33.90</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°07 54.4   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 29 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.89275,
+-94.13177778,
+ 'KM 20+000 AL 25+000',
+' <b>Cadenamiento Inicial(km): </b> 24+380 <br> <b>Cadenamiento Final (km):</b> 24+386 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 16 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/17.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 25+000 AL 30+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 25+550 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">25+560 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA PRESENTA SOCAVACIÓN DE ESTRUCTURAS DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°52 53.5  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°07 22.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 29 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.88152778,
+-94.12283333,
+ 'KM 25+000 AL 30+000',
+' <b>Cadenamiento Inicial(km): </b> 25+550 <br> <b>Cadenamiento Final (km):</b> 25+560 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 17 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/18.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 25+000 AL 30+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 26+850 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">27+180 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°52 34.67  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°07 45.67   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 22 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.87629722,
+-94.12935278,
+ 'KM 25+000 AL 30+000',
+' <b>Cadenamiento Inicial(km): </b> 26+850 <br> <b>Cadenamiento Final (km):</b> 27+180 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/19.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 25+000 AL 30+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 27+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">27+550 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°52 00.64  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°06 44.58   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 28 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.86684444,
+-94.11238333,
+ 'KM 25+000 AL 30+000',
+' <b>Cadenamiento Inicial(km): </b> 27+400 <br> <b>Cadenamiento Final (km):</b> 27+550 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 19 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/20.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 25+000 AL 30+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 27+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">28+010 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°51 49.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°06 36.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 18.9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.86363889,
+-94.11005556,
+ 'KM 25+000 AL 30+000',
+' <b>Cadenamiento Inicial(km): </b> 27+900 <br> <b>Cadenamiento Final (km):</b> 28+010 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 20 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/21.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 25+000 AL 30+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 28+500 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">28+508 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">REGULAR, INICIA SOCAVACIÓN DE ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°51 34.5  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 094°06 25.8   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.85958333,
+-94.10716667,
+ 'KM 25+000 AL 30+000',
+' <b>Cadenamiento Inicial(km): </b> 28+500 <br> <b>Cadenamiento Final (km):</b> 28+508 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 21 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/22.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 36+870 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">37+100 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°47 58.5"</p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°03 38.1   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 10 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.79958333,
+-94.06058333,
+ 'KM 35+000 AL 40+000',
+' <b>Cadenamiento Inicial(km): </b> 36+870 <br> <b>Cadenamiento Final (km):</b> 37+100 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 22 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/23.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 38+800 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">39+160 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°47 01.3  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°03 07.7   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 14.5 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.78369444,
+-94.05213889,
+ 'KM 35+000 AL 40+000',
+' <b>Cadenamiento Inicial(km): </b> 38+800 <br> <b>Cadenamiento Final (km):</b> 39+160 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 23 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/24.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 35+000 AL 40+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 39+800 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">40+200 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°46 36.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°02 54.1   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 10 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.77669444,
+-94.04836111,
+ 'KM 35+000 AL 40+000',
+' <b>Cadenamiento Inicial(km): </b> 39+800 <br> <b>Cadenamiento Final (km):</b> 40+200 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 24 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/25.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 40+000 AL 45+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 40+750 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">41+300 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°46 11.3  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°02 17.8   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 9 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.76980556,
+-94.03827778,
+ 'KM 40+000 AL 45+000',
+' <b>Cadenamiento Inicial(km): </b> 40+750 <br> <b>Cadenamiento Final (km):</b> 41+300 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 25 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/26.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 40+000 AL 45+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 42+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">43+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°46 01.5  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°01 45.9   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.76708333,
+-94.02941667,
+ 'KM 40+000 AL 45+000',
+' <b>Cadenamiento Inicial(km): </b> 42+000 <br> <b>Cadenamiento Final (km):</b> 43+000 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 26 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/27.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 40+000 AL 45+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 42+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">43+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°45 57.26  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°01 30.01   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 30 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.76590556,
+-94.02500278,
+ 'KM 40+000 AL 45+000',
+' <b>Cadenamiento Inicial(km): </b> 42+000 <br> <b>Cadenamiento Final (km):</b> 43+000 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 27 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/28.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 40+000 AL 45+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 43+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">44+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°45 51.9  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°01 13.7   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 4 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.76441667,
+-94.02047222,
+ 'KM 40+000 AL 45+000',
+' <b>Cadenamiento Inicial(km): </b> 43+000 <br> <b>Cadenamiento Final (km):</b> 44+000 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 28 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/29.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 40+000 AL 45+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 43+000 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">44+000 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°45 52.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°01 13.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 4 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.76447222,
+-94.02033333,
+ 'KM 40+000 AL 45+000',
+' <b>Cadenamiento Inicial(km): </b> 43+000 <br> <b>Cadenamiento Final (km):</b> 44+000 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 29 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/30.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 45+000 AL 50+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 45+080 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">45+150 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°45 19.24  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 94°00 05.66   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 35 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.75534444,
+-94.00157222,
+ 'KM 45+000 AL 50+000',
+' <b>Cadenamiento Inicial(km): </b> 45+080 <br> <b>Cadenamiento Final (km):</b> 45+150 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 30 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/31.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 45+000 AL 50+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 46+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">47+120 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°44 45.2  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°59 19.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 22 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.74588889,
+-93.98866667,
+ 'KM 45+000 AL 50+000',
+' <b>Cadenamiento Inicial(km): </b> 46+900 <br> <b>Cadenamiento Final (km):</b> 47+120 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 31 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/32.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 45+000 AL 50+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 48+100 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">48+320 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°44 21.76  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°58 47.14   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 29 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.73937778,
+-93.97976111,
+ 'KM 45+000 AL 50+000',
+' <b>Cadenamiento Inicial(km): </b> 48+100 <br> <b>Cadenamiento Final (km):</b> 48+320 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 32 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/33.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 45+000 AL 50+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 48+900 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">49+120 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°44 04.9  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°58 23.6   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 6 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.73469444,
+-93.97322222,
+ 'KM 45+000 AL 50+000',
+' <b>Cadenamiento Inicial(km): </b> 48+900 <br> <b>Cadenamiento Final (km):</b> 49+120 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 33 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/34.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 50+000 AL 55+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 50+350 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">50+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°43 28.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°57 33.5   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 15 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.72447222,
+-93.95930556,
+ 'KM 50+000 AL 55+000',
+' <b>Cadenamiento Inicial(km): </b> 50+350 <br> <b>Cadenamiento Final (km):</b> 50+500 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 34 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/35.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 50+000 AL 55+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 51+200 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">51+600 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°43 24.08  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°57 28.08   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 42 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.72335556,
+-93.9578,
+ 'KM 50+000 AL 55+000',
+' <b>Cadenamiento Inicial(km): </b> 51+200 <br> <b>Cadenamiento Final (km):</b> 51+600 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 35 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/36.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 50+000 AL 55+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 52+830 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">52+930 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°42 46.8  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°56 36.77   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 42 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.713,
+-93.94354722,
+ 'KM 50+000 AL 55+000',
+' <b>Cadenamiento Inicial(km): </b> 52+830 <br> <b>Cadenamiento Final (km):</b> 52+930 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 36 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/37.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 50+000 AL 55+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 52+930 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">53+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°42 40.15  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°56 27.64   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 25 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.71115278,
+-93.94101111,
+ 'KM 50+000 AL 55+000',
+' <b>Cadenamiento Inicial(km): </b> 52+930 <br> <b>Cadenamiento Final (km):</b> 53+500 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 37 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/38.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 55+000 AL 60+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 56+400 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">56+500 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">BUENA</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°41 32.37  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°54 52.06   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 20 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.692325,
+-93.91446111,
+ 'KM 55+000 AL 60+000',
+' <b>Cadenamiento Inicial(km): </b> 56+400 <br> <b>Cadenamiento Final (km):</b> 56+500 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 38 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/39.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 55+000 AL 60+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 58+030 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">58+035 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">REGULAR, INICIA SOCAVACIÓN DE ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°41 19.7  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°54 11.4   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 28 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.68880556,
+-93.90316667,
+ 'KM 55+000 AL 60+000',
+' <b>Cadenamiento Inicial(km): </b> 58+030 <br> <b>Cadenamiento Final (km):</b> 58+035 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 39 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/40.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 85+000 AL 90+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 87+980 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">87+995 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA PRESENTA SOCAVACIÓN DE ESTRUCTURAS DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°32 41.8  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°39 59.7   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 47 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.54494444,
+-93.66658333,
+ 'KM 85+000 AL 90+000',
+' <b>Cadenamiento Inicial(km): </b> 87+980 <br> <b>Cadenamiento Final (km):</b> 87+995 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 40 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/41.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 105+000 AL 110+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 109+140 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">109+152 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA PRESENTA SOCAVACIÓN DE ESTRUCTURAS DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°22 40.1  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°36 02.1   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 231.1 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.37780556,
+-93.60058333,
+ 'KM 105+000 AL 110+000',
+' <b>Cadenamiento Inicial(km): </b> 109+140 <br> <b>Cadenamiento Final (km):</b> 109+152 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 41 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/42.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 115+000 AL 120+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 118+050 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">118+080 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">MALA PRESENTA SOCAVACIÓN DE ESTRUCTURAS DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°17 56.0  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°35 13.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 210 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.29888889,
+-93.587,
+ 'KM 115+000 AL 120+000',
+' <b>Cadenamiento Inicial(km): </b> 118+050 <br> <b>Cadenamiento Final (km):</b> 118+080 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 42 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/43.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 130+000 AL 135+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 132+790 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">132+785 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> IZQUIERDO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">REGULAR, INICIA SOCAVACIÓN DE ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°11 25.2  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°33 18.2   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 230 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.19033333,
+-93.55505556,
+ 'KM 130+000 AL 135+000',
+' <b>Cadenamiento Inicial(km): </b> 132+790 <br> <b>Cadenamiento Final (km):</b> 132+785 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 43 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
+
+
+['<div id="fixedWindow">' +
+ '<img src="img/Terraplenes/44.JPG" alt="Imagen de Terraplenes">' +
+'<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 140+000 AL 145+000 </h4>' +
+'<h5 class="subTitle"> Cadenamiento inicial(km) </h5> <p class="description"> 143+790 </p>' +
+'<h5 class="subTitle"> Cadenamiento Final (km) </h5> <p class="description">143+805 </p>' +
+'<h5 class="subTitle"> Cuerpo </h5> <p class="description"> UNICO </p>' +
+'<h5 class="subTitle"> Lado </h5> <p class="description"> DERECHO </p>' +
+'<h5 class="subTitle"> Condición </h5> <p class="description">REGULAR, INICIA SOCAVACIÓN DE ESTRUCTURA DEL PAVIMENTO.</p>' +
+'<h5 class="subTitle"> Latitud_Ini </h5> <p class="description"> 17°07 14.6  </p>' +
+'<h5 class="subTitle"> Longitud_Ini </h5> <p class="description"> 93°35 31.7   </p>' +
+'<h5 class="subTitle"> Altitud </h5> <p class="description"> 208.3 M.S.N.M. </p>' +
+'<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
+'</div>', 
+17.12072222,
+-93.59213889,
+ 'KM 140+000 AL 145+000',
+' <b>Cadenamiento Inicial(km): </b> 143+790 <br> <b>Cadenamiento Final (km):</b> 143+805 <br> <b>Cuerpo:</b> UNICO',
+'<a class="hvr-bounce-to-right" onClick="justOne( 44 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],    
         
 ];
 
@@ -24,15 +901,15 @@ function initialize() {
 
     //Map options
     var mapOptions = {
-        zoom:10,
-        center: new google.maps.LatLng(17.910078, -94.937305),
+        zoom:9,
+        center: new google.maps.LatLng(17.519428, -93.848432),
         mapTypeId: google.maps.MapTypeId.TERRAIN,
         scaleControl: false,
         mapTypeControl: false,
         zoomControl: false,
         disableDoubleClickZoom: true,
         keyboardShortcuts: false,
-        minZoom: 9,
+        minZoom: 5,
         streetView: panorama
     };
 
@@ -470,14 +1347,14 @@ function filterMarkers(category) {
             marker.setVisible(true);
              fullList += "<div class='squareInfo borderSquareInfoTerraplenes'>"+ "<div class ='titleSquareInfo'>"+"Terraplen # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
-             map.setZoom(10);
+             map.setZoom(9);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
             fullList += "<div class='squareInfo borderSquareInfoTerraplenes'>"+ "<div class ='titleSquareInfo'>"+"Terraplen # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
-            map.setZoom(10);
+            map.setZoom(9);
         }
 
         else {
@@ -512,7 +1389,7 @@ function justOne(pos, scrollPosition) {
             marker.setVisible(true);
             fullList += locations[i][0] + " " + "<br>" + "<br>";
             map.setCenter(marker.getPosition());
-            map.setZoom(10);
+            map.setZoom(9);
 
         } else {
             marker.setVisible(false);
@@ -564,7 +1441,7 @@ function back() {
     //end
 
     //console.log(selectValue);
-    map.setZoom(10);
+    map.setZoom(9);
 
 
     for (i = 0; i < locations.length; i++) {
