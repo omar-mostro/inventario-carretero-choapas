@@ -5,7 +5,7 @@ var currentScrollPosition;
 var infowindow = new google.maps.InfoWindow();
 
    //locations array, contains the html to dsiplay the total info, the coordinates of all the services, a category to make the filter and a kilometer of the location service to display in the filter
-    var locations = [
+var locations = [
 ['<div id="fixedWindow">' +
  '<img src="img/Terraplenes/1.JPG" alt="Imagen de Terraplenes">' +
 '<h4 class="fixedWindowTitle titleTerraplenes">Relación de Terraplenes Subtramo:KM 0+000 AL 5+000 </h4>' +
