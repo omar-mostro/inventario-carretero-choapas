@@ -23,7 +23,7 @@ var infowindow = new google.maps.InfoWindow();
 18.04301667,
 -94.23315833,
  'GASOLINERA',
-' <b>Kilometro: </b> 6+100.00 <br> <b>Tipo:</b> GASOLINERA',
+' <b>Kilómetro: </b> 6+100.00 <br> <b>Tipo:</b> GASOLINERA',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -43,7 +43,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94882222,
 -94.1743,
  'SANITARIOS',
-' <b>Kilometro: </b> 16+200.00 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 16+200.00 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -63,7 +63,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94845,
 -94.17412778,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 16+250.00 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 16+250.00 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -83,7 +83,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94295,
 -94.17130833,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 16+930.00 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 16+930.00 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -103,7 +103,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94261667,
 -94.17113889,
  'SANITARIOS',
-' <b>Kilometro: </b> 16+970.00 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 16+970.00 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -123,7 +123,7 @@ var infowindow = new google.maps.InfoWindow();
 17.64435556,
 -93.82544444,
  'SAGARPA',
-' <b>Kilometro: </b> 67+690.00 <br> <b>Tipo:</b> SAGARPA',
+' <b>Kilómetro: </b> 67+690.00 <br> <b>Tipo:</b> SAGARPA',
 '<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -143,7 +143,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34727778,
 -93.58557222,
  'SANITARIOS',
-' <b>Kilometro: </b> 112+920 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 112+920 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -163,7 +163,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34655556,
 -93.58511389,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 112+940 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 112+940 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -183,7 +183,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34655556,
 -93.58511389,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 112+940 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 112+940 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -203,7 +203,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34573333,
 -93.58463056,
  'SANITARIOS',
-' <b>Kilometro: </b> 113+000 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 113+000 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -223,7 +223,7 @@ var infowindow = new google.maps.InfoWindow();
 17.01719444,
 -93.51037778,
  'RAMPA DE EMERGENCIA',
-' <b>Kilometro: </b> 160+350 <br> <b>Tipo:</b> RAMPA DE EMERGENCIA',
+' <b>Kilómetro: </b> 160+350 <br> <b>Tipo:</b> RAMPA DE EMERGENCIA',
 '<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -243,7 +243,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86268889,
 -93.40631111,
  'SANITARIOS',
-' <b>Kilometro: </b> 182+080 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 182+080 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -263,7 +263,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86236667,
 -93.40550833,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 182+170 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 182+170 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -283,7 +283,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86232778,
 -93.40486389,
  'ESTACIONAMIENTO',
-' <b>Kilometro: </b> 182+240 <br> <b>Tipo:</b> ESTACIONAMIENTO',
+' <b>Kilómetro: </b> 182+240 <br> <b>Tipo:</b> ESTACIONAMIENTO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -303,7 +303,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86208333,
 -93.40426389,
  'SANITARIOS',
-' <b>Kilometro: </b> 182+310 <br> <b>Tipo:</b> SANITARIOS',
+' <b>Kilómetro: </b> 182+310 <br> <b>Tipo:</b> SANITARIOS',
 '<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 ];
@@ -766,14 +766,14 @@ function filterMarkers(category) {
 
         if (locations[i][3] == category && category.length != 0) {
             marker.setVisible(true);
-             fullList += "<div class='squareInfo borderSquareInfoServicios'>"+ "<div class ='titleSquareInfo'>"+"Servicio # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+             fullList += "<div class='squareInfo borderSquareInfoServicios'>"+ "<div class ='titleSquareInfo'>"+"Servicio # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
              map.setZoom(9);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
-            fullList += "<div class='squareInfo borderSquareInfoServicios'>"+ "<div class ='titleSquareInfo'>"+"Servicio # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoServicios'>"+ "<div class ='titleSquareInfo'>"+"Servicio # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
             map.setZoom(9);
         }

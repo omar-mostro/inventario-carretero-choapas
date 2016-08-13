@@ -22,7 +22,7 @@ var infowindow = new google.maps.InfoWindow();
 18.06820833,
 -94.24973611,
  'KM 0+000 AL 5+000',
-' <b>Kilometro: </b> 0+500.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 0+500.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -42,7 +42,7 @@ var infowindow = new google.maps.InfoWindow();
 18.04301667,
 -94.23315833,
  'KM 0+000 AL 5+000',
-' <b>Kilometro: </b> 4+040.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 4+040.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -62,7 +62,7 @@ var infowindow = new google.maps.InfoWindow();
 17.97488333,
 -94.18738611,
  'KM 10+000 AL 15+000',
-' <b>Kilometro: </b> 13+030.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 13+030.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -82,7 +82,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94374167,
 -94.1717,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 16+830.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 16+830.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -102,7 +102,7 @@ var infowindow = new google.maps.InfoWindow();
 17.93838889,
 -94.16903056,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 17+480.00 <br> <b>Tipo:</b> PSV <br> <b>Descripción:</b> P.S.V.',
+' <b>Kilómetro: </b> 17+480.00 <br> <b>Tipo:</b> PSV <br> <b>Descripción:</b> P.S.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -122,7 +122,7 @@ var infowindow = new google.maps.InfoWindow();
 17.93234722,
 -94.16595,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 18+230.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 18+230.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -142,7 +142,7 @@ var infowindow = new google.maps.InfoWindow();
 17.90859722,
 -94.1461,
  'KM 20+000 AL 25+000',
-' <b>Kilometro: </b> 21+650.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 21+650.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -162,7 +162,7 @@ var infowindow = new google.maps.InfoWindow();
 17.90285833,
 -94.14099444,
  'KM 20+000 AL 25+000',
-' <b>Kilometro: </b> 22+490.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 22+490.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -182,7 +182,7 @@ var infowindow = new google.maps.InfoWindow();
 17.89845556,
 -94.13703333,
  'KM 20+000 AL 25+000',
-' <b>Kilometro: </b> 23+150.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 23+150.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -202,7 +202,7 @@ var infowindow = new google.maps.InfoWindow();
 17.88905278,
 -94.12855556,
  'KM 20+000 AL 25+000',
-' <b>Kilometro: </b> 24+530.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 24+530.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -222,7 +222,7 @@ var infowindow = new google.maps.InfoWindow();
 17.88493056,
 -94.12530278,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 25+050.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 25+050.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -242,7 +242,7 @@ var infowindow = new google.maps.InfoWindow();
 17.88052778,
 -94.12221111,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 25+640.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> F.F.C.C.',
+' <b>Kilómetro: </b> 25+640.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> F.F.C.C.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -262,7 +262,7 @@ var infowindow = new google.maps.InfoWindow();
 17.87225833,
 -94.11626667,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 26+820.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 26+820.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -282,7 +282,7 @@ var infowindow = new google.maps.InfoWindow();
 17.865825,
 -94.11165556,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 27+700.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 27+700.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -302,7 +302,7 @@ var infowindow = new google.maps.InfoWindow();
 17.86239722,
 -94.10920833,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 28+180.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 28+180.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -322,7 +322,7 @@ var infowindow = new google.maps.InfoWindow();
 17.85472778,
 -94.10355833,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 29+240.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 29+240.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 16 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -342,7 +342,7 @@ var infowindow = new google.maps.InfoWindow();
 17.84285556,
 -94.09224722,
  'KM 30+000 AL 35+000',
-' <b>Kilometro: </b> 31+010.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 31+010.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 17 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -362,7 +362,7 @@ var infowindow = new google.maps.InfoWindow();
 17.83475833,
 -94.08449444,
  'KM 30+000 AL 35+000',
-' <b>Kilometro: </b> 32+260.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 32+260.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -382,7 +382,7 @@ var infowindow = new google.maps.InfoWindow();
 17.8305,
 -94.08040278,
  'KM 30+000 AL 35+000',
-' <b>Kilometro: </b> 32+900.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 32+900.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 19 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -402,7 +402,7 @@ var infowindow = new google.maps.InfoWindow();
 17.82435278,
 -94.07459167,
  'KM 30+000 AL 35+000',
-' <b>Kilometro: </b> 33+850.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 33+850.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 20 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -422,7 +422,7 @@ var infowindow = new google.maps.InfoWindow();
 17.8017,
 -94.06165833,
  'KM 35+000 AL 40+000',
-' <b>Kilometro: </b> 36+730.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 36+730.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 21 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -442,7 +442,7 @@ var infowindow = new google.maps.InfoWindow();
 17.79470833,
 -94.057925,
  'KM 35+000 AL 40+000',
-' <b>Kilometro: </b> 37+610.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 37+610.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 22 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -462,7 +462,7 @@ var infowindow = new google.maps.InfoWindow();
 17.77269444,
 -94.04572778,
  'KM 40+000 AL 45+000',
-' <b>Kilometro: </b> 40+420.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 40+420.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 23 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -482,7 +482,7 @@ var infowindow = new google.maps.InfoWindow();
 17.77026944,
 -94.04000833,
  'KM 40+000 AL 45+000',
-' <b>Kilometro: </b> 40+820.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CICHOAPAN',
+' <b>Kilómetro: </b> 40+820.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CICHOAPAN',
 '<a class="hvr-bounce-to-right" onClick="justOne( 24 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -502,7 +502,7 @@ var infowindow = new google.maps.InfoWindow();
 17.76885556,
 -94.03527222,
  'KM 40+000 AL 45+000',
-' <b>Kilometro: </b> 41+340.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CAUCE LAGUNA',
+' <b>Kilómetro: </b> 41+340.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CAUCE LAGUNA',
 '<a class="hvr-bounce-to-right" onClick="justOne( 25 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -522,7 +522,7 @@ var infowindow = new google.maps.InfoWindow();
 17.76538333,
 -94.02366111,
  'KM 40+000 AL 45+000',
-' <b>Kilometro: </b> 42+640.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CUCHUAPA',
+' <b>Kilómetro: </b> 42+640.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO CUCHUAPA',
 '<a class="hvr-bounce-to-right" onClick="justOne( 26 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -542,7 +542,7 @@ var infowindow = new google.maps.InfoWindow();
 17.75718611,
 -94.00418056,
  'KM 40+000 AL 45+000',
-' <b>Kilometro: </b> 44+890.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 44+890.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 27 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -562,7 +562,7 @@ var infowindow = new google.maps.InfoWindow();
 17.74996667,
 -93.99422778,
  'KM 45+000 AL 50+000',
-' <b>Kilometro: </b> 46+230.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
+' <b>Kilómetro: </b> 46+230.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> P.I.V.',
 '<a class="hvr-bounce-to-right" onClick="justOne( 28 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -582,7 +582,7 @@ var infowindow = new google.maps.InfoWindow();
 17.73707778,
 -93.97663611,
  'KM 45+000 AL 50+000',
-' <b>Kilometro: </b> 48+590.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO PLAYA I',
+' <b>Kilómetro: </b> 48+590.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO PLAYA I',
 '<a class="hvr-bounce-to-right" onClick="justOne( 29 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -602,7 +602,7 @@ var infowindow = new google.maps.InfoWindow();
 17.736125,
 -93.97529167,
  'KM 45+000 AL 50+000',
-' <b>Kilometro: </b> 48+770.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO PLAYA II',
+' <b>Kilómetro: </b> 48+770.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> RÍO PLAYA II',
 '<a class="hvr-bounce-to-right" onClick="justOne( 30 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
         
 ['<div id="fixedWindow">' +
@@ -621,7 +621,7 @@ var infowindow = new google.maps.InfoWindow();
 17.70512222,
 -93.93287222,
  'KM 50+000 AL 55+000',
-' <b>Kilometro: </b> 54+420.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 54+420.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 31 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -641,7 +641,7 @@ var infowindow = new google.maps.InfoWindow();
 17.69942222,
 -93.92506667,
  'KM 55+000 AL 60+000',
-' <b>Kilometro: </b> 55+460.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 55+460.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 32 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -661,7 +661,7 @@ var infowindow = new google.maps.InfoWindow();
 17.69508056,
 -93.91793889,
  'KM 55+000 AL 60+000',
-' <b>Kilometro: </b> 56+350.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 56+350.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 33 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -681,7 +681,7 @@ var infowindow = new google.maps.InfoWindow();
 17.69029167,
 -93.9067,
  'KM 55+000 AL 60+000',
-' <b>Kilometro: </b> 57+660.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 57+660.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 34 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -701,7 +701,7 @@ var infowindow = new google.maps.InfoWindow();
 17.68800833,
 -93.90143056,
  'KM 55+000 AL 60+000',
-' <b>Kilometro: </b> 58+280.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 58+280.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 35 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -721,7 +721,7 @@ var infowindow = new google.maps.InfoWindow();
 17.67355556,
 -93.87480556,
  'KM 60+000 AL 65+000',
-' <b>Kilometro: </b> 61+530.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 61+530.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 36 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -741,7 +741,7 @@ var infowindow = new google.maps.InfoWindow();
 17.66896944,
 -93.86736667,
  'KM 60+000 AL 65+000',
-' <b>Kilometro: </b> 62+470.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 62+470.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 37 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -761,7 +761,7 @@ var infowindow = new google.maps.InfoWindow();
 17.65458056,
 -93.84389722,
  'KM 65+000 AL 70+000',
-' <b>Kilometro: </b> 65+420.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 65+420.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 38 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -781,7 +781,7 @@ var infowindow = new google.maps.InfoWindow();
 17.64385,
 -93.82445,
  'KM 65+000 AL 70+000',
-' <b>Kilometro: </b> 67+810.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 67+810.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 39 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -801,7 +801,7 @@ var infowindow = new google.maps.InfoWindow();
 17.62729722,
 -93.79300833,
  'KM 70+000 AL 75+000',
-' <b>Kilometro: </b> 71+620.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 71+620.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 40 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -821,7 +821,7 @@ var infowindow = new google.maps.InfoWindow();
 17.625675,
 -93.78998889,
  'KM 70+000 AL 75+000',
-' <b>Kilometro: </b> 72+030.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 72+030.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 41 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -841,7 +841,7 @@ var infowindow = new google.maps.InfoWindow();
 17.59624722,
 -93.73048889,
  'KM 75+000 AL 80+000',
-' <b>Kilometro: </b> 79+100.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 79+100.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 42 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -861,7 +861,7 @@ var infowindow = new google.maps.InfoWindow();
 17.57557778,
 -93.70561111,
  'KM 80+000 AL 85+000',
-' <b>Kilometro: </b> 82+620.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 82+620.00 <br> <b>Tipo:</b> PIV <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 43 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -881,7 +881,7 @@ var infowindow = new google.maps.InfoWindow();
 17.58819444,
 -93.71864167,
  'KM 80+000 AL 85+000',
-' <b>Kilometro: </b> 80+700.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 80+700.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 44 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -901,7 +901,7 @@ var infowindow = new google.maps.InfoWindow();
 17.56008611,
 -93.68705278,
  'KM 85+000 AL 90+000',
-' <b>Kilometro: </b> 85+290.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 85+290.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 45 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -921,7 +921,7 @@ var infowindow = new google.maps.InfoWindow();
 17.55311389,
 -93.67538333,
  'KM 85+000 AL 90+000',
-' <b>Kilometro: </b> 86+690.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 86+690.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 46 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -941,7 +941,7 @@ var infowindow = new google.maps.InfoWindow();
 17.53471944,
 -93.6557,
  'KM 85+000 AL 90+000',
-' <b>Kilometro: </b> 89+620.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 89+620.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 47 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -961,7 +961,7 @@ var infowindow = new google.maps.InfoWindow();
 17.49668056,
 -93.63674167,
  'KM 90+000 AL 95+000',
-' <b>Kilometro: </b> 94+330.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 94+330.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 48 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -981,7 +981,7 @@ var infowindow = new google.maps.InfoWindow();
 17.48124722,
 -93.63248611,
  'KM 95+000 AL 100+000',
-' <b>Kilometro: </b> 96+150.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 96+150.00 <br> <b>Tipo:</b> PUENTE <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 49 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -998,10 +998,10 @@ var infowindow = new google.maps.InfoWindow();
 '<h5 class="subTitle"> Altitud </h5> <p class="description"> 171.15 </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-17.45911944,
--93.61628333,
+ 17.415974,
+-93.616315,
  'KM 100+000 AL 105+000',
-' <b>Kilometro: </b> 104+090 <br> <b>Tipo:</b> PIV 1 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 104+090 <br> <b>Tipo:</b> PIV 1 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 50 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1021,7 +1021,7 @@ var infowindow = new google.maps.InfoWindow();
 17.36524444,
 -93.59255278,
  'KM 110+000 AL 115+000',
-' <b>Kilometro: </b> 110+790 <br> <b>Tipo:</b> PIV 2 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 110+790 <br> <b>Tipo:</b> PIV 2 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 51 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1041,7 +1041,7 @@ var infowindow = new google.maps.InfoWindow();
 17.348075,
 -93.58585556,
  'KM 110+000 AL 115+000',
-' <b>Kilometro: </b> 112+830 <br> <b>Tipo:</b> PIV 3 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 112+830 <br> <b>Tipo:</b> PIV 3 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 52 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1061,7 +1061,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34279722,
 -93.58492778,
  'KM 110+000 AL 115+000',
-' <b>Kilometro: </b> 113+330 <br> <b>Tipo:</b> PUENTE 1 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 113+330 <br> <b>Tipo:</b> PUENTE 1 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 53 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1081,7 +1081,7 @@ var infowindow = new google.maps.InfoWindow();
 17.32683889,
 -93.59173889,
  'KM 115+000 AL 120+000',
-' <b>Kilometro: </b> 115+370 <br> <b>Tipo:</b> PIV 4 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 115+370 <br> <b>Tipo:</b> PIV 4 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 54 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1101,7 +1101,7 @@ var infowindow = new google.maps.InfoWindow();
 17.25739167,
 -93.56706389,
  'KM 120+000 AL 125+000',
-' <b>Kilometro: </b> 124+040 <br> <b>Tipo:</b> PSV 1 <br> <b>Descripción:</b> PSV',
+' <b>Kilómetro: </b> 124+040 <br> <b>Tipo:</b> PSV 1 <br> <b>Descripción:</b> PSV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 55 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1121,7 +1121,7 @@ var infowindow = new google.maps.InfoWindow();
 17.22250278,
 -93.55495556,
  'KM 125+000 AL 130+000',
-' <b>Kilometro: </b> 128+880 <br> <b>Tipo:</b> PUENTE 2 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 128+880 <br> <b>Tipo:</b> PUENTE 2 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 56 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1141,7 +1141,7 @@ var infowindow = new google.maps.InfoWindow();
 17.18659167,
 -93.56443056,
  'KM 130+000 AL 135+000',
-' <b>Kilometro: </b> 134+030 <br> <b>Tipo:</b> PIV 5 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 134+030 <br> <b>Tipo:</b> PIV 5 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 57 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1161,7 +1161,7 @@ var infowindow = new google.maps.InfoWindow();
 17.17140278,
 -93.58239444,
  'KM 135+000 AL 140+000',
-' <b>Kilometro: </b> 137+200 <br> <b>Tipo:</b> PIV 6 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 137+200 <br> <b>Tipo:</b> PIV 6 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 58 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1181,7 +1181,7 @@ var infowindow = new google.maps.InfoWindow();
 17.16934722,
 -93.58791111,
  'KM 135+000 AL 140+000',
-' <b>Kilometro: </b> 137+840 <br> <b>Tipo:</b> PUENTE 3 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 137+840 <br> <b>Tipo:</b> PUENTE 3 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 59 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1201,7 +1201,7 @@ var infowindow = new google.maps.InfoWindow();
 17.15175833,
 -93.59445556,
  'KM 140+000 AL 145+000',
-' <b>Kilometro: </b> 140+090 <br> <b>Tipo:</b> PUENTE 4 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 140+090 <br> <b>Tipo:</b> PUENTE 4 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 60 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1221,7 +1221,7 @@ var infowindow = new google.maps.InfoWindow();
 17.11949167,
 -93.58823056,
  'KM 140+000 AL 145+000',
-' <b>Kilometro: </b> 144+170 <br> <b>Tipo:</b> PIV 7 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 144+170 <br> <b>Tipo:</b> PIV 7 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 61 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1241,7 +1241,7 @@ var infowindow = new google.maps.InfoWindow();
 17.09823056,
 -93.58799722,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 146+990 <br> <b>Tipo:</b> PIV 8 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 146+990 <br> <b>Tipo:</b> PIV 8 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 62 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1261,7 +1261,7 @@ var infowindow = new google.maps.InfoWindow();
 17.08929444,
 -93.58441667,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 148+070 <br> <b>Tipo:</b> PIV 9 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 148+070 <br> <b>Tipo:</b> PIV 9 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 63 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1281,7 +1281,7 @@ var infowindow = new google.maps.InfoWindow();
 17.08110556,
 -93.57863889,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 149+190 <br> <b>Tipo:</b> PSV 2 <br> <b>Descripción:</b> PSV',
+' <b>Kilómetro: </b> 149+190 <br> <b>Tipo:</b> PSV 2 <br> <b>Descripción:</b> PSV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 64 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1301,7 +1301,7 @@ var infowindow = new google.maps.InfoWindow();
 17.0729,
 -93.57581111,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 150+000 <br> <b>Tipo:</b> PIV 10 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 150+000 <br> <b>Tipo:</b> PIV 10 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 65 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1321,7 +1321,7 @@ var infowindow = new google.maps.InfoWindow();
 17.06439722,
 -93.57465278,
  'KM 150+000 AL 155+000',
-' <b>Kilometro: </b> 150+930 <br> <b>Tipo:</b> PIV 1 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 150+930 <br> <b>Tipo:</b> PIV 1 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 66 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1341,7 +1341,7 @@ var infowindow = new google.maps.InfoWindow();
 17.05471111,
 -93.56753056,
  'KM 150+000 AL 155+000',
-' <b>Kilometro: </b> 152+450 <br> <b>Tipo:</b> PUENTE 1 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 152+450 <br> <b>Tipo:</b> PUENTE 1 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 67 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1361,7 +1361,7 @@ var infowindow = new google.maps.InfoWindow();
 17.04101389,
 -93.55267778,
  'KM 150+000 AL 155+000',
-' <b>Kilometro: </b> 154+780 <br> <b>Tipo:</b> PSV 1 <br> <b>Descripción:</b> PSV',
+' <b>Kilómetro: </b> 154+780 <br> <b>Tipo:</b> PSV 1 <br> <b>Descripción:</b> PSV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 68 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1381,7 +1381,7 @@ var infowindow = new google.maps.InfoWindow();
 17.03743056,
 -93.54919444,
  'KM 155+000 AL 160+000',
-' <b>Kilometro: </b> 155+160 <br> <b>Tipo:</b> PIV 2 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 155+160 <br> <b>Tipo:</b> PIV 2 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 69 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1401,7 +1401,7 @@ var infowindow = new google.maps.InfoWindow();
 17.03350556,
 -93.54135,
  'KM 155+000 AL 160+000',
-' <b>Kilometro: </b> 156+040 <br> <b>Tipo:</b> PIV 3 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 156+040 <br> <b>Tipo:</b> PIV 3 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 70 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1421,7 +1421,7 @@ var infowindow = new google.maps.InfoWindow();
 17.02481389,
 -93.51902778,
  'KM 155+000 AL 160+000',
-' <b>Kilometro: </b> 159+080 <br> <b>Tipo:</b> PUENTE 2 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 159+080 <br> <b>Tipo:</b> PUENTE 2 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 71 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1441,7 +1441,7 @@ var infowindow = new google.maps.InfoWindow();
 17.01911667,
 -93.51181944,
  'KM 160+000 AL 165+000',
-' <b>Kilometro: </b> 160+080 <br> <b>Tipo:</b> PIV 4 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 160+080 <br> <b>Tipo:</b> PIV 4 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 72 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1461,7 +1461,7 @@ var infowindow = new google.maps.InfoWindow();
 16.99523333,
 -93.49478333,
  'KM 155+000 AL 160+000',
-' <b>Kilometro: </b> 163+420 <br> <b>Tipo:</b> PIV 5 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 163+420 <br> <b>Tipo:</b> PIV 5 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 73 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1481,7 +1481,7 @@ var infowindow = new google.maps.InfoWindow();
 16.97251667,
 -93.48198889,
  'KM 165+000 AL 170+000',
-' <b>Kilometro: </b> 166+410 <br> <b>Tipo:</b> PSV 3 <br> <b>Descripción:</b> PSV',
+' <b>Kilómetro: </b> 166+410 <br> <b>Tipo:</b> PSV 3 <br> <b>Descripción:</b> PSV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 74 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1501,7 +1501,7 @@ var infowindow = new google.maps.InfoWindow();
 16.95451667,
 -93.47880833,
  'KM 165+000 AL 170+000',
-' <b>Kilometro: </b> 168+530 <br> <b>Tipo:</b> PIV 6 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 168+530 <br> <b>Tipo:</b> PIV 6 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 75 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1518,10 +1518,10 @@ var infowindow = new google.maps.InfoWindow();
 '<h5 class="subTitle"> Altitud </h5> <p class="description"> 877.15 </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-15.92224167,
--93.45293611,
+16.922242,
+-93.452936,
  'KM 170+000 AL 175+000',
-' <b>Kilometro: </b> 173+100 <br> <b>Tipo:</b> PSV 4 <br> <b>Descripción:</b> PSV',
+' <b>Kilómetro: </b> 173+100 <br> <b>Tipo:</b> PSV 4 <br> <b>Descripción:</b> PSV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 76 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1541,7 +1541,7 @@ var infowindow = new google.maps.InfoWindow();
 16.89429167,
 -93.43078056,
  'KM 175+000 AL 180+000',
-' <b>Kilometro: </b> 177+460 <br> <b>Tipo:</b> PIV 7 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 177+460 <br> <b>Tipo:</b> PIV 7 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 77 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1561,7 +1561,7 @@ var infowindow = new google.maps.InfoWindow();
 16.88649444,
 -93.42224444,
  'KM 175+000 AL 180+000',
-' <b>Kilometro: </b> 178+760 <br> <b>Tipo:</b> PIV 8 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 178+760 <br> <b>Tipo:</b> PIV 8 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 78 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1581,7 +1581,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86880556,
 -93.41404722,
  'KM 180+000 AL 185+000',
-' <b>Kilometro: </b> 180+990 <br> <b>Tipo:</b> PIV 9 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 180+990 <br> <b>Tipo:</b> PIV 9 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 79 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1601,7 +1601,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86766667,
 -93.41379722,
  'KM 180+000 AL 185+000',
-' <b>Kilometro: </b> 181+110 <br> <b>Tipo:</b> PUENTE 3 <br> <b>Descripción:</b> PUENTE',
+' <b>Kilómetro: </b> 181+110 <br> <b>Tipo:</b> PUENTE 3 <br> <b>Descripción:</b> PUENTE',
 '<a class="hvr-bounce-to-right" onClick="justOne( 80 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1621,7 +1621,7 @@ var infowindow = new google.maps.InfoWindow();
 16.863575,
 -93.40792222,
  'KM 180+000 AL 185+000',
-' <b>Kilometro: </b> 181+910 <br> <b>Tipo:</b> PIV 10 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 181+910 <br> <b>Tipo:</b> PIV 10 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 81 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1641,7 +1641,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86107222,
 -93.40228611,
  'KM 180+000 AL 185+000',
-' <b>Kilometro: </b> 182+550 <br> <b>Tipo:</b> PIV 11 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 182+550 <br> <b>Tipo:</b> PIV 11 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 82 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1661,7 +1661,7 @@ var infowindow = new google.maps.InfoWindow();
 16.83378611,
 -93.38164167,
  'KM 185+000 AL 190+000',
-' <b>Kilometro: </b> 186+380 <br> <b>Tipo:</b> PIV 12 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 186+380 <br> <b>Tipo:</b> PIV 12 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 83 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1681,7 +1681,7 @@ var infowindow = new google.maps.InfoWindow();
 16.80933889,
 -93.36389167,
  'KM 185+000 AL 190+000',
-' <b>Kilometro: </b> 189+750 <br> <b>Tipo:</b> PIV 13 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 189+750 <br> <b>Tipo:</b> PIV 13 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 84 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -1701,7 +1701,7 @@ var infowindow = new google.maps.InfoWindow();
 16.769,
 -93.31597222,
  'KM 195+000 AL 197+500',
-' <b>Kilometro: </b> 196+690 <br> <b>Tipo:</b> PIV 14 <br> <b>Descripción:</b> PIV',
+' <b>Kilómetro: </b> 196+690 <br> <b>Tipo:</b> PIV 14 <br> <b>Descripción:</b> PIV',
 '<a class="hvr-bounce-to-right" onClick="justOne( 85 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
     ];
 
@@ -2163,14 +2163,14 @@ function filterMarkers(category) {
 
         if (locations[i][3] == category && category.length != 0) {
             marker.setVisible(true);
-             fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+             fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
              map.setZoom(9);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
-            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoEstructuras'>"+ "<div class ='titleSquareInfo'>"+"Puente # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
             map.setZoom(9);
         }

@@ -23,7 +23,7 @@ var infowindow = new google.maps.InfoWindow();
 18.06842778,
 -94.25426389,
  'KM 0+000 AL 5+000',
-' <b>Kilometro: </b> 0+300.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
+' <b>Kilómetro: </b> 0+300.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -43,7 +43,7 @@ var infowindow = new google.maps.InfoWindow();
 18.068225,
 -94.24973889,
  'KM 0+000 AL 5+000',
-' <b>Kilometro: </b> 0+560.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 0+560.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -63,7 +63,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94721667,
 -94.17339722,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 16+600.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
+' <b>Kilómetro: </b> 16+600.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -83,7 +83,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94291111,
 -94.17211944,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 16+800.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 16+800.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -103,7 +103,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94037778,
 -94.170075,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 17+000.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
+' <b>Kilómetro: </b> 17+000.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -123,7 +123,7 @@ var infowindow = new google.maps.InfoWindow();
 17.85454722,
 -94.10338333,
  'KM 25+000 AL 30+000',
-' <b>Kilometro: </b> 29+260.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 29+260.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -143,7 +143,7 @@ var infowindow = new google.maps.InfoWindow();
 17.75663056,
 -94.00340556,
  'KM 45+000 AL 50+000',
-' <b>Kilometro: </b> 45+010.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
+' <b>Kilómetro: </b> 45+010.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -163,7 +163,7 @@ var infowindow = new google.maps.InfoWindow();
 17.66961111,
 -93.86831944,
  'KM 60+000 AL 65+000',
-' <b>Kilometro: </b> 62+340.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 62+340.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -183,7 +183,7 @@ var infowindow = new google.maps.InfoWindow();
 17.6683,
 -93.8662,
  'KM 60+000 AL 65+000',
-' <b>Kilometro: </b> 62+610.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 62+610.00 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -203,7 +203,7 @@ var infowindow = new google.maps.InfoWindow();
 17.365875,
 -93.59275278,
  'KM 110+000 AL 115+000',
-' <b>Kilometro: </b> 110+710 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
+' <b>Kilómetro: </b> 110+710 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -223,7 +223,7 @@ var infowindow = new google.maps.InfoWindow();
 17.2584,
 -93.56765833,
  'KM 120+000 AL 125+000',
-' <b>Kilometro: </b> 123+910 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 123+910 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -243,7 +243,7 @@ var infowindow = new google.maps.InfoWindow();
 17.18646944,
 -93.56286667,
  'KM 130+000 AL 135+000',
-' <b>Kilometro: </b> 133+960 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
+' <b>Kilómetro: </b> 133+960 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQ/DER',
 '<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -263,7 +263,7 @@ var infowindow = new google.maps.InfoWindow();
 17.08314167,
 -93.58054444,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 148+890 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
+' <b>Kilómetro: </b> 148+890 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -283,7 +283,7 @@ var infowindow = new google.maps.InfoWindow();
 17.07921111,
 -93.57715556,
  'KM 145+000 AL 150+000',
-' <b>Kilometro: </b> 149+450 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
+' <b>Kilómetro: </b> 149+450 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -303,7 +303,7 @@ var infowindow = new google.maps.InfoWindow();
 17.05538333,
 -93.56819444,
  'KM 150+000 AL 155+000',
-' <b>Kilometro: </b> 152+350 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
+' <b>Kilómetro: </b> 152+350 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -323,7 +323,7 @@ var infowindow = new google.maps.InfoWindow();
 17.02654444,
 -93.53226111,
  'KM 155+000 AL 160+000',
-' <b>Kilometro: </b> 157+360 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
+' <b>Kilómetro: </b> 157+360 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 16 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -343,7 +343,7 @@ var infowindow = new google.maps.InfoWindow();
 16.99611944,
 -93.49643611,
  'KM 160+000 AL 165+000',
-' <b>Kilometro: </b> 163+230 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DER/IZQ',
+' <b>Kilómetro: </b> 163+230 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DER/IZQ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 17 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -363,7 +363,7 @@ var infowindow = new google.maps.InfoWindow();
 16.76673889,
 -93.31491111,
  'KM 195+000 AL 197+500',
-' <b>Kilometro: </b> 196+950 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
+' <b>Kilómetro: </b> 196+950 <br> <b>Tipo:</b> ENTRONQUE <br> <b>Lado:</b>DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
     ];
@@ -827,14 +827,14 @@ function filterMarkers(category) {
 
         if (locations[i][3] == category && category.length != 0) {
             marker.setVisible(true);
-             fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+             fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
              map.setZoom(9);
 
         } else if (category == "all") {
 
             marker.setVisible(true);
-            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            fullList += "<div class='squareInfo borderSquareInfoIntersecciones'>"+ "<div class ='titleSquareInfo'>"+"Intersección # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
             servicesCounter++;
             map.setZoom(9);
         }

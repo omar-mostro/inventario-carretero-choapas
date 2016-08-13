@@ -23,7 +23,7 @@ var locations = [
 18.06966786,
 -94.2569845277778,
 '25 MTS ATRÁS DE LA EST. 0+000',
-'<b>Kilometro: </b> 25 MTS ATRÁS DE LA EST. 0+000 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 25 MTS ATRÁS DE LA EST. 0+000 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -45,7 +45,7 @@ var locations = [
 18.06956828,
 -94.2570121666667,
 '25 MTS ATRÁS DE LA EST. 0+000',
-'<b>Kilometro: </b> 25 MTS ATRÁS DE LA EST. 0+000 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 25 MTS ATRÁS DE LA EST. 0+000 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -67,7 +67,7 @@ var locations = [
 18.06916644,
 -94.2562723611111,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+060.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+060.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -89,7 +89,7 @@ var locations = [
 18.06878339,
 -94.2554193055555,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+160.00 <br> <b>Tipo:</b> PREVENTIVA            (SP-17)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+160.00 <br> <b>Tipo:</b> PREVENTIVA            (SP-17)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 4 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -111,7 +111,7 @@ var locations = [
 18.068583,
 -94.254581,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+270.00 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+270.00 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 5 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -133,7 +133,7 @@ var locations = [
 18.068357,
 -94.254053,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+327.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+327.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 6 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -155,7 +155,7 @@ var locations = [
 18.068328,
 -94.253234,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+400.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+400.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 7 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -177,7 +177,7 @@ var locations = [
 18.06814678,
 -94.2532606388889,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+400.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+400.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 8 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -199,7 +199,7 @@ var locations = [
 18.06814678,
 -94.2532606388889,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+400.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+400.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 9 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -221,7 +221,7 @@ var locations = [
 18.06808567,
 -94.2529295277778,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+437.98 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+437.98 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 10 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -243,7 +243,7 @@ var locations = [
 18.068029,
 -94.251753,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+563.00 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+563.00 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 11 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -265,7 +265,7 @@ var locations = [
 18.06795058,
 -94.2514641111111,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+571.51 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+571.51 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 12 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -287,7 +287,7 @@ var locations = [
 18.06785381,
 -94.2510571666667,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+592.51 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+592.51 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 13 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -309,7 +309,7 @@ var locations = [
 18.06772992,
 -94.2506500277778,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+600.00 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+600.00 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 14 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -331,7 +331,7 @@ var locations = [
 18.06757889,
 -94.2502521388889,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+636.54 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+636.54 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 15 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -353,7 +353,7 @@ var locations = [
 18.06740058,
 -94.2498729722222,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+680.76 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+680.76 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 16 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -375,7 +375,7 @@ var locations = [
 18.06730222,
 -94.2497116666667,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+768.70 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+768.70 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 17 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -397,7 +397,7 @@ var locations = [
 18.06714922,
 -94.2496160833333,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+807.56 <br> <b>Tipo:</b> INFORMACION GENERAL               (SIG-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 0+807.56 <br> <b>Tipo:</b> INFORMACION GENERAL               (SIG-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -419,7 +419,7 @@ var locations = [
 18.06694433,
 -94.2491611388889,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+858.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+858.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 19 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -441,7 +441,7 @@ var locations = [
 18.06667531,
 -94.248838,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+900.21 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+900.21 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 20 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -463,7 +463,7 @@ var locations = [
 18.066186,
 -94.248386,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 0+946.29 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 0+946.29 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 21 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -485,7 +485,7 @@ var locations = [
 18.06598333,
 -94.2482861111111,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 22 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -507,7 +507,7 @@ var locations = [
 18.06613056,
 -94.2480111111111,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 1+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 23 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -529,7 +529,7 @@ var locations = [
 18.06548056,
 -94.2479222222222,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+073.93 <br> <b>Tipo:</b>  RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+073.93 <br> <b>Tipo:</b>  RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 24 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -551,7 +551,7 @@ var locations = [
 18.06511111,
 -94.2476833333333,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+115.86 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+115.86 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 25 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -573,7 +573,7 @@ var locations = [
 18.0645,
 -94.2471694444444,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+201.89 <br> <b>Tipo:</b> INFORMACIÓN GENERAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 1+201.89 <br> <b>Tipo:</b> INFORMACIÓN GENERAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 26 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -595,7 +595,7 @@ var locations = [
 18.064482,
 -94.247283,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+201.89 <br> <b>Tipo:</b> INFORMACIÓN GENERAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+201.89 <br> <b>Tipo:</b> INFORMACIÓN GENERAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 27 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -617,7 +617,7 @@ var locations = [
 18.06321111,
 -94.2464222222222,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+364.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 1+364.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 28 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -639,7 +639,7 @@ var locations = [
 18.0632,
 -94.246575,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+364.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+364.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 29 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -661,7 +661,7 @@ var locations = [
 18.062585,
 -94.246215,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+447.30 <br> <b>Tipo:</b> PREVENTIVA            (SP-18)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+447.30 <br> <b>Tipo:</b> PREVENTIVA            (SP-18)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 30 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -683,7 +683,7 @@ var locations = [
 18.061692,
 -94.245656,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+568.25 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+568.25 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 31 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -705,7 +705,7 @@ var locations = [
 18.059892,
 -94.244603,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+772.89 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-4) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+772.89 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-4) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 32 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -727,7 +727,7 @@ var locations = [
 18.059892,
 -94.244603,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+772.89 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+772.89 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 33 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -749,7 +749,7 @@ var locations = [
 18.059892,
 -94.244603,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+772.89 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 1+772.89 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 34 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -771,7 +771,7 @@ var locations = [
 18.05956667,
 -94.2442916666667,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 1+827.08 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 1+827.08 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 35 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -793,7 +793,7 @@ var locations = [
 18.05816944,
 -94.2436277777778,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 36 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -815,7 +815,7 @@ var locations = [
 18.05828,
 -94.243627,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 2+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 37 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -837,7 +837,7 @@ var locations = [
 18.05761111,
 -94.2431444444444,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+075.60 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 2+075.60 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 38 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -859,7 +859,7 @@ var locations = [
 18.05746667,
 -94.2432083333333,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+085.13  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+085.13  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                    (SID-11)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 39 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -881,7 +881,7 @@ var locations = [
 18.056897,
 -94.242897,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+170.20  <br> <b>Tipo:</b> RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+170.20  <br> <b>Tipo:</b> RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 40 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -903,7 +903,7 @@ var locations = [
 18.056897,
 -94.242897,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+170.20  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+170.20  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 41 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -925,7 +925,7 @@ var locations = [
 18.055895,
 -94.242313,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+306.49  <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+306.49  <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 42 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -947,7 +947,7 @@ var locations = [
 18.054853,
 -94.241708,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+450.02 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+450.02 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 43 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -969,7 +969,7 @@ var locations = [
 18.05296667,
 -94.2404083333333,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+665.50  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 2+665.50  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 44 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -991,7 +991,7 @@ var locations = [
 18.050585,
 -94.238961,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+980.43  <br> <b>Tipo:</b> RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+980.43  <br> <b>Tipo:</b> RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 45 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1013,7 +1013,7 @@ var locations = [
 18.050585,
 -94.238961,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+980.43  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 2+980.43  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 46 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1035,7 +1035,7 @@ var locations = [
 18.05044722,
 -94.2386805555556,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+000.00 <br> <b>Tipo:</b> SEÑAL   RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+000.00 <br> <b>Tipo:</b> SEÑAL   RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 47 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1057,7 +1057,7 @@ var locations = [
 18.05044722,
 -94.2386805555556,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 2+993.53  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 2+993.53  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 48 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1079,7 +1079,7 @@ var locations = [
 18.050547,
 -94.238897,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 3+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 49 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1101,7 +1101,7 @@ var locations = [
 18.05048333,
 -94.2387083333333,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 50 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1123,7 +1123,7 @@ var locations = [
 18.04791944,
 -94.236775,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+344.03 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+344.03 <br> <b>Tipo:</b> PREVENTIVA            (SP-6)   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 51 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1145,7 +1145,7 @@ var locations = [
 18.04751667,
 -94.2364694444444,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+398.79 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+398.79 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 52 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1167,7 +1167,7 @@ var locations = [
 18.04751667,
 -94.2364694444444,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+398.79 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+398.79 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 53 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1189,7 +1189,7 @@ var locations = [
 18.04751667,
 -94.2364694444444,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+398.79 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-4) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+398.79 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-4) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 54 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1211,7 +1211,7 @@ var locations = [
 18.046628,
 -94.236004,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+521.09  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 3+521.09  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 55 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1233,7 +1233,7 @@ var locations = [
 18.04385556,
 -94.2337027777778,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+899.14  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+899.14  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 56 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1255,7 +1255,7 @@ var locations = [
  18.043872,
 -94.233917,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+904.99 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 3+904.99 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 57 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1277,7 +1277,7 @@ var locations = [
 18.043273,
 -94.23337,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+986.22  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+986.22  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 58 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1299,7 +1299,7 @@ var locations = [
 18.043273,
 -94.23337,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 3+986.22  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 3+986.22  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 59 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1321,7 +1321,7 @@ var locations = [
 18.04308889,
 -94.2332916666667,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 4+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 4+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 60 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1343,7 +1343,7 @@ var locations = [
 18.043128,
 -94.233253,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 4+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 4+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 61 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1365,7 +1365,7 @@ var locations = [
 18.042142,
 -94.232512,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 4+139.20 <br> <b>Tipo:</b> RESTRICTIVA         (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 4+139.20 <br> <b>Tipo:</b> RESTRICTIVA         (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 62 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1387,7 +1387,7 @@ var locations = [
  18.039150,
 -94.230375,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 4+538.10 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 4+538.10 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 63 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1409,7 +1409,7 @@ var locations = [
 18.038652,
 -94.22986,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 4+612.06 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 4+612.06 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 64 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1431,7 +1431,7 @@ var locations = [
 18.035886,
 -94.227889,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 5+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 5+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 65 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1453,7 +1453,7 @@ var locations = [
 18.035928,
 -94.227817,
 'KM 0+000 AL 5+000',
-'<b>Kilometro: </b> 5+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 5+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII- 14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 66 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1475,7 +1475,7 @@ var locations = [
 18.03587,
 -94.227762,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 5+000.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 5+000.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 67 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1497,7 +1497,7 @@ var locations = [
 18.035492,
 -94.227553,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 5+047.38  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 5+047.38  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 68 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1519,7 +1519,7 @@ var locations = [
 18.031782,
 -94.224667,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 5+564.64 <br> <b>Tipo:</b> RESTRICTIVA             (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 5+564.64 <br> <b>Tipo:</b> RESTRICTIVA             (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 69 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1541,7 +1541,7 @@ var locations = [
 18.029525,
 -94.223033,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 5+858.09 <br> <b>Tipo:</b> RESTRICTIVA           (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 5+858.09 <br> <b>Tipo:</b> RESTRICTIVA           (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 70 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1563,7 +1563,7 @@ var locations = [
 18.029525,
 -94.223033,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 5+858.09 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 5+858.09 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 71 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1585,7 +1585,7 @@ var locations = [
 18.02831389,
 -94.2221194444444,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 6+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 72 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1607,7 +1607,7 @@ var locations = [
 18.02838611,
 -94.2220055555556,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 6+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 73 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1629,7 +1629,7 @@ var locations = [
 18.025692,
 -94.220155,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+386.33 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 6+386.33 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 74 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1651,7 +1651,7 @@ var locations = [
 18.025692,
 -94.220155,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+386.33 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 6+386.33 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 75 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1673,7 +1673,7 @@ var locations = [
 18.02491389,
 -94.2193944444444,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+485.58 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 6+485.58 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 76 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1695,7 +1695,7 @@ var locations = [
 18.023978,
 -94.218842,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+612.82 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 6+612.82 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 77 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1717,7 +1717,7 @@ var locations = [
 18.023507,
 -94.218505,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 6+675.80  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 6+675.80  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 78 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1739,7 +1739,7 @@ var locations = [
 18.021197,
 -94.216636,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 7+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 7+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 79 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1761,7 +1761,7 @@ var locations = [
  18.021057,
 -94.216757,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 7+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 7+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 80 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1783,7 +1783,7 @@ var locations = [
 18.019319,
 -94.2152,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 7+258.480 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 7+258.480 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 81 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1805,7 +1805,7 @@ var locations = [
  18.013935,
 -94.211146,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 8+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 82 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1827,7 +1827,7 @@ var locations = [
  18.013798,
 -94.211369,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 8+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 83 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1849,7 +1849,7 @@ var locations = [
  18.011950,
 -94.209839,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+269.10 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 8+269.10 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 84 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1871,7 +1871,7 @@ var locations = [
 18.010831,
 -94.209005,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+412.31 <br> <b>Tipo:</b> PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 8+412.31 <br> <b>Tipo:</b> PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 85 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1893,7 +1893,7 @@ var locations = [
 18.010564,
 -94.208681,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+454.84 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 8+454.84 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 86 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1915,7 +1915,7 @@ var locations = [
 18.007162,
 -94.206198,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 8+911.770 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 8+911.770 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 87 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1937,7 +1937,7 @@ var locations = [
  18.006506,
 -94.205861,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 9+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 9+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 88 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -1959,7 +1959,7 @@ var locations = [
 18.00655,
 -94.205778,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 9+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 9+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 89 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -1981,7 +1981,7 @@ var locations = [
 18.004645,
 -94.204766,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 9+233.31 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 9+233.31 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 90 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2003,7 +2003,7 @@ var locations = [
 18.003128,
 -94.203775,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 9+423.012 <br> <b>Tipo:</b> PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 9+423.012 <br> <b>Tipo:</b> PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 91 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2025,7 +2025,7 @@ var locations = [
  18.000363,
 -94.202187,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 9+769.250 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 9+769.250 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 92 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2047,7 +2047,7 @@ var locations = [
 17.998617,
 -94.201203,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 10+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 10+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 93 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2069,7 +2069,7 @@ var locations = [
 17.998556,
 -94.201292,
 'KM 5+000 AL 10+000',
-'<b>Kilometro: </b> 10+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 10+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 94 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2091,7 +2091,7 @@ var locations = [
 17.99558889,
 -94.1993305555556,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 10+368.02  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 10+368.02  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 95 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2113,7 +2113,7 @@ var locations = [
 17.994743,
 -94.199051,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 10+483.68  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 10+483.68  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 96 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2135,7 +2135,7 @@ var locations = [
 17.989675,
 -94.196078,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 10+809.55  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 10+809.55  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 97 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2157,7 +2157,7 @@ var locations = [
 17.989675,
 -94.196078,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 10+809.55  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 10+809.55  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 98 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2179,7 +2179,7 @@ var locations = [
 17.990782,
 -94.196638,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 10+976.47  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO (SD-11)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 10+976.47  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO (SD-11)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 99 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2201,7 +2201,7 @@ var locations = [
 17.990736,
 -94.196589,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 11+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 100 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2223,7 +2223,7 @@ var locations = [
 17.990656,
 -94.196767,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 11+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 101 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2245,7 +2245,7 @@ var locations = [
 17.990497,
 -94.196575,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+013.92  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-4)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 11+013.92  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-4)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 102 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2267,7 +2267,7 @@ var locations = [
 17.990497,
 -94.196575,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+013.92  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 11+013.92  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 103 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2289,7 +2289,7 @@ var locations = [
 17.989675,
 -94.196078,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+125.00  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 11+125.00  <br> <b>Tipo:</b> RESTRICTIVA        (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 104 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2311,7 +2311,7 @@ var locations = [
 17.989675,
 -94.196078,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+125.00  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 11+125.00  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 105 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2333,7 +2333,7 @@ var locations = [
 17.98488889,
 -94.1931111111111,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+722.84  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 11+722.84  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 106 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2355,7 +2355,7 @@ var locations = [
 17.984722,
 -94.193264,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+752.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 11+752.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 107 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2377,7 +2377,7 @@ var locations = [
 17.984133,
 -94.192916,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+826.67  <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 11+826.67  <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 108 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2399,7 +2399,7 @@ var locations = [
 17.983478,
 -94.192442,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 11+910.04  <br> <b>Tipo:</b> RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 11+910.04  <br> <b>Tipo:</b> RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 109 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2421,7 +2421,7 @@ var locations = [
  17.982858,
 -94.192053,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 12+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 110 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2443,7 +2443,7 @@ var locations = [
 17.982817,
 -94.192175,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 12+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 111 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2465,7 +2465,7 @@ var locations = [
 17.982019,
 -94.191675,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+087.05  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 12+087.05  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 112 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2487,7 +2487,7 @@ var locations = [
 17.978304,
 -94.189482,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+556.55  <br> <b>Tipo:</b> PREVENTIVA         (SP-6)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 12+556.55  <br> <b>Tipo:</b> PREVENTIVA         (SP-6)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 113 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2509,7 +2509,7 @@ var locations = [
 17.977128,
 -94.188706,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+705.93  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 12+705.93  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 114 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2531,7 +2531,7 @@ var locations = [
 17.975914,
 -94.188183,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 12+865.37  <br> <b>Tipo:</b> RESTRICTIVA          (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 12+865.37  <br> <b>Tipo:</b> RESTRICTIVA          (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 115 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2553,7 +2553,7 @@ var locations = [
 17.975008,
 -94.187727,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 13+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 13+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 116 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2575,7 +2575,7 @@ var locations = [
 17.975077,
 -94.187594,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 13+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 13+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 117 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2597,7 +2597,7 @@ var locations = [
 17.971892,
 -94.185928,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 13+362.37  <br> <b>Tipo:</b> PREVENTIVA         (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 13+362.37  <br> <b>Tipo:</b> PREVENTIVA         (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 118 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2619,7 +2619,7 @@ var locations = [
 17.970886,
 -94.185419,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 13+485.47  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 13+485.47  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 119 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2641,7 +2641,7 @@ var locations = [
 17.969219,
 -94.184675,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 13+692.08  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 13+692.08  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 120 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2663,7 +2663,7 @@ var locations = [
 17.9667,
 -94.183464,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+000 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+000 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 121 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2685,7 +2685,7 @@ var locations = [
 17.966744,
 -94.18335,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 14+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 122 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2707,7 +2707,7 @@ var locations = [
  17.966191,
 -94.183202,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+059.75  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                        (SD-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+059.75  <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                        (SD-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 123 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2729,7 +2729,7 @@ var locations = [
 17.964981,
 -94.182603,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+209.07  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+209.07  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 124 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2751,7 +2751,7 @@ var locations = [
 17.965031,
 -94.182483,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+209.07  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 14+209.07  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 125 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2773,7 +2773,7 @@ var locations = [
  17.963259,
 -94.181706,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+427.73  <br> <b>Tipo:</b> IAVE <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+427.73  <br> <b>Tipo:</b> IAVE <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 126 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2795,7 +2795,7 @@ var locations = [
 17.962942,
 -94.181425,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+470 <br> <b>Tipo:</b> RESTRICTIVA         (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 14+470 <br> <b>Tipo:</b> RESTRICTIVA         (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 127 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2817,7 +2817,7 @@ var locations = [
 17.962942,
 -94.181425,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+454.04  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 14+454.04  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 128 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2839,7 +2839,7 @@ var locations = [
 17.959187,
 -94.179677,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                     (SIS-26)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                     (SIS-26)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 129 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2861,7 +2861,7 @@ var locations = [
 17.959187,
 -94.179677,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-17)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-17)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 130 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2883,7 +2883,7 @@ var locations = [
 17.959187,
 -94.179677,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-16)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-16)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 131 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2905,7 +2905,7 @@ var locations = [
 17.959187,
 -94.179677,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+930.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 132 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2927,7 +2927,7 @@ var locations = [
 17.959187,
 -94.179677,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 14+930.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 14+930.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 133 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2949,7 +2949,7 @@ var locations = [
 17.958758,
 -94.179311,
 'KM 10+000 AL 15+000',
-'<b>Kilometro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 134 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -2971,7 +2971,7 @@ var locations = [
 17.958528,
 -94.179315,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+001.59  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-23)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+001.59  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-23)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 135 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -2993,7 +2993,7 @@ var locations = [
 17.958528,
 -94.179315,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+001.59  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+001.59  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 136 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3015,7 +3015,7 @@ var locations = [
 17.956572,
 -94.178314,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+280 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (IAVE) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+280 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (IAVE) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 137 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3037,7 +3037,7 @@ var locations = [
  17.953942,
 -94.177046,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+552.18 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+552.18 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 138 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3059,7 +3059,7 @@ var locations = [
 17.953264,
 -94.176669,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 139 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3081,7 +3081,7 @@ var locations = [
 17.953264,
 -94.176669,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 140 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3103,7 +3103,7 @@ var locations = [
 17.953264,
 -94.176669,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-7)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+680.00 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-7)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 141 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3125,7 +3125,7 @@ var locations = [
 17.953264,
 -94.176669,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+680.00 <br> <b>Tipo:</b>  INFORMATIVA DE SERVICIOS                   (SIS-8)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+680.00 <br> <b>Tipo:</b>  INFORMATIVA DE SERVICIOS                   (SIS-8)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 142 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3147,7 +3147,7 @@ var locations = [
 17.953264,
 -94.176669,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+680.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+680.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 143 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3169,7 +3169,7 @@ var locations = [
 17.95301111,
 -94.1763055555556,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+673.71  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 15+673.71  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 144 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3191,7 +3191,7 @@ var locations = [
 17.952466,
 -94.176265,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+765.00 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 15+765.00 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 145 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3213,7 +3213,7 @@ var locations = [
  17.950675,
 -94.175222,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+969.47  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 15+969.47  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 146 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3235,7 +3235,7 @@ var locations = [
  17.950675,
 -94.175222,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 15+969.47  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 15+969.47  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 147 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3257,7 +3257,7 @@ var locations = [
 17.950553,
 -94.175311,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 148 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3279,7 +3279,7 @@ var locations = [
 17.950597,
 -94.175196,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 149 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3301,7 +3301,7 @@ var locations = [
 17.950464,
 -94.175253,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+006.07  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (IAVE) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+006.07  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (IAVE) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 150 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3323,7 +3323,7 @@ var locations = [
 17.950294,
 -94.175019,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+013.75  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-11 ) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+013.75  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-11 ) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 151 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3345,7 +3345,7 @@ var locations = [
 17.950357,
 -94.175214,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+032.74  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-11)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+032.74  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-11)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 152 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3367,7 +3367,7 @@ var locations = [
 17.949756,
 -94.174881,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+084.74  <br> <b>Tipo:</b> CAPUFE  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+084.74  <br> <b>Tipo:</b> CAPUFE  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 153 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3389,7 +3389,7 @@ var locations = [
 17.949083,
 -94.174533,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+164.64  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+164.64  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 154 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3411,7 +3411,7 @@ var locations = [
  17.948947,
 -94.174475,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+181.82  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-23)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+181.82  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-23)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 155 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3433,7 +3433,7 @@ var locations = [
  17.948892,
 -94.1743,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+186.72  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+186.72  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 156 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3455,7 +3455,7 @@ var locations = [
  17.948839,
 -94.174411,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+194.03  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-8)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+194.03  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-8)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 157 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3477,7 +3477,7 @@ var locations = [
  17.948706,
 -94.174433,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+200.02  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-7)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+200.02  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-7)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 158 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3499,7 +3499,7 @@ var locations = [
  17.948675,
 -94.174169,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+215.56  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+215.56  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 159 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3521,7 +3521,7 @@ var locations = [
  17.948512,
 -94.174478,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+216.04 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-7)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+216.04 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-7)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 160 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3543,7 +3543,7 @@ var locations = [
  17.948457,
 -94.174468,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+218.84  <br> <b>Tipo:</b> RESTRICTIVA                (SR-35) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+218.84  <br> <b>Tipo:</b> RESTRICTIVA                (SR-35) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 161 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3565,7 +3565,7 @@ var locations = [
  17.948415,
 -94.174444,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+220.00  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-8)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+220.00  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                    (SIS-8)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 162 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3587,7 +3587,7 @@ var locations = [
  17.948386,
 -94.174433,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+221.04  <br> <b>Tipo:</b> RESTRICTIVA           (SR-35) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+221.04  <br> <b>Tipo:</b> RESTRICTIVA           (SR-35) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 163 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3609,7 +3609,7 @@ var locations = [
  17.948319,
 -94.174406,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+230.06  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-8)   <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+230.06  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-8)   <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 164 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3631,7 +3631,7 @@ var locations = [
  17.947880,
 -94.173955,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+310.03 <br> <b>Tipo:</b> PREVENTIVA             (SP-19) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+310.03 <br> <b>Tipo:</b> PREVENTIVA             (SP-19) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 165 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3653,7 +3653,7 @@ var locations = [
  17.947267,
 -94.173547,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+318.21  <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-5 ) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+318.21  <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-5 ) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 166 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3675,7 +3675,7 @@ var locations = [
  17.947253,
 -94.17365,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+392.32  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-10) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+392.32  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-10) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 167 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3697,7 +3697,7 @@ var locations = [
 17.94603611,
 -94.1729944444444,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+492.32  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+492.32  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 168 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3719,7 +3719,7 @@ var locations = [
 17.94603611,
 -94.1729944444444,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+492.32  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+492.32  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 169 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3741,7 +3741,7 @@ var locations = [
  17.946367,
 -94.173056,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+492.32  <br> <b>Tipo:</b>  PREVENTIVA            (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+492.32  <br> <b>Tipo:</b>  PREVENTIVA            (SP-17) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 170 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3763,7 +3763,7 @@ var locations = [
  17.946403,
 -94.173194,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+522.91  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+522.91  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 171 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3785,7 +3785,7 @@ var locations = [
  17.945900,
 -94.173036,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+551.50  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+551.50  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 172 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3807,7 +3807,7 @@ var locations = [
  17.945639,
 -94.172658,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+586.47  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                     (SID-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+586.47  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                     (SID-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 173 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3829,7 +3829,7 @@ var locations = [
 17.94551389,
 -94.1725194444444,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+586.74  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-4)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+586.74  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-4)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 174 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3851,7 +3851,7 @@ var locations = [
  17.945578,
 -94.172664,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+597.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-5)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+597.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-5)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 175 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3873,7 +3873,7 @@ var locations = [
  17.945533,
 -94.172647,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+597.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12 ) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+597.01 <br> <b>Tipo:</b> OBRAS DIVERSAS (OD-12 ) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 176 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3895,7 +3895,7 @@ var locations = [
  17.944364,
 -94.171939,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+740.30 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-4)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+740.30 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-4)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 177 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3917,7 +3917,7 @@ var locations = [
  17.944094,
 -94.172133,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+768.77  <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+768.77  <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 178 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -3939,7 +3939,7 @@ var locations = [
  17.943994,
 -94.171842,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+799.21  <br> <b>Tipo:</b> RESTRICTIVA            (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+799.21  <br> <b>Tipo:</b> RESTRICTIVA            (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 179 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3961,7 +3961,7 @@ var locations = [
  17.943994,
 -94.171842,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+799.21  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+799.21  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 180 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -3983,7 +3983,7 @@ var locations = [
  17.943414,
 -94.171572,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+858.92  <br> <b>Tipo:</b> RESTRICTIVA              (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+858.92  <br> <b>Tipo:</b> RESTRICTIVA              (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 181 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4005,7 +4005,7 @@ var locations = [
  17.943358,
 -94.171525,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+864.22  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+864.22  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 182 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4027,7 +4027,7 @@ var locations = [
  17.943336,
 -94.17145,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+869.52  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+869.52  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 183 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4049,7 +4049,7 @@ var locations = [
  17.943269,
 -94.171369,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+874.82  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+874.82  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 184 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4071,7 +4071,7 @@ var locations = [
  17.943133,
 -94.171247,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+880.12  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+880.12  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 185 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4093,7 +4093,7 @@ var locations = [
  17.943247,
 -94.1716,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+883.59  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+883.59  <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 186 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4115,7 +4115,7 @@ var locations = [
  17.943247,
 -94.1716,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+883.59  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+883.59  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 187 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4137,7 +4137,7 @@ var locations = [
 17.942225,
 -94.1708638888889,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+885.42  <br> <b>Tipo:</b> RESTRICTIVA SR-35 <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+885.42  <br> <b>Tipo:</b> RESTRICTIVA SR-35 <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 188 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4159,7 +4159,7 @@ var locations = [
  17.942914,
 -94.171178,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+890.72  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+890.72  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8)   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 189 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4181,7 +4181,7 @@ var locations = [
  17.942911,
 -94.171153,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+896.02  <br> <b>Tipo:</b> RESTRICTIVA            (SR-35) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+896.02  <br> <b>Tipo:</b> RESTRICTIVA            (SR-35) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 190 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4203,7 +4203,7 @@ var locations = [
  17.942858,
 -94.171156,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+901.32  <br> <b>Tipo:</b> (INFORMATIVA DE SERVICIOS SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+901.32  <br> <b>Tipo:</b> (INFORMATIVA DE SERVICIOS SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 191 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4225,7 +4225,7 @@ var locations = [
  17.942753,
 -94.17115,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+906.62  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+906.62  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-7)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 192 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4247,7 +4247,7 @@ var locations = [
  17.942933,
 -94.17145,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+918.21  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+918.21  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-23)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 193 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4269,7 +4269,7 @@ var locations = [
  17.942639,
 -94.171306,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+955.66  <br> <b>Tipo:</b> PRVENTIVA               (SP-17) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 16+955.66  <br> <b>Tipo:</b> PRVENTIVA               (SP-17) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 194 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4291,7 +4291,7 @@ var locations = [
  17.942550,
 -94.171125,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+968.14  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS              (IAVE)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+968.14  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS              (IAVE)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 195 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4313,7 +4313,7 @@ var locations = [
  17.942550,
 -94.171125,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+968.14  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+968.14  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 196 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4335,7 +4335,7 @@ var locations = [
  17.942453,
 -94.171083,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+979.89  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-23)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+979.89  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-23)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 197 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4357,7 +4357,7 @@ var locations = [
  17.942269,
 -94.171,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 16+995.99  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-10  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 16+995.99  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-10  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 198 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4379,7 +4379,7 @@ var locations = [
  17.942253,
 -94.170994,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 199 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4401,7 +4401,7 @@ var locations = [
  17.942267,
 -94.171122,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 200 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4423,7 +4423,7 @@ var locations = [
  17.941775,
 -94.170764,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+057.00 <br> <b>Tipo:</b> CAPUFE  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+057.00 <br> <b>Tipo:</b> CAPUFE  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 201 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4445,7 +4445,7 @@ var locations = [
  17.941486,
 -94.170619,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+095.44 <br> <b>Tipo:</b> RESTRICTIVA             (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+095.44 <br> <b>Tipo:</b> RESTRICTIVA             (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 202 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4467,7 +4467,7 @@ var locations = [
  17.941000,
 -94.170372,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+155.62 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+155.62 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 203 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4489,7 +4489,7 @@ var locations = [
  17.940675,
 -94.170375,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+195.12 <br> <b>Tipo:</b> RESTRICTIVA                (SR-7) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+195.12 <br> <b>Tipo:</b> RESTRICTIVA                (SR-7) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 204 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4511,7 +4511,7 @@ var locations = [
 17.93583889,
 -94.16765,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+201.08 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+201.08 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 205 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4533,7 +4533,7 @@ var locations = [
 17.93583889,
 -94.16765,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+201.08 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+201.08 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                  (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 206 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4555,7 +4555,7 @@ var locations = [
 17.93583889,
 -94.16765,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+201.08 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+201.08 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 207 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4577,7 +4577,7 @@ var locations = [
  17.940406,
 -94.170214,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+231.92 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-9 <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+231.92 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-9 <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 208 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4599,7 +4599,7 @@ var locations = [
  17.940300,
 -94.170008,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+240.05 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+240.05 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 209 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4621,7 +4621,7 @@ var locations = [
  17.940086,
 -94.169903,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+267.02 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-11 ) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+267.02 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-11 ) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 210 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4643,7 +4643,7 @@ var locations = [
  17.940025,
 -94.170003,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+275.40 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+275.40 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 211 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4665,7 +4665,7 @@ var locations = [
  17.939067,
 -94.169378,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+395.26 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+395.26 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 212 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4687,7 +4687,7 @@ var locations = [
  17.937639,
 -94.168633,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+571.03 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+571.03 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 213 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4709,7 +4709,7 @@ var locations = [
 17.93237778,
 -94.1660694444444,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+690.85 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 17+690.85 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 214 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4731,7 +4731,7 @@ var locations = [
  17.935808,
 -94.167831,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+796.98 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+796.98 <br> <b>Tipo:</b> RESTRICTIVA              (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 215 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4753,7 +4753,7 @@ var locations = [
  17.935808,
 -94.167831,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+796.98 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+796.98 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 216 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4775,7 +4775,7 @@ var locations = [
  17.935036,
 -94.167456,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 17+890.25 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 17+890.25 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 217 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4797,7 +4797,7 @@ var locations = [
  17.934172,
 -94.167019,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 18+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 218 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4819,7 +4819,7 @@ var locations = [
  17.934217,
 -94.166917,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 219 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4841,7 +4841,7 @@ var locations = [
  17.932464,
 -94.166267,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+202.33  <br> <b>Tipo:</b> RESTRICTIVA            (SR-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 18+202.33  <br> <b>Tipo:</b> RESTRICTIVA            (SR-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 220 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4863,7 +4863,7 @@ var locations = [
  17.932078,
 -94.166058,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+254.56  <br> <b>Tipo:</b>  PREVENTIVA            (SP-6)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 18+254.56  <br> <b>Tipo:</b>  PREVENTIVA            (SP-6)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 221 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4885,7 +4885,7 @@ var locations = [
  17.930686,
 -94.165142,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+425.57  <br> <b>Tipo:</b> RESTRICTIVA             (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+425.57  <br> <b>Tipo:</b> RESTRICTIVA             (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 222 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4907,7 +4907,7 @@ var locations = [
  17.929433,
 -17.929433,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+582.04  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                (IAVE)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+582.04  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                (IAVE)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 223 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4929,7 +4929,7 @@ var locations = [
  17.927367,
 -94.163175,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+852.91  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 18+852.91  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 224 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -4951,7 +4951,7 @@ var locations = [
  17.928258,
 -94.163714,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+731.01  <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+731.01  <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 225 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4973,7 +4973,7 @@ var locations = [
  17.928094,
 -94.163594,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 226 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -4995,7 +4995,7 @@ var locations = [
  17.928094,
 -94.163594,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-16)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-16)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 227 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5017,7 +5017,7 @@ var locations = [
  17.928094,
 -94.163594,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 228 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5039,7 +5039,7 @@ var locations = [
  17.928094,
 -94.163594,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-26)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+749.83 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS                 (SIS-26)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 229 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5061,7 +5061,7 @@ var locations = [
  17.928094,
 -94.163594,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18+749.83 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18+749.83 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 230 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5083,7 +5083,7 @@ var locations = [
  17.927414,
 -94.163083,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 18844.18 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 18844.18 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 231 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5105,7 +5105,7 @@ var locations = [
  17.926517,
 -94.162439,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 19+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 232 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5127,7 +5127,7 @@ var locations = [
  17.926581,
 -94.162356,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 19+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 233 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5149,7 +5149,7 @@ var locations = [
  17.925583,
 -94.161467,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+115.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 19+115.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 234 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5171,7 +5171,7 @@ var locations = [
  17.924792,
 -94.161008,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+226.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 19+226.51  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 235 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5193,7 +5193,7 @@ var locations = [
  17.923047,
 -94.159314,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+485.54  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-11  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 19+485.54  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO SID-11  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 236 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5215,7 +5215,7 @@ var locations = [
  17.922628,
 -94.158822,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 19+543.34  <br> <b>Tipo:</b> RESTRICTIVA               (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 19+543.34  <br> <b>Tipo:</b> RESTRICTIVA               (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 237 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5237,7 +5237,7 @@ var locations = [
  17.919664,
 -94.156267,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 20+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 20+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 238 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5259,7 +5259,7 @@ var locations = [
  17.919717,
 -94.156161,
 'KM 15+000 AL 20+000',
-'<b>Kilometro: </b> 20+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 20+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 239 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5281,7 +5281,7 @@ var locations = [
  17.917400,
 -94.154213,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 20+349.88  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 20+349.88  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 240 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5303,7 +5303,7 @@ var locations = [
  17.915071,
 -94.152093,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 20+693.55  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 20+693.55  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 241 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5325,7 +5325,7 @@ var locations = [
  17.913014,
 -94.150126,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 20+993.49  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS              (SIS-4)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 20+993.49  <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS              (SIS-4)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 242 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5347,7 +5347,7 @@ var locations = [
  17.913014,
 -94.150126,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 20+993.49  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 20+993.49  <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 243 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5369,7 +5369,7 @@ var locations = [
  17.912906,
 -94.150154,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 21+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 244 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5391,7 +5391,7 @@ var locations = [
  17.912960,
 -94.15007,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 21+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 245 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5413,7 +5413,7 @@ var locations = [
  17.912283,
 -94.149471,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+109.51  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 21+109.51  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 246 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5435,7 +5435,7 @@ var locations = [
  17.910310,
 -94.147822,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+342.36  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 21+342.36  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 247 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5457,7 +5457,7 @@ var locations = [
  17.909033,
 -94.146512,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+586.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 21+586.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 248 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5479,7 +5479,7 @@ var locations = [
  17.908725,
 -94.146385,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+629.00 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 21+629.00 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 249 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5501,7 +5501,7 @@ var locations = [
  17.907260,
 -94.144913,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+843.00 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 21+843.00 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 250 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5523,7 +5523,7 @@ var locations = [
  17.906368,
 -94.144127,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 21+975.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO            (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 21+975.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO            (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 251 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5545,7 +5545,7 @@ var locations = [
  17.906154,
 -94.144054,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 22+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 252 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5567,7 +5567,7 @@ var locations = [
  17.906213,
 -94.143987,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 22+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 253 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5589,7 +5589,7 @@ var locations = [
  17.905511,
 -94.143335,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+051.92  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 22+051.92  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 254 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5611,7 +5611,7 @@ var locations = [
  17.904412,
 -94.142373,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+205.33  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 22+205.33  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 255 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5633,7 +5633,7 @@ var locations = [
  17.904259,
 -94.142352,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+234.03  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 22+234.03  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 256 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5655,7 +5655,7 @@ var locations = [
  17.903028,
 -94.14125,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+407.45  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 22+407.45  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 257 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5677,7 +5677,7 @@ var locations = [
  17.900393,
 -94.13885,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+779.94  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 22+779.94  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 258 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5699,7 +5699,7 @@ var locations = [
  17.900502,
 -94.138831,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 22+794.30  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 22+794.30  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 259 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5721,7 +5721,7 @@ var locations = [
  17.899408,
 -94.137956,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 23+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 260 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5743,7 +5743,7 @@ var locations = [
  17.899475,
 -94.137867,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 23+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 261 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5765,7 +5765,7 @@ var locations = [
  17.897394,
 -94.136017,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+237.92  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 23+237.92  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 262 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5787,7 +5787,7 @@ var locations = [
  17.896928,
 -94.135619,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+301.13  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 23+301.13  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 263 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5809,7 +5809,7 @@ var locations = [
 17.89484722,
 -94.1336083333333,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+606.01  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 23+606.01  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 264 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5831,7 +5831,7 @@ var locations = [
  17.894403,
 -94.133441,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+677.68  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 23+677.68  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 265 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5853,7 +5853,7 @@ var locations = [
  17.893151,
 -94.132199,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 23+854.65  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 23+854.65  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 266 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5875,7 +5875,7 @@ var locations = [
  17.892668,
 -94.131867,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 24+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 24+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 267 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5897,7 +5897,7 @@ var locations = [
  17.891006,
 -94.130251,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 24+171.66  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 24+171.66  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 268 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5919,7 +5919,7 @@ var locations = [
  17.885303,
 -94.125513,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 25+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 25+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 269 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -5941,7 +5941,7 @@ var locations = [
  17.885263,
 -94.125611,
 'KM 20+000 AL 25+000',
-'<b>Kilometro: </b> 25+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 25+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 270 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5963,7 +5963,7 @@ var locations = [
  17.885128,
 -94.125522,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 25+110.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 25+110.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 271 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -5985,7 +5985,7 @@ var locations = [
  17.883108,
 -94.123953,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 25+373.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 25+373.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 272 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6007,7 +6007,7 @@ var locations = [
 17.88083333,
 -94.1223805555556,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 25+662.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 25+662.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 273 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6029,7 +6029,7 @@ var locations = [
  17.878492,
 -94.12065,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 26+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 274 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6051,7 +6051,7 @@ var locations = [
  17.878436,
 -94.120719,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 26+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 275 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6073,7 +6073,7 @@ var locations = [
 17.874769,
 -94.117981,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+503.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 26+503.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 276 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6095,7 +6095,7 @@ var locations = [
  17.873319,
 -94.117058,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+699.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 26+699.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 277 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6117,7 +6117,7 @@ var locations = [
  17.872458,
 -94.116444,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+817.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 26+817.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 278 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6139,7 +6139,7 @@ var locations = [
  17.871225,
 -94.115453,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 26+980.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 26+980.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 279 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6161,7 +6161,7 @@ var locations = [
  17.871089,
 -94.115467,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 27+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 280 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6183,7 +6183,7 @@ var locations = [
  17.871131,
 -94.115392,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 27+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 281 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6205,7 +6205,7 @@ var locations = [
 17.86782778,
 -94.1129472222222,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+440.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 27+440.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 282 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6227,7 +6227,7 @@ var locations = [
  17.866033,
 -94.111894,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+690.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 27+690.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 283 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6249,7 +6249,7 @@ var locations = [
  17.865086,
 -94.111175,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+820.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 27+820.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 284 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6271,7 +6271,7 @@ var locations = [
  17.864922,
 -94.110942,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+840.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 27+840.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 285 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6293,7 +6293,7 @@ var locations = [
  17.864342,
 -94.110639,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 27+921.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 27+921.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 286 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6315,7 +6315,7 @@ var locations = [
  17.863747,
 -94.110194,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 28+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 287 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6337,7 +6337,7 @@ var locations = [
  17.863783,
 -94.110106,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 28+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 288 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6359,7 +6359,7 @@ var locations = [
  17.863511,
 -94.109903,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+040.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 28+040.00 <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 289 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6381,7 +6381,7 @@ var locations = [
  17.862644,
 -94.109433,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+150.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 28+150.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 290 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6403,7 +6403,7 @@ var locations = [
  17.859353,
 -94.1071,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+590.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 28+590.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 291 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6425,7 +6425,7 @@ var locations = [
  17.858872,
 -94.106639,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+653.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 28+653.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 292 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6447,7 +6447,7 @@ var locations = [
  17.858767,
 -94.106686,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+668.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 28+668.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 293 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6469,7 +6469,7 @@ var locations = [
  17.857653,
 -94.105872,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 28+822.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 28+822.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 294 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6491,7 +6491,7 @@ var locations = [
  17.856389,
 -94.104975,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 29+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 295 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6513,7 +6513,7 @@ var locations = [
  17.856431,
 -94.104886,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 296 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6535,7 +6535,7 @@ var locations = [
  17.855611,
 -94.104369,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+238.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-32) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 29+238.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-32) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 297 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6557,7 +6557,7 @@ var locations = [
  17.855150,
 -94.104011,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+260.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+260.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 298 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6579,7 +6579,7 @@ var locations = [
  17.854458,
 -94.103233,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+277.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 29+277.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 299 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6601,7 +6601,7 @@ var locations = [
  17.853675,
 -94.10265,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+380.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 29+380.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 300 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6623,7 +6623,7 @@ var locations = [
  17.852931,
 -94.1018,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+490.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+490.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 301 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6645,7 +6645,7 @@ var locations = [
  17.852275,
 -94.101164,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+589 <br> <b>Tipo:</b> RESTRICTIVA           (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+589 <br> <b>Tipo:</b> RESTRICTIVA           (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 302 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6667,7 +6667,7 @@ var locations = [
  17.851219,
 -94.100175,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+740.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+740.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 303 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6689,7 +6689,7 @@ var locations = [
  17.851219,
 -94.100175,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+740.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 29+740.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 304 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6711,7 +6711,7 @@ var locations = [
  17.848997,
 -94.098203,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 29+944.31  <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 29+944.31  <br> <b>Tipo:</b> INFORMATIVA DEDESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 305 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6733,7 +6733,7 @@ var locations = [
  17.848625,
 -94.097858,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 30+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 30+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 306 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6755,7 +6755,7 @@ var locations = [
  17.848717,
 -94.097772,
 'KM 25+000 AL 30+000',
-'<b>Kilometro: </b> 30+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 30+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 307 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -6777,7 +6777,7 @@ var locations = [
  17.844576,
 -94.093802,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 30+777.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 30+777.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 308 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -6799,7 +6799,7 @@ var locations = [
  17.843277,
 -94.09272,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 30+969.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 30+969.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 309 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6821,7 +6821,7 @@ var locations = [
  17.843061,
 -94.092513,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 31+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 310 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6843,7 +6843,7 @@ var locations = [
  17.843129,
 -94.092429,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 31+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 311 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -6865,7 +6865,7 @@ var locations = [
  17.842798,
 -94.092129,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+041.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 31+041.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 312 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -6887,7 +6887,7 @@ var locations = [
  17.842393,
 -94.091857,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+103.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 31+103.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 313 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6909,7 +6909,7 @@ var locations = [
  17.840434,
 -94.090016,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+400.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 31+400.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 314 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6931,7 +6931,7 @@ var locations = [
  17.839063,
 -94.088586,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+600.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 31+600.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 315 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -6953,7 +6953,7 @@ var locations = [
  17.838091,
 -94.087665,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+752.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 31+752.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 316 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -6975,7 +6975,7 @@ var locations = [
  17.836877,
 -94.0866,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 31+935.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 31+935.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 317 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -6997,7 +6997,7 @@ var locations = [
  17.836511,
 -94.086249,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 32+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 318 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7019,7 +7019,7 @@ var locations = [
  17.836556,
 -94.086163,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 32+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 319 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7041,7 +7041,7 @@ var locations = [
 17.83484722,
 -94.0846305555555,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+220.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 32+220.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 320 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7063,7 +7063,7 @@ var locations = [
  17.833803,
 -94.083677,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+392.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 32+392.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 321 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7085,7 +7085,7 @@ var locations = [
  17.832812,
 -94.082595,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+543.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 32+543.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 322 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7107,7 +7107,7 @@ var locations = [
  17.831689,
 -94.081517,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+715.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 32+715.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 323 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7129,7 +7129,7 @@ var locations = [
  17.830803,
 -94.080815,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+846.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 32+846.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 324 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7151,7 +7151,7 @@ var locations = [
  17.830438,
 -94.080304,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 32+910.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 32+910.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 325 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7173,7 +7173,7 @@ var locations = [
  17.829954,
 -94.079986,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 326 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7195,7 +7195,7 @@ var locations = [
  17.830010,
 -94.07991,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 33+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 327 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7217,7 +7217,7 @@ var locations = [
  17.828310,
 -94.078317,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+250.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 33+250.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 328 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7239,7 +7239,7 @@ var locations = [
  17.828196,
 -94.078333,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+263.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+263.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 329 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7261,7 +7261,7 @@ var locations = [
  17.826460,
 -94.076637,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+525.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+525.00 <br> <b>Tipo:</b> PREVENTIVA               (SP-6)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 330 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7283,7 +7283,7 @@ var locations = [
  17.824496,
 -94.074777,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+818.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+818.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 331 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7305,7 +7305,7 @@ var locations = [
  17.824291,
 -94.074448,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+850.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 33+850.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 332 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7327,7 +7327,7 @@ var locations = [
  17.824236,
 -94.074528,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+950.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+950.00 <br> <b>Tipo:</b> RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 333 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7349,7 +7349,7 @@ var locations = [
  17.824236,
 -94.074528,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 33+950.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 33+950.00 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 334 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7371,7 +7371,7 @@ var locations = [
  17.823309,
 -94.073694,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 335 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7393,7 +7393,7 @@ var locations = [
  17.823332,
 -94.073586,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 336 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7415,7 +7415,7 @@ var locations = [
  17.820317,
 -94.071655,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+400.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 34+400.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 337 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7437,7 +7437,7 @@ var locations = [
  17.817592,
 -94.070101,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+711.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 34+711.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 338 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7459,7 +7459,7 @@ var locations = [
  17.816077,
 -94.069386,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+916.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 34+916.00 <br> <b>Tipo:</b> RESTRICTIVA       (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 339 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7481,7 +7481,7 @@ var locations = [
  17.815436,
 -94.069037,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14 ) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 34+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14 ) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 340 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7503,7 +7503,7 @@ var locations = [
  17.815478,
 -94.068938,
 'KM 30+000 AL 35+000',
-'<b>Kilometro: </b> 35+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14 ) <br> <b>Lado:</b> IZQUIERDO ',
+'<b>Kilómetro: </b> 35+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14 ) <br> <b>Lado:</b> IZQUIERDO ',
 '<a class="hvr-bounce-to-right" onClick="justOne( 341 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO ' ], 
 
@@ -7525,7 +7525,7 @@ var locations = [
  17.814117,
 -94.068197,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 35+363.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 35+363.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 342 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7547,7 +7547,7 @@ var locations = [
  17.812508,
 -94.067422,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 35+394.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 35+394.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 343 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7569,7 +7569,7 @@ var locations = [
  17.810950,
 -94.066494,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 35+584.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 35+584.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 344 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7591,7 +7591,7 @@ var locations = [
  17.808036,
 -94.065081,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 35+950.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 35+950.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 345 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7613,7 +7613,7 @@ var locations = [
  17.807619,
 -94.064861,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 36+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 346 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7635,7 +7635,7 @@ var locations = [
  17.807608,
 -94.064733,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 36+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 347 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7657,7 +7657,7 @@ var locations = [
  17.803889,
 -94.062894,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+466.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 36+466.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 348 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7679,7 +7679,7 @@ var locations = [
  17.803561,
 -94.062614,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+500.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 36+500.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 349 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7701,7 +7701,7 @@ var locations = [
  17.801658,
 -94.061578,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+761.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 36+761.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 350 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7723,7 +7723,7 @@ var locations = [
  17.801553,
 -94.061522,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 36+752.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 36+752.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 351 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7745,7 +7745,7 @@ var locations = [
  17.799694,
 -94.060644,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 37+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 352 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7767,7 +7767,7 @@ var locations = [
  17.799722,
 -94.06055,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 37+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 353 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7789,7 +7789,7 @@ var locations = [
  17.799397,
 -94.060478,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+040.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 37+040.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 354 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7811,7 +7811,7 @@ var locations = [
  17.797742,
 -94.059483,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+240.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 37+240.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 355 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7833,7 +7833,7 @@ var locations = [
  17.796892,
 -94.059153,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+340.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 37+340.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 356 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7855,7 +7855,7 @@ var locations = [
  17.795044,
 -94.058047,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+580.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 37+580.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 357 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7877,7 +7877,7 @@ var locations = [
  17.794975,
 -94.058131,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+590.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 37+590.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 358 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7899,7 +7899,7 @@ var locations = [
  17.794667,
 -94.057828,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 37+630.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 37+630.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 359 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7921,7 +7921,7 @@ var locations = [
  17.791664,
 -94.056411,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 38+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 38+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 360 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -7943,7 +7943,7 @@ var locations = [
  17.791714,
 -94.056292,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 38+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 38+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 361 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7965,7 +7965,7 @@ var locations = [
  17.787747,
 -94.054297,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 38+490.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 38+490.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 362 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -7987,7 +7987,7 @@ var locations = [
  17.787303,
 -94.053917,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 38+543.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 38+543.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 363 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8009,7 +8009,7 @@ var locations = [
  17.786114,
 -94.053411,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 38+692.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 38+692.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 364 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8031,7 +8031,7 @@ var locations = [
  17.783781,
 -94.052186,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 39+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 365 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8053,7 +8053,7 @@ var locations = [
  17.783814,
 -94.052097,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 39+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 366 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8075,7 +8075,7 @@ var locations = [
  17.782403,
 -94.051342,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+320.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 39+320.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 367 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8097,7 +8097,7 @@ var locations = [
  17.781103,
 -94.050756,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+420.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 39+420.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 368 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8119,7 +8119,7 @@ var locations = [
  17.781319,
 -94.050778,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+550.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 39+550.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 369 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8141,7 +8141,7 @@ var locations = [
  17.777294,
 -94.048725,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+790.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 39+790.00 <br> <b>Tipo:</b> RESTRICTIVA            (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 370 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8163,7 +8163,7 @@ var locations = [
  17.776594,
 -94.048358,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 39+871.00 <br> <b>Tipo:</b> PREVENTIVA             (SP-6)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 39+871.00 <br> <b>Tipo:</b> PREVENTIVA             (SP-6)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 371 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8185,7 +8185,7 @@ var locations = [
  17.775842,
 -94.047953,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 40+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 40+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 372 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8207,7 +8207,7 @@ var locations = [
  17.775786,
 -94.047817,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 40+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 40+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 373 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8229,7 +8229,7 @@ var locations = [
 17.77536389,
 -94.0476055555555,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 40+015.00 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                  (SID-8) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 40+015.00 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                  (SID-8) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 374 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8251,7 +8251,7 @@ var locations = [
 17.77436389,
 -94.0470722222222,
 'KM 35+000 AL 40+000',
-'<b>Kilometro: </b> 40+115.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 40+115.00 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 375 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8273,7 +8273,7 @@ var locations = [
  17.773558,
 -94.046617,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+003.88 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 40+003.88 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 376 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8295,7 +8295,7 @@ var locations = [
  17.772156,
 -94.044997,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+220.78  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 40+220.78  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 377 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8317,7 +8317,7 @@ var locations = [
  17.770772,
 -94.041514,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+625.25  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 40+625.25  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 378 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8339,7 +8339,7 @@ var locations = [
  17.770625,
 -94.041014,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+682.14  <br> <b>Tipo:</b> PREVENTIVA          (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 40+682.14  <br> <b>Tipo:</b> PREVENTIVA          (SP-6)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 379 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8361,7 +8361,7 @@ var locations = [
  17.770478,
 -94.040744,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+726.11  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 40+726.11  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 380 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8383,7 +8383,7 @@ var locations = [
  17.770142,
 -94.039392,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 40+865.23  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 40+865.23  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 381 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8405,7 +8405,7 @@ var locations = [
  17.769778,
 -94.038403,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 41+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 382 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8427,7 +8427,7 @@ var locations = [
  17.769822,
 -94.038303,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 41+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 383 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8449,7 +8449,7 @@ var locations = [
  17.769644,
 -94.037733,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+053.26  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 41+053.26  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 384 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8471,7 +8471,7 @@ var locations = [
  17.769528,
 -94.037596,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+079.44  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 41+079.44  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 385 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8493,7 +8493,7 @@ var locations = [
  17.769300,
 -94.036836,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+160.43  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 41+160.43  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 386 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8515,7 +8515,7 @@ var locations = [
  17.769083,
 -94.036103,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+242.27  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 41+242.27  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 387 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8537,7 +8537,7 @@ var locations = [
  17.768456,
 -94.033758,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+491.81  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 41+491.81  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 388 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8559,7 +8559,7 @@ var locations = [
  17.768200,
 -94.032903,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+588.80  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 41+588.80  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 389 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8581,7 +8581,7 @@ var locations = [
  17.767944,
 -94.0323,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+667.70  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 41+667.70  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 390 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8603,7 +8603,7 @@ var locations = [
  17.767472,
 -94.030444,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 41+862.04  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 41+862.04  <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 391 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8625,7 +8625,7 @@ var locations = [
  17.767075,
 -94.029414,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 42+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 392 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8647,7 +8647,7 @@ var locations = [
  17.767136,
 -94.029342,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 42+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 393 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8669,7 +8669,7 @@ var locations = [
  17.766719,
 -94.027931,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+143.21  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 42+143.21  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 394 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8691,7 +8691,7 @@ var locations = [
  17.766372,
 -94.027067,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+247.95  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 42+247.95  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 395 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8713,7 +8713,7 @@ var locations = [
  17.765692,
 -94.024719,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+507.06  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 42+507.06  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 396 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8735,7 +8735,7 @@ var locations = [
  17.764933,
 -94.022228,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 42+788.85  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 42+788.85  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 397 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8757,7 +8757,7 @@ var locations = [
  17.764461,
 -94.020364,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 43+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 398 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8779,7 +8779,7 @@ var locations = [
  17.764403,
 -94.020444,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 43+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 399 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8801,7 +8801,7 @@ var locations = [
  17.764183,
 -94.019439,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+087.35  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 43+087.35  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 400 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8823,7 +8823,7 @@ var locations = [
  17.762736,
 -94.014581,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+621.38  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 43+621.38  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 401 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8845,7 +8845,7 @@ var locations = [
  17.761853,
 -94.011872,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+938.97  <br> <b>Tipo:</b> PREVENTIVA          (SP-6)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 43+938.97  <br> <b>Tipo:</b> PREVENTIVA          (SP-6)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 402 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8867,7 +8867,7 @@ var locations = [
  17.761794,
 -94.011436,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 43+976.10  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 43+976.10  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 403 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8889,7 +8889,7 @@ var locations = [
  17.761608,
 -94.011169,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 44+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 404 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -8911,7 +8911,7 @@ var locations = [
  17.761669,
 -94.011083,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 405 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8933,7 +8933,7 @@ var locations = [
  17.761644,
 -94.011025,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+024.82  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+024.82  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 406 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8955,7 +8955,7 @@ var locations = [
  17.761467,
 -94.010589,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+073.95  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+073.95  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 407 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8977,7 +8977,7 @@ var locations = [
  17.761247,
 -94.010083,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+127.71  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+127.71  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 408 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -8999,7 +8999,7 @@ var locations = [
  17.761067,
 -94.009714,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+140.00  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+140.00  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 409 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9021,7 +9021,7 @@ var locations = [
  17.760878,
 -94.009336,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+222.29  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+222.29  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 410 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9043,7 +9043,7 @@ var locations = [
  17.760653,
 -94.008956,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+242.00  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+242.00  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 411 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9065,7 +9065,7 @@ var locations = [
  17.760667,
 -94.009131,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+246.32  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 44+246.32  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 412 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9087,7 +9087,7 @@ var locations = [
  17.760389,
 -94.008547,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+318.03  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+318.03  <br> <b>Tipo:</b> OD-12  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 413 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9109,7 +9109,7 @@ var locations = [
  17.759772,
 -94.007636,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+433.12  <br> <b>Tipo:</b> PREVENTIVA SP-6 <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+433.12  <br> <b>Tipo:</b> PREVENTIVA SP-6 <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 414 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9131,7 +9131,7 @@ var locations = [
  17.758958,
 -94.006522,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+583.67  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+583.67  <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 415 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9153,7 +9153,7 @@ var locations = [
  17.758178,
 -94.005442,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+722.88  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+722.88  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 416 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9175,7 +9175,7 @@ var locations = [
  17.758067,
 -94.005414,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+739.33 <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 44+739.33 <br> <b>Tipo:</b> RESTRICTIVA        (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 417 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9197,7 +9197,7 @@ var locations = [
  17.757392,
 -94.004494,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+858.16 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 44+858.16 <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 418 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9219,7 +9219,7 @@ var locations = [
  17.757003,
 -94.0038,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+940.13  <br> <b>Tipo:</b> INFORMATIVA DE IDESTINO               (SID-9)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+940.13  <br> <b>Tipo:</b> INFORMATIVA DE IDESTINO               (SID-9)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 419 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9241,7 +9241,7 @@ var locations = [
  17.756961,
 -94.003897,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+940.13 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 44+940.13 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 420 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9263,7 +9263,7 @@ var locations = [
  17.756867,
 -94.003611,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 44+966.29  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 44+966.29  <br> <b>Tipo:</b> RESTRICTIVA        (SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 421 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9285,7 +9285,7 @@ var locations = [
  17.756694,
 -94.003531,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 45+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 45+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 422 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9307,7 +9307,7 @@ var locations = [
  17.756769,
 -94.003486,
 'KM 40+000 AL 45+000',
-'<b>Kilometro: </b> 45+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 45+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN   (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 423 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9329,7 +9329,7 @@ var locations = [
  17.752183,
 -93.997219,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 45+819.14  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 45+819.14  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 424 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9351,7 +9351,7 @@ var locations = [
  17.751206,
 -93.995919,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 46+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 46+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 425 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9373,7 +9373,7 @@ var locations = [
  17.750594,
 -93.995192,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 46+111.81  <br> <b>Tipo:</b> RESTRICTIVA               (SR-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 46+111.81  <br> <b>Tipo:</b> RESTRICTIVA               (SR-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 426 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9395,7 +9395,7 @@ var locations = [
  17.750308,
 -93.994783,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 46+163.69  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 46+163.69  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 427 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9417,7 +9417,7 @@ var locations = [
  17.749267,
 -93.993279,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 46+349.12  <br> <b>Tipo:</b> RESTRICTIVA               ( SR-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 46+349.12  <br> <b>Tipo:</b> RESTRICTIVA               ( SR-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 428 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9439,7 +9439,7 @@ var locations = [
 17.74626944,
 -93.9892722222222,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 46+830.84  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 46+830.84  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 429 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9461,7 +9461,7 @@ var locations = [
  17.745955,
 -93.988714,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 47+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 430 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9483,7 +9483,7 @@ var locations = [
  17.744302,
 -93.986583,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+254.78  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 47+254.78  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 431 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9505,7 +9505,7 @@ var locations = [
  17.744302,
 -93.986583,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+254.78  <br> <b>Tipo:</b> T/A <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 47+254.78  <br> <b>Tipo:</b> T/A <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 432 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9527,7 +9527,7 @@ var locations = [
 17.743585,
 -93.985438,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+394.45  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 47+394.45  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 433 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9549,7 +9549,7 @@ var locations = [
  17.744439,
 -93.986583,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+639.07 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 47+639.07 <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 434 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9571,7 +9571,7 @@ var locations = [
  17.741601,
 -93.982824,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 47+765.59  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 47+765.59  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 435 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9593,7 +9593,7 @@ var locations = [
  17.740326,
 -93.98111,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 48+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 436 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9615,7 +9615,7 @@ var locations = [
  17.740290,
 -93.981025,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 48+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 437 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9637,7 +9637,7 @@ var locations = [
  17.738531,
 -93.978544,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+172.81  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 48+172.81  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 438 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9659,7 +9659,7 @@ var locations = [
  17.738531,
 -93.978544,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+315.57  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 48+315.57  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 439 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9681,7 +9681,7 @@ var locations = [
  17.737588,
 -93.977407,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+380.70  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 48+380.70  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 440 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9703,7 +9703,7 @@ var locations = [
  17.736727,
 -93.97612,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+481.00  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 48+481.00  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 441 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9725,7 +9725,7 @@ var locations = [
  17.736708,
 -93.976262,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+639.00  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 48+639.00  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 442 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9747,7 +9747,7 @@ var locations = [
 93.97376111,
 -93.9737611111111,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+943.00  <br> <b>Tipo:</b> RESTRICTIVA         (SR-18)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 48+943.00  <br> <b>Tipo:</b> RESTRICTIVA         (SR-18)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 443 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9769,7 +9769,7 @@ var locations = [
 17.735121,
 -93.97382,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 48+943.81  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 48+943.81  <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 444 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9791,7 +9791,7 @@ var locations = [
  17.734743,
 -93.97344,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 49+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 49+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 445 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9813,7 +9813,7 @@ var locations = [
  17.734644,
 -93.973289,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 49+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 49+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 446 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9835,7 +9835,7 @@ var locations = [
  17.729545,
 -93.96633,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 49+945.90  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 49+945.90  <br> <b>Tipo:</b> RESTRICTIVA             (SR-9)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 447 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9857,7 +9857,7 @@ var locations = [
  17.730614,
 -93.967684,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 49+758.40  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 49+758.40  <br> <b>Tipo:</b> RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 448 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9879,7 +9879,7 @@ var locations = [
  17.728921,
 -93.965667,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 50+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 50+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 449 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9901,7 +9901,7 @@ var locations = [
  17.729070,
 -93.965497,
 'KM 45+000 AL 50+000',
-'<b>Kilometro: </b> 50+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 50+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14)  <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 450 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9923,7 +9923,7 @@ var locations = [
 17.72900721,
 -93.965430990776,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 50+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 50+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 451 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -9945,7 +9945,7 @@ var locations = [
 17.72889834,
 -93.965515285014,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 50+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14)  <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 50+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14)  <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 452 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9967,7 +9967,7 @@ var locations = [
 17.72844943,
 -93.964909311386,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 5+081 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 5+081 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 453 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -9989,7 +9989,7 @@ var locations = [
 17.72428499,
 -93.958964632622,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 50+863 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 50+863 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 454 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10011,7 +10011,7 @@ var locations = [
 17.72370031,
 -93.958395691188,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 51+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 51+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 455 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10033,7 +10033,7 @@ var locations = [
 17.72380014,
 -93.958311346734,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 51+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 51+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 456 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10055,7 +10055,7 @@ var locations = [
 17.72248039,
 -93.956503112515,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 51+241 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 51+241 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 457 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10077,7 +10077,7 @@ var locations = [
 17.72075663,
 -93.954136372759,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 51+557 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 51+557 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 458 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10099,7 +10099,7 @@ var locations = [
 17.71826861,
 -93.95094521194,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 52+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 52+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 459 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10121,7 +10121,7 @@ var locations = [
 17.7183594,
 -93.950860817946,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 52+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 52+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 460 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10143,7 +10143,7 @@ var locations = [
 17.71596997,
 -93.947830574501,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 52+458 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 52+458 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 461 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10165,7 +10165,7 @@ var locations = [
 17.71545842,
 -93.947082906587,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 52+514 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 52+514 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 462 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10187,7 +10187,7 @@ var locations = [
 17.71493764,
 -93.946372914939,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 52+609 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 52+609 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 463 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10209,7 +10209,7 @@ var locations = [
 17.71280078,
 -93.943428977818,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 53+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 53+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 464 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10231,7 +10231,7 @@ var locations = [
 17.71289156,
 -93.94334458229,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 53+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 53+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 465 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10253,7 +10253,7 @@ var locations = [
 17.71231691,
 -93.94255889002,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 53+106 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 53+106 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 466 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10275,7 +10275,7 @@ var locations = [
 17.71065474,
 -93.940503921693,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 53+390 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 53+390 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 467 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10297,7 +10297,7 @@ var locations = [
 17.70740534,
 -93.935828702171,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 54+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 54+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 468 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10319,7 +10319,7 @@ var locations = [
 17.70730556,
 -93.935903622864,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 54+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 54+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 469 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10341,7 +10341,7 @@ var locations = [
 17.70563532,
 -93.933631848229,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 54+304 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 54+304 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 470 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10363,7 +10363,7 @@ var locations = [
 17.70491812,
 -93.93240228936,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 54+456 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 54+456 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 471 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10385,7 +10385,7 @@ var locations = [
 17.70261817,
 -93.929495556223,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 54+855 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 54+855 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 472 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10407,7 +10407,7 @@ var locations = [
 17.70179205,
 -93.928359768531,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 55+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 473 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10429,7 +10429,7 @@ var locations = [
 17.7019009,
 -93.928275462868,
 'KM 50+000 AL 55+000',
-'<b>Kilometro: </b> 55+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 55+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 474 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10451,7 +10451,7 @@ var locations = [
 17.70121733,
 -93.927574171021,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+105 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+105 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 475 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10473,7 +10473,7 @@ var locations = [
 17.70013194,
 -93.925833590355,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+325 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 55+325 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 476 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10495,7 +10495,7 @@ var locations = [
 17.69954698,
 -93.925302548014,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+409 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+409 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 477 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10517,7 +10517,7 @@ var locations = [
 17.69923394,
 -93.924603173283,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+489 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 55+489 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 478 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10539,7 +10539,7 @@ var locations = [
 17.69724829,
 -93.922103690444,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+833 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+833 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 479 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10561,7 +10561,7 @@ var locations = [
 17.69714958,
 -93.921952318808,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+852 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+852 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 480 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10583,7 +10583,7 @@ var locations = [
 17.69703293,
 -93.921772568083,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+876 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+876 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 481 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10605,7 +10605,7 @@ var locations = [
 17.69693427,
 -93.921611767801,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+895 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+895 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 482 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10627,7 +10627,7 @@ var locations = [
 17.69682661,
 -93.921441492596,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+918 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+918 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 483 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10649,7 +10649,7 @@ var locations = [
 17.69660239,
 -93.921072609747,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+935 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+935 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 484 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10671,7 +10671,7 @@ var locations = [
 17.69649473,
 -93.920902335162,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+963 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+963 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 485 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10693,7 +10693,7 @@ var locations = [
 17.69649478,
 -93.920892906183,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 55+985 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 55+985 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 486 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10715,7 +10715,7 @@ var locations = [
 17.696432,
 -93.920788864949,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 487 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10737,7 +10737,7 @@ var locations = [
 17.6965408,
 -93.92071398588,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 56+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 488 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10759,7 +10759,7 @@ var locations = [
 17.69639615,
 -93.920722677864,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+008 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+008 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 489 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10781,7 +10781,7 @@ var locations = [
 17.69636922,
 -93.920684823785,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+013 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+013 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 490 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10803,7 +10803,7 @@ var locations = [
 17.69647811,
 -93.920591086717,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+015 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                   (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 56+015 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                   (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 491 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10825,7 +10825,7 @@ var locations = [
 17.69627959,
 -93.920524070713,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+031 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+031 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 492 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10847,7 +10847,7 @@ var locations = [
 17.69617215,
 -93.920306651925,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+058 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+058 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 493 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10869,7 +10869,7 @@ var locations = [
 17.69606463,
 -93.920108091306,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+082 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+082 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 494 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10891,7 +10891,7 @@ var locations = [
 17.69532163,
 -93.91857678549,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+264 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 56+264 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 495 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -10913,7 +10913,7 @@ var locations = [
 17.6952697,
 -93.918086205825,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+309 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 56+309 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 496 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10935,7 +10935,7 @@ var locations = [
 17.69502841,
 -93.917500373319,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+382 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 56+382 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 497 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10957,7 +10957,7 @@ var locations = [
 17.69370505,
 -93.914438634572,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 56+738 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 56+738 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 498 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -10979,7 +10979,7 @@ var locations = [
 17.69268416,
 -93.912406228328,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 57+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 499 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11001,7 +11001,7 @@ var locations = [
 17.69280191,
 -93.912350248742,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 57+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 500 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11023,7 +11023,7 @@ var locations = [
 17.69261264,
 -93.912236144851,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+020 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 57+020 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 501 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11045,7 +11045,7 @@ var locations = [
 17.69125501,
 -93.908750007328,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+418 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 57+418 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 502 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11067,7 +11067,7 @@ var locations = [
 17.69051136,
 -93.907341358703,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+588 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 57+588 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 503 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11089,7 +11089,7 @@ var locations = [
 17.69042198,
 -93.907124044871,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+613 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 57+613 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 504 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11111,7 +11111,7 @@ var locations = [
 17.69012673,
 -93.90647196861,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+689 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 57+689 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 505 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11133,7 +11133,7 @@ var locations = [
 17.6901999,
 -93.906283757484,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 57+704 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 57+704 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 506 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11155,7 +11155,7 @@ var locations = [
 17.68898217,
 -93.903797864412,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 58+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 507 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11177,7 +11177,7 @@ var locations = [
 17.689118,
 -93.903741970507,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 58+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 508 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11199,7 +11199,7 @@ var locations = [
 17.68895692,
 -93.903392297667,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+041 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 58+041 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 509 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11221,7 +11221,7 @@ var locations = [
 17.68819529,
 -93.90195531158,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+214 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 58+214 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 510 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11243,7 +11243,7 @@ var locations = [
 17.68825051,
 -93.901738724401,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+233 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 58+233 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 511 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11265,7 +11265,7 @@ var locations = [
 17.68793747,
 -93.901020573858,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+317 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 58+317 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 512 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11287,7 +11287,7 @@ var locations = [
 17.68553024,
 -93.895766228395,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 58+934 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 58+934 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 513 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11309,7 +11309,7 @@ var locations = [
 17.68541553,
 -93.895152795779,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 514 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11331,7 +11331,7 @@ var locations = [
 17.68527975,
 -93.89519926679,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 59+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 515 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11353,7 +11353,7 @@ var locations = [
 17.68470892,
 -93.893527569705,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+188 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+188 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 516 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11375,7 +11375,7 @@ var locations = [
 17.6837867,
 -93.891609005561,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+415 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+415 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 517 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11397,7 +11397,7 @@ var locations = [
 17.68367923,
 -93.891391617783,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+441 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+441 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 518 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11419,7 +11419,7 @@ var locations = [
 17.68347316,
 -93.890994601028,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+488 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+488 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 519 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11441,7 +11441,7 @@ var locations = [
 17.6831683,
 -93.890455669978,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+554 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+554 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 520 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11463,7 +11463,7 @@ var locations = [
 17.68149096,
 -93.887628290977,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 59+906 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 59+906 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 521 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11485,7 +11485,7 @@ var locations = [
 17.68093368,
 -93.886946705905,
 'KM 55+000 AL 60+000',
-'<b>Kilometro: </b> 60+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 60+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 522 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11507,7 +11507,7 @@ var locations = [
 17.67668967,
 -93.880043268739,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 61+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 523 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11529,7 +11529,7 @@ var locations = [
 17.67617931,
 -93.878965967097,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+060 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 61+060 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 524 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11551,7 +11551,7 @@ var locations = [
 17.67465292,
 -93.876705220622,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+381 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+381 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 525 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11573,7 +11573,7 @@ var locations = [
 17.67421305,
 -93.876033691087,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+399 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+399 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 526 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11595,7 +11595,7 @@ var locations = [
 17.67404259,
 -93.875750021743,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+417 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+417 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 527 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11617,7 +11617,7 @@ var locations = [
 17.67371949,
 -93.875239339531,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+482 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+482 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 528 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11639,7 +11639,7 @@ var locations = [
 17.67280541,
 -93.873481296721,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+693 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 61+693 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 529 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11661,7 +11661,7 @@ var locations = [
 17.67275056,
 -93.873622452858,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+702 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+702 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 530 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11683,7 +11683,7 @@ var locations = [
 17.67182739,
 -93.871873811445,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+896 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 61+896 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 531 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11705,7 +11705,7 @@ var locations = [
 17.67162885,
 -93.871806858596,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+914 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+914 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 532 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11727,7 +11727,7 @@ var locations = [
 17.67148524,
 -93.871579894537,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 61+942 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 61+942 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 533 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11749,7 +11749,7 @@ var locations = [
 17.67129787,
 -93.871032168201,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 534 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11771,7 +11771,7 @@ var locations = [
 17.67069666,
 -93.870048765569,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+130 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+130 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 535 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11793,7 +11793,7 @@ var locations = [
 17.67021099,
 -93.869509037542,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+207 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+207 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 536 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11815,7 +11815,7 @@ var locations = [
 17.66952127,
 -93.86810096499,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+375 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-7) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+375 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-7) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 537 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11837,7 +11837,7 @@ var locations = [
 17.66939441,
 -93.868175779581,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+375 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+375 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 538 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11859,7 +11859,7 @@ var locations = [
 17.66948529,
 -93.868063080723,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+380 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+380 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 539 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11881,7 +11881,7 @@ var locations = [
 17.66924297,
 -93.867675374572,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+429 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+429 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 540 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11903,7 +11903,7 @@ var locations = [
 17.6687405,
 -93.866843312699,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+533 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+533 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 541 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11925,7 +11925,7 @@ var locations = [
 17.66849697,
 -93.866729011844,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+558 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+558 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 542 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -11947,7 +11947,7 @@ var locations = [
 17.66857889,
 -93.866597414147,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+565 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+565 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 543 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11969,7 +11969,7 @@ var locations = [
 17.66855195,
 -93.866559573651,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+569 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS         (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+569 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS         (OD-5) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 544 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -11991,7 +11991,7 @@ var locations = [
 17.66802982,
 -93.866085681658,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+643 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-7) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+643 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-7) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 545 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12013,7 +12013,7 @@ var locations = [
 17.66803156,
 -93.865689720897,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+678 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+678 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 546 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12035,7 +12035,7 @@ var locations = [
 17.66742913,
 -93.864979753664,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+778 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+778 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 547 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12057,7 +12057,7 @@ var locations = [
 17.66751992,
 -93.864885909517,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+780 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+780 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 548 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12079,7 +12079,7 @@ var locations = [
 17.66732254,
 -93.864554993152,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+822 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+822 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 549 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12101,7 +12101,7 @@ var locations = [
 17.66710612,
 -93.864440825811,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+845 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 62+845 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 550 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12123,7 +12123,7 @@ var locations = [
 17.66716993,
 -93.864318569255,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+852 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+852 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 551 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12145,7 +12145,7 @@ var locations = [
 17.66664945,
 -93.863467584451,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 62+959 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 62+959 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 552 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12167,7 +12167,7 @@ var locations = [
 17.66631633,
 -93.863173734825,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 63+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 63+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 553 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12189,7 +12189,7 @@ var locations = [
 17.66642516,
 -93.863089404044,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 63+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 63+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 554 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12211,7 +12211,7 @@ var locations = [
 17.66524845,
 -93.86142451782,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 63+220 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 63+220 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 555 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12233,7 +12233,7 @@ var locations = [
 17.66145207,
 -93.855287998906,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 64+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 64+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 556 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12255,7 +12255,7 @@ var locations = [
 17.66157901,
 -93.855194323414,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 64+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 64+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 557 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12277,7 +12277,7 @@ var locations = [
 17.65964824,
 -93.852328693889,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 64+372 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 64+372 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 558 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12299,7 +12299,7 @@ var locations = [
 17.65768382,
 -93.848869045109,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 64+798 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 64+798 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 559 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12321,7 +12321,7 @@ var locations = [
 17.65657877,
 -93.847327219148,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 65+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 65+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 560 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12343,7 +12343,7 @@ var locations = [
 17.65667851,
 -93.847252267592,
 'KM 60+000 AL 65+000',
-'<b>Kilometro: </b> 65+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 65+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 561 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12365,7 +12365,7 @@ var locations = [
 17.65506188,
 -93.844869049945,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 65+310 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  (SIR) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 65+310 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN  (SIR) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 562 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12387,7 +12387,7 @@ var locations = [
 17.65508984,
 -93.844671209108,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 65+326 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 65+326 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 563 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12409,7 +12409,7 @@ var locations = [
 17.65426404,
 -93.84333812781,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 65+493 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 65+493 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 564 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12431,7 +12431,7 @@ var locations = [
 17.65166897,
 -93.839366691546,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 565 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12453,7 +12453,7 @@ var locations = [
 17.65176871,
 -93.839291737372,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 66+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 566 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12475,7 +12475,7 @@ var locations = [
 17.65168789,
 -93.839168811416,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+017 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 66+017 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 567 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12497,7 +12497,7 @@ var locations = [
 17.65142663,
 -93.838969633602,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+051 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+051 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 568 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12519,7 +12519,7 @@ var locations = [
 17.65029558,
 -93.837144990643,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+281 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+281 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 569 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12541,7 +12541,7 @@ var locations = [
 17.64962245,
 -93.836029501759,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+420 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+420 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 570 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12563,7 +12563,7 @@ var locations = [
 17.64952367,
 -93.835878215022,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+440 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+440 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 571 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12585,7 +12585,7 @@ var locations = [
 17.64943397,
 -93.835717543396,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+460 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+460 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 572 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12607,7 +12607,7 @@ var locations = [
 17.64915587,
 -93.835226061052,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+520 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+520 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 573 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12629,7 +12629,7 @@ var locations = [
 17.64906617,
 -93.835065390058,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+540 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+540 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 574 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12651,7 +12651,7 @@ var locations = [
 17.6480363,
 -93.832817051022,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+804 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 66+804 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 575 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12673,7 +12673,7 @@ var locations = [
 17.64783009,
 -93.832420175513,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+852 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 66+852 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 576 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12695,7 +12695,7 @@ var locations = [
 17.64755115,
 -93.832126662054,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 66+894 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 66+894 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 577 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12717,7 +12717,7 @@ var locations = [
 17.6471209,
 -93.8312762728,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 67+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 578 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12739,7 +12739,7 @@ var locations = [
 17.64722064,
 -93.831201315797,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 67+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 579 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12761,7 +12761,7 @@ var locations = [
 17.64644093,
 -93.829632893208,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+189 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 67+189 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 580 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12783,7 +12783,7 @@ var locations = [
 17.64471104,
 -93.826184228945,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+602 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 67+602 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 581 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12805,7 +12805,7 @@ var locations = [
 17.64438717,
 -93.825824538462,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+652 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 67+652 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 582 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12827,7 +12827,7 @@ var locations = [
 17.64435287,
 -93.825381328078,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 67+696 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 67+696 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 583 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12849,7 +12849,7 @@ var locations = [
 17.64293515,
 -93.822914525689,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 68+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 68+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 584 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12871,7 +12871,7 @@ var locations = [
 17.64303488,
 -93.822839565567,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 68+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 68+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 585 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12893,7 +12893,7 @@ var locations = [
 17.64286458,
 -93.822499434365,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 68+043 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 68+043 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 586 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12915,7 +12915,7 @@ var locations = [
 17.63874895,
 -93.81457200569,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 69+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 69+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 587 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -12937,7 +12937,7 @@ var locations = [
 17.63885775,
 -93.814487656826,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 69+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 69+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 588 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12959,7 +12959,7 @@ var locations = [
 17.63791654,
 -93.812598153926,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 69+228 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 69+228 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 589 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -12981,7 +12981,7 @@ var locations = [
 17.63691133,
 -93.810878057883,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 69+441 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 69+441 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 590 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13003,7 +13003,7 @@ var locations = [
 17.6344808,
 -93.806286054125,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 70+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 70+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 591 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13025,7 +13025,7 @@ var locations = [
 17.6345986,
 -93.806211168227,
 'KM 65+000 AL 70+000',
-'<b>Kilometro: </b> 70+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 70+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 592 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13047,7 +13047,7 @@ var locations = [
 17.63422178,
 -93.8055308069,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 70+084 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 70+084 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 593 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13069,7 +13069,7 @@ var locations = [
 17.63387071,
 -93.805180478904,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 70+135 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 70+135 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 594 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13091,7 +13091,7 @@ var locations = [
 17.63261579,
 -93.802620430145,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 70+440 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 70+440 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 595 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13113,7 +13113,7 @@ var locations = [
 17.63141243,
 -93.800711041334,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 70+682 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 70+682 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 596 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13135,7 +13135,7 @@ var locations = [
 17.63103566,
 -93.800011851106,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 70+767 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 70+767 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 597 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13157,7 +13157,7 @@ var locations = [
 17.62998587,
 -93.798112597474,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 71+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 598 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13179,7 +13179,7 @@ var locations = [
 17.6300856,
 -93.798037628326,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 71+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 599 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13201,7 +13201,7 @@ var locations = [
 17.62846161,
 -93.795080173086,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+364 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 71+364 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 600 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13223,7 +13223,7 @@ var locations = [
 17.62761712,
 -93.793813404876,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+526 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 71+526 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 601 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13245,7 +13245,7 @@ var locations = [
 17.62771684,
 -93.793738434216,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+527 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 71+527 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 602 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13267,7 +13267,7 @@ var locations = [
 17.62691726,
 -93.792537854351,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+682 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 71+682 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 603 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13289,7 +13289,7 @@ var locations = [
 17.62596614,
 -93.790808779572,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 71+893 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 71+893 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 604 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13311,7 +13311,7 @@ var locations = [
 17.62567007,
 -93.790260793941,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 72+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 605 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13333,7 +13333,7 @@ var locations = [
 17.62577879,
 -93.79019528701,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 72+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 606 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13355,7 +13355,7 @@ var locations = [
 17.62518579,
 -93.789316109113,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+114 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 72+114 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 607 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13377,7 +13377,7 @@ var locations = [
 17.62507929,
 -93.788825506793,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+166 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 72+166 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 608 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13399,7 +13399,7 @@ var locations = [
 17.62366412,
 -93.785595771801,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+543 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 72+543 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 609 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13421,7 +13421,7 @@ var locations = [
 17.62311797,
 -93.784292666755,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+693 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 72+693 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 610 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13443,7 +13443,7 @@ var locations = [
 17.62257928,
 -93.783385477989,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+806 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 72+806 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 611 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13465,7 +13465,7 @@ var locations = [
 17.62263448,
 -93.783140649808,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+827 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 72+827 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 612 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13487,7 +13487,7 @@ var locations = [
 17.62193466,
 -93.781836897015,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 72+986 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 72+986 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 613 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13509,7 +13509,7 @@ var locations = [
 17.62188092,
 -93.781714132703,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 73+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 73+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 614 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13531,7 +13531,7 @@ var locations = [
 17.6219896,
 -93.781658047242,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 73+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 73+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 615 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13553,7 +13553,7 @@ var locations = [
 17.62075407,
 -93.778683679877,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 73+345 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 73+345 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 616 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13575,7 +13575,7 @@ var locations = [
 17.61821983,
 -93.772678241044,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 74+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 74+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 617 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13597,7 +13597,7 @@ var locations = [
 17.61810215,
 -93.772724867186,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 74+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 74+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 618 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13619,7 +13619,7 @@ var locations = [
 17.6173052,
 -93.770817548148,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 74+221 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 74+221 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 619 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13641,7 +13641,7 @@ var locations = [
 17.61495118,
 -93.76488848758,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 74+902 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 74+902 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 620 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13663,7 +13663,7 @@ var locations = [
 17.61474516,
 -93.764406931442,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 75+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 75+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 621 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13685,7 +13685,7 @@ var locations = [
 17.61463652,
 -93.764453600288,
 'KM 70+000 AL 75+000',
-'<b>Kilometro: </b> 75+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 75+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 622 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13707,7 +13707,7 @@ var locations = [
 17.61262133,
 -93.759675988384,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 75+554 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 75+554 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 623 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13729,7 +13729,7 @@ var locations = [
 17.61237044,
 -93.759109430032,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 74+619 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 74+619 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 624 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13751,7 +13751,7 @@ var locations = [
 17.61067581,
 -93.755558523207,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 76+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 625 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13773,7 +13773,7 @@ var locations = [
 17.61077548,
 -93.75549296243,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 76+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 626 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13795,7 +13795,7 @@ var locations = [
 17.60982395,
 -93.753783075144,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+210 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 76+210 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 627 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13817,7 +13817,7 @@ var locations = [
 17.60897982,
 -93.752346974643,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+389 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 76+389 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 628 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13839,7 +13839,7 @@ var locations = [
 17.60811789,
 -93.750835414162,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+576 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 76+576 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 629 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13861,7 +13861,7 @@ var locations = [
 17.60683362,
 -93.748671809032,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+845 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 76+845 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 630 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13883,7 +13883,7 @@ var locations = [
 17.60638367,
 -93.748151587563,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 76+918 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 76+918 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 631 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13905,7 +13905,7 @@ var locations = [
 17.6062949,
 -93.747727103689,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 77+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 77+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 632 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13927,7 +13927,7 @@ var locations = [
 17.60615911,
 -93.747783093791,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 77+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 77+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 633 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13949,7 +13949,7 @@ var locations = [
 17.60349303,
 -93.742927819128,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 77+594 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 77+594 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 634 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -13971,7 +13971,7 @@ var locations = [
 17.60130071,
 -93.739450601137,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 78+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 78+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 635 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -13993,7 +13993,7 @@ var locations = [
 17.60140045,
 -93.73936618554,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 78+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 78+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 636 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14015,7 +14015,7 @@ var locations = [
 17.59672151,
 -93.731289308547,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 637 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14037,7 +14037,7 @@ var locations = [
 17.59659469,
 -93.731364193303,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 79+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 638 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14059,7 +14059,7 @@ var locations = [
 17.59640614,
 -93.731024157434,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+042 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 79+042 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 639 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14081,7 +14081,7 @@ var locations = [
 17.59558975,
 -93.729371617095,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+238 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+238 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 640 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14103,7 +14103,7 @@ var locations = [
 17.59367574,
 -93.726338759368,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+624 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 79+624 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 641 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14125,7 +14125,7 @@ var locations = [
 17.59310989,
 -93.725365805513,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+744 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 79+744 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 642 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14147,7 +14147,7 @@ var locations = [
 17.59270666,
 -93.724412353947,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+864 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+864 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 643 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14169,7 +14169,7 @@ var locations = [
 17.59261687,
 -93.724251785057,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+874 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+874 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 644 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14191,7 +14191,7 @@ var locations = [
 17.59251803,
 -93.724091180324,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+894 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+894 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 645 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14213,7 +14213,7 @@ var locations = [
 17.5924192,
 -93.723930575762,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+914 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+914 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 646 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14235,7 +14235,7 @@ var locations = [
 17.59232036,
 -93.723769971371,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+934 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+934 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 647 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14257,7 +14257,7 @@ var locations = [
 17.59225751,
 -93.723656631181,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 79+950 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 79+950 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 648 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14279,7 +14279,7 @@ var locations = [
 17.5921407,
 -93.723467683079,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 80+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 649 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14301,7 +14301,7 @@ var locations = [
 17.59201392,
 -93.723533147637,
 'KM 75+000 AL 80+000',
-'<b>Kilometro: </b> 80+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 80+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 650 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14323,7 +14323,7 @@ var locations = [
 17.59062101,
 -93.721331793641,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+304 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+304 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 651 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14345,7 +14345,7 @@ var locations = [
 17.59051307,
 -93.721190004239,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+324 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+324 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 652 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14367,7 +14367,7 @@ var locations = [
 17.59039612,
 -93.721038755226,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+344 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+344 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 653 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14389,7 +14389,7 @@ var locations = [
 17.59027911,
 -93.720906354265,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+363 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+363 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 654 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14411,7 +14411,7 @@ var locations = [
 17.59016216,
 -93.720755105626,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+384 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+384 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 655 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14433,7 +14433,7 @@ var locations = [
 17.59004518,
 -93.720613281098,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+403 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+403 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 656 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14455,7 +14455,7 @@ var locations = [
 17.58991915,
 -93.720471420938,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+423 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+423 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 657 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14477,7 +14477,7 @@ var locations = [
 17.58980217,
 -93.72032959678,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+443 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+443 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 658 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14499,7 +14499,7 @@ var locations = [
 17.58871283,
 -93.719147283084,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+616 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+616 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 659 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14521,7 +14521,7 @@ var locations = [
 17.58852299,
 -93.719155956285,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+630 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 80+630 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 660 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14543,7 +14543,7 @@ var locations = [
 17.58789342,
 -93.718295887462,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+744 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+744 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 661 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14565,7 +14565,7 @@ var locations = [
 17.58776737,
 -93.718163454385,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+764 <br> <b>Tipo:</b> INFORMACION GENERAL           (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+764 <br> <b>Tipo:</b> INFORMACION GENERAL           (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 662 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14587,7 +14587,7 @@ var locations = [
 17.5867131,
 -93.717273445723,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+914 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 80+914 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 663 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14609,7 +14609,7 @@ var locations = [
 17.58630863,
 -93.716649875312,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 80+992 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 80+992 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 664 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14631,7 +14631,7 @@ var locations = [
 17.58582162,
 -93.716355817164,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 81+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 81+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 665 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14653,7 +14653,7 @@ var locations = [
 17.58591235,
 -93.71626193604,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 81+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 81+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 666 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14675,7 +14675,7 @@ var locations = [
 17.58310292,
 -93.713338948163,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 81+439 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 81+439 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 667 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14697,7 +14697,7 @@ var locations = [
 17.58241784,
 -93.712827383398,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 81+531 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 81+531 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 668 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14719,7 +14719,7 @@ var locations = [
 17.58031975,
 -93.710642318904,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 81+859 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 81+859 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 669 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14741,7 +14741,7 @@ var locations = [
 17.57941926,
 -93.709705873086,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 82+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 82+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 670 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14763,7 +14763,7 @@ var locations = [
 17.57949191,
 -93.709611921197,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 82+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 82+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 671 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14785,7 +14785,7 @@ var locations = [
 17.57724073,
 -93.707256712438,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 82+354 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 82+354 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 672 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14807,7 +14807,7 @@ var locations = [
 17.57637551,
 -93.706565443729,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 82+474 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 82+474 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 673 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14829,7 +14829,7 @@ var locations = [
 17.57527757,
 -93.705232493683,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 82+660 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 82+660 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 674 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14851,7 +14851,7 @@ var locations = [
 17.57300759,
 -93.703065785277,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 83+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 83+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 675 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14873,7 +14873,7 @@ var locations = [
 17.57308927,
 -93.702971868733,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 83+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 83+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 676 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -14895,7 +14895,7 @@ var locations = [
 17.5690452,
 -93.698960900191,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 83+618 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 83+618 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 677 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14917,7 +14917,7 @@ var locations = [
 17.56782041,
 -93.697702947096,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 83+809 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 83+809 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 678 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14939,7 +14939,7 @@ var locations = [
 17.56733413,
 -93.697192246212,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 83+885 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 83+885 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 679 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14961,7 +14961,7 @@ var locations = [
 17.56651459,
 -93.696350472317,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 680 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -14983,7 +14983,7 @@ var locations = [
 17.56660534,
 -93.696247167682,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 84+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 681 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15005,7 +15005,7 @@ var locations = [
 17.56613644,
 -93.695934420481,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+060 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+060 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 682 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15027,7 +15027,7 @@ var locations = [
 17.56620914,
 -93.695821624026,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+063 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 84+063 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 683 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15049,7 +15049,7 @@ var locations = [
 17.56565032,
 -93.695376615511,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+140 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+140 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 684 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15071,7 +15071,7 @@ var locations = [
 17.56550624,
 -93.695225300089,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+163 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+163 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS          (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 685 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15093,7 +15093,7 @@ var locations = [
 17.56540724,
 -93.695102425486,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+180 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+180 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS        (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 686 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15115,7 +15115,7 @@ var locations = [
 17.5652812,
 -93.694960602157,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+200 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+200 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 687 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15137,7 +15137,7 @@ var locations = [
 17.5651642,
 -93.694818813509,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+220 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+220 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 688 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15159,7 +15159,7 @@ var locations = [
 17.56423731,
 -93.693656277374,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+381 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+381 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 689 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15181,7 +15181,7 @@ var locations = [
 17.56412938,
 -93.693505102156,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+400 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+400 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 690 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15203,7 +15203,7 @@ var locations = [
 17.56401241,
 -93.693353892704,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+421 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+421 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 691 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15225,7 +15225,7 @@ var locations = [
 17.56390444,
 -93.693212140468,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+441 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+441 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 692 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15247,7 +15247,7 @@ var locations = [
 17.56378747,
 -93.693060931388,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+861 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+861 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 693 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15269,7 +15269,7 @@ var locations = [
 17.56367954,
 -93.69290975689,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+481 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 84+481 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 694 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15291,7 +15291,7 @@ var locations = [
 17.56213386,
 -93.69035033631,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+802 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 84+802 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 695 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15313,7 +15313,7 @@ var locations = [
 17.56157677,
 -93.689405961696,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 84+920 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 84+920 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 696 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15335,7 +15335,7 @@ var locations = [
 17.56148691,
 -93.689254859547,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 85+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 85+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 697 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15357,7 +15357,7 @@ var locations = [
 17.56137822,
 -93.689320406596,
 'KM 80+000 AL 85+000',
-'<b>Kilometro: </b> 85+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 85+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 698 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15379,7 +15379,7 @@ var locations = [
 17.5608111111111,
 -93.6883861111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 85+117 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 85+117 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 699 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15401,7 +15401,7 @@ var locations = [
 17.5605055555556,
 -93.6878861111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 85+180 <br> <b>Tipo:</b> INFORMACION GENERAL             (SIG-8) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 85+180 <br> <b>Tipo:</b> INFORMACION GENERAL             (SIG-8) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 700 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15423,7 +15423,7 @@ var locations = [
 17.5604277777778,
 -93.68745,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 85+224 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 85+224 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 701 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15445,7 +15445,7 @@ var locations = [
 17.5567611111111,
 -93.6812944444444,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 85+939 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 85+939 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 702 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15467,7 +15467,7 @@ var locations = [
 17.5565333333333,
 -93.6811611111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 85+965 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 85+965 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 703 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15489,7 +15489,7 @@ var locations = [
 17.5564722222222,
 -93.6808222222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 86+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 704 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15511,7 +15511,7 @@ var locations = [
 17.5563638888889,
 -93.6808777777778,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 86+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 705 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15533,7 +15533,7 @@ var locations = [
 17.5550694444444,
 -93.6787166666667,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+271 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 86+271 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 706 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15555,7 +15555,7 @@ var locations = [
 17.5543694444444,
 -93.6775361111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+418 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 86+418 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 707 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15577,7 +15577,7 @@ var locations = [
 17.5539722222222,
 -93.6768638888889,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+502 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 86+502 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 708 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15599,7 +15599,7 @@ var locations = [
 17.5535694444444,
 -93.6757138888889,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 86+627 <br> <b>Tipo:</b> INFORMACION GENERAL           (SIG-8) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 86+627 <br> <b>Tipo:</b> INFORMACION GENERAL           (SIG-8) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 709 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15621,7 +15621,7 @@ var locations = [
 17.5514111111111,
 -93.6730472222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 87+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 710 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15643,7 +15643,7 @@ var locations = [
 17.5515,
 -93.6729444444444,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 87+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 711 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15665,7 +15665,7 @@ var locations = [
 17.551275,
 -93.6728888888889,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+022 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 87+022 <br> <b>Tipo:</b> SEÑAL PREVENTIVA         (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 712 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15687,7 +15687,7 @@ var locations = [
 17.5490888888889,
 -93.6702972222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+358 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 87+358 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 713 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15709,7 +15709,7 @@ var locations = [
 17.5476194444444,
 -93.6687944444444,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+616 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 87+616 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 714 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15731,7 +15731,7 @@ var locations = [
 17.5466555555556,
 -93.6678111111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+765 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 87+765 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 715 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15753,7 +15753,7 @@ var locations = [
 17.5465111111111,
 -93.6678472222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 87+774 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA             (SR-9) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 87+774 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA             (SR-9) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 716 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15775,7 +15775,7 @@ var locations = [
 17.5451777777778,
 -93.6664861111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 88+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 88+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 717 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15797,7 +15797,7 @@ var locations = [
 17.5452583333333,
 -93.666375,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 88+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 88+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 718 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15819,7 +15819,7 @@ var locations = [
 17.5446555555556,
 -93.6657583333333,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 88+095 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 88+095 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 719 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15841,7 +15841,7 @@ var locations = [
 17.5387388888889,
 -93.6598861111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 89+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 720 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15863,7 +15863,7 @@ var locations = [
 17.5388361111111,
 -93.6597833333333,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 721 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15885,7 +15885,7 @@ var locations = [
 17.5361361111111,
 -93.6570027777778,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+420 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+420 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 722 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15907,7 +15907,7 @@ var locations = [
 17.5354416666667,
 -93.6564833333333,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+514 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 89+514 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-6) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 723 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15929,7 +15929,7 @@ var locations = [
 17.535125,
 -93.6561611111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+563 <br> <b>Tipo:</b> INFORMACION GENERAL             (SIG-8) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 89+563 <br> <b>Tipo:</b> INFORMACION GENERAL             (SIG-8) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 724 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15951,7 +15951,7 @@ var locations = [
 17.5344583333333,
 -93.6554722222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+666 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 89+666 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 725 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -15973,7 +15973,7 @@ var locations = [
 17.5345222222222,
 -93.65535,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+671 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+671 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 726 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -15995,7 +15995,7 @@ var locations = [
 17.5339361111111,
 -93.6547361111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+762 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+762 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 727 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16017,7 +16017,7 @@ var locations = [
 17.5338027777778,
 -93.6546111111111,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+782 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+782 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 728 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16039,7 +16039,7 @@ var locations = [
 17.5336666666667,
 -93.6544805555556,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+802 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+802 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 729 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16061,7 +16061,7 @@ var locations = [
 17.5335222222222,
 -93.6543472222222,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+823 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+823 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 730 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16083,7 +16083,7 @@ var locations = [
 17.5333861111111,
 -93.654225,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+844 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+844 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 731 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16105,7 +16105,7 @@ var locations = [
 17.5332444444444,
 -93.6540916666667,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+863 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+863 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 732 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16127,7 +16127,7 @@ var locations = [
 17.5331,
 -93.6539777777778,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+884 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+884 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 733 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16149,7 +16149,7 @@ var locations = [
 17.5329555555556,
 -93.6538555555556,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+904 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+904 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 734 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16171,7 +16171,7 @@ var locations = [
 17.5328027777778,
 -93.6537416666667,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+945 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+945 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 735 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16193,7 +16193,7 @@ var locations = [
 17.5326583333333,
 -93.6536194444444,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 89+913 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 89+913 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 736 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16215,7 +16215,7 @@ var locations = [
 17.5324305555556,
 -93.6536277777778,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 90+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+'<b>Kilómetro: </b> 90+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 737 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'DERECHO' ], 
 
@@ -16237,7 +16237,7 @@ var locations = [
 17.5325027777778,
 -93.6535055555556,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 90+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 90+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 738 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ], 
 
@@ -16259,7 +16259,7 @@ var locations = [
 17.5323583333333,
 -93.6534,
 'KM 85+000 AL 90+000',
-'<b>Kilometro: </b> 90+000 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+'<b>Kilómetro: </b> 90+000 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 739 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
 'IZQUIERDO' ],
 
@@ -16280,7 +16280,7 @@ var locations = [
   17.53115116,
   -93.65259578,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+020 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+020 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 740 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16302,7 +16302,7 @@ var locations = [
   17.53085348,
   -93.65241571,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+216 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+216 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 741 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16324,7 +16324,7 @@ var locations = [
   17.5294007,
   -93.65167568,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+394 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 90+394 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 742 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -16346,7 +16346,7 @@ var locations = [
   17.5289497,
   -93.65139144,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+452 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 90+452 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 743 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -16368,7 +16368,7 @@ var locations = [
   17.52827374,
   -93.65080492,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+518 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+518 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 744 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16390,7 +16390,7 @@ var locations = [
   17.52815648,
   -93.65072914,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+533 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+533 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 745 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16412,7 +16412,7 @@ var locations = [
   17.52803923,
   -93.65065335,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+548 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+548 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 746 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16434,7 +16434,7 @@ var locations = [
   17.52791291,
   -93.65058696,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+563 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+563 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 747 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16456,7 +16456,7 @@ var locations = [
   17.52779562,
   -93.65052059,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+579 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+579 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                            (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 748 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16478,7 +16478,7 @@ var locations = [
   17.52767834,
   -93.65045423,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+593 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+593 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 749 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16500,7 +16500,7 @@ var locations = [
   17.52756106,
   -93.65038786,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+608 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+608 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 750 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16522,7 +16522,7 @@ var locations = [
   17.52744377,
   -93.6503215,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+622 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+622 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 751 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16544,7 +16544,7 @@ var locations = [
   17.52732649,
   -93.65025513,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+637 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                         (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+637 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                         (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 752 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16566,7 +16566,7 @@ var locations = [
   17.52720917,
   -93.65019819,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 753 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16588,7 +16588,7 @@ var locations = [
   17.52708285,
   -93.65013179,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+667 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+667 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                      (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 754 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16610,7 +16610,7 @@ var locations = [
   17.52696553,
   -93.65007485,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+681 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+681 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 755 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16632,7 +16632,7 @@ var locations = [
   17.52684822,
   -93.65001791,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+695 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+695 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 756 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16654,7 +16654,7 @@ var locations = [
   17.5267309,
   -93.64996096,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+709 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+709 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 757 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16676,7 +16676,7 @@ var locations = [
   17.52661359,
   -93.64990402,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+723 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+723 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 758 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16698,7 +16698,7 @@ var locations = [
   17.52645114,
   -93.64982808,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+743 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                          (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+743 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                          (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 759 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16720,7 +16720,7 @@ var locations = [
   17.52627966,
   -93.6497521,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+763 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+763 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 760 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16742,7 +16742,7 @@ var locations = [
   17.52611718,
   -93.64968557,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+783 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+783 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 761 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16764,7 +16764,7 @@ var locations = [
   17.52594567,
   -93.64961902,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+802 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+802 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 762 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16786,7 +16786,7 @@ var locations = [
   17.52577415,
   -93.64955246,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+823 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+823 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 763 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16808,7 +16808,7 @@ var locations = [
   17.52561167,
   -93.64948594,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+832 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+832 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                        (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 764 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16830,7 +16830,7 @@ var locations = [
   17.52543109,
   -93.64942877,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+882 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+882 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 765 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16852,7 +16852,7 @@ var locations = [
   17.52525954,
   -93.64937163,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+902 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+902 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 766 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16874,7 +16874,7 @@ var locations = [
   17.525088,
   -93.6493145,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+922 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+922 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 767 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16896,7 +16896,7 @@ var locations = [
   17.52491645,
   -93.64925736,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 90+962 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 90+962 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 768 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16918,7 +16918,7 @@ var locations = [
   17.52456426,
   -93.6491619,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 91+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 769 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16940,7 +16940,7 @@ var locations = [
   17.52423011,
   -93.64907593,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+040 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 91+040 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 770 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -16962,7 +16962,7 @@ var locations = [
   17.52419356,
   -93.64919827,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 771 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -16984,7 +16984,7 @@ var locations = [
   17.52046386,
   -93.64820527,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+426 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                    (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+426 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                    (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 772 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17006,7 +17006,7 @@ var locations = [
   17.51934407,
   -93.64789984,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+551 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+551 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 773 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17028,7 +17028,7 @@ var locations = [
   17.51917253,
   -93.6478427,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+570 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+570 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                       (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 774 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17050,7 +17050,7 @@ var locations = [
   17.51900098,
   -93.64778557,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+590 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+590 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 775 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17072,7 +17072,7 @@ var locations = [
   17.51892019,
   -93.64761572,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+611 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                      (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 91+611 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                      (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 776 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17094,7 +17094,7 @@ var locations = [
   17.51882039,
   -93.64772841,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+631 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+631 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 777 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17116,7 +17116,7 @@ var locations = [
   17.51864888,
   -93.64766186,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 778 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17138,7 +17138,7 @@ var locations = [
   17.51847736,
   -93.64759531,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+671 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+671 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 779 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17160,7 +17160,7 @@ var locations = [
   17.51831488,
   -93.64752879,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+691 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+691 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 780 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17182,7 +17182,7 @@ var locations = [
   17.51814337,
   -93.64746223,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+930 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+930 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 781 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17204,7 +17204,7 @@ var locations = [
   17.51561655,
   -93.64623806,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 91+930 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 91+930 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 782 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17226,7 +17226,7 @@ var locations = [
   17.51565307,
   -93.64612514,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 92+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 783 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17248,7 +17248,7 @@ var locations = [
   17.51529162,
   -93.6460956,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 784 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17270,7 +17270,7 @@ var locations = [
   17.50939887,
   -93.64318282,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+759 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+759 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 785 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17292,7 +17292,7 @@ var locations = [
   17.50932665,
   -93.6431543,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+769 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+769 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 786 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17314,7 +17314,7 @@ var locations = [
   17.50799112,
   -93.64248079,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+932 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+932 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 787 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17336,7 +17336,7 @@ var locations = [
   17.5078287,
   -93.64239544,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+952 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+952 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 788 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17358,7 +17358,7 @@ var locations = [
   17.50766625,
   -93.64231951,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+972 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+972 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 789 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17380,7 +17380,7 @@ var locations = [
   17.50750383,
   -93.64223416,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+992 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+992 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 790 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17402,7 +17402,7 @@ var locations = [
   17.50745873,
   -93.64220574,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 92+998 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 92+998 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 791 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17424,7 +17424,7 @@ var locations = [
   17.50749528,
   -93.64208341,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 792 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17446,7 +17446,7 @@ var locations = [
   17.50735045,
   -93.64214884,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+012 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+012 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 793 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17468,7 +17468,7 @@ var locations = [
   17.50717899,
   -93.64206346,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+032 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+032 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 794 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17490,7 +17490,7 @@ var locations = [
   17.50701657,
   -93.64197811,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+052 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+052 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 795 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17512,7 +17512,7 @@ var locations = [
   17.50686319,
   -93.64189279,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+072 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+072 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 796 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17534,7 +17534,7 @@ var locations = [
   17.50643905,
   -93.64168406,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+124 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACION (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+124 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACION (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 797 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17556,7 +17556,7 @@ var locations = [
   17.50554646,
   -93.64099328,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+246 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+246 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 798 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17578,7 +17578,7 @@ var locations = [
   17.50474364,
   -93.64049122,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+349 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+349 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 799 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17600,7 +17600,7 @@ var locations = [
   17.50459029,
   -93.64039648,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+369 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+369 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 800 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17622,7 +17622,7 @@ var locations = [
   17.50278568,
   -93.63942936,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+623 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+623 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 801 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17644,7 +17644,7 @@ var locations = [
   17.50251507,
   -93.63925886,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+657 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 93+657 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 802 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17666,7 +17666,7 @@ var locations = [
   17.50179402,
   -93.63862522,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+761 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+761 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 803 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17688,7 +17688,7 @@ var locations = [
   17.5016316,
   -93.63853987,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+780 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+780 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 804 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17710,7 +17710,7 @@ var locations = [
   17.50147828,
   -93.63843572,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+801 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+801 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 805 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17732,7 +17732,7 @@ var locations = [
   17.50132492,
   -93.63834099,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+821 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+821 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 806 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17754,7 +17754,7 @@ var locations = [
   17.50117157,
   -93.63824626,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+840 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+840 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 807 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17776,7 +17776,7 @@ var locations = [
   17.50100918,
   -93.6381515,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+861 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+861 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 808 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17798,7 +17798,7 @@ var locations = [
   17.50081073,
   -93.63802835,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+886 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+886 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 809 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17820,7 +17820,7 @@ var locations = [
   17.5006844,
   -93.63796197,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+901 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+901 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 810 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17842,7 +17842,7 @@ var locations = [
   17.50053098,
   -93.63788608,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+920 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+920 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 811 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17864,7 +17864,7 @@ var locations = [
   17.50035953,
   -93.63780071,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 812 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17886,7 +17886,7 @@ var locations = [
   17.50020608,
   -93.63773423,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 93+980 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 93+980 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 813 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17908,7 +17908,7 @@ var locations = [
   17.50002558,
   -93.63764883,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+021 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+021 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 814 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17930,7 +17930,7 @@ var locations = [
   17.49986313,
   -93.63757291,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+039 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                         (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+039 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                         (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 815 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17952,7 +17952,7 @@ var locations = [
   17.49958285,
   -93.63760019,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+059 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+059 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 816 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -17974,7 +17974,7 @@ var locations = [
   17.49969164,
   -93.63749695,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+079 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+079 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 817 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -17996,7 +17996,7 @@ var locations = [
   17.49952916,
   -93.63743045,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+080 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+080 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 818 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18018,7 +18018,7 @@ var locations = [
   17.49918609,
   -93.6373068,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 819 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18040,7 +18040,7 @@ var locations = [
   17.49901454,
   -93.63724968,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+099 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+099 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 820 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18062,7 +18062,7 @@ var locations = [
   17.49848175,
   -93.63709712,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+159 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+159 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 821 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18084,7 +18084,7 @@ var locations = [
   17.4983011,
   -93.63705881,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+179 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+179 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 822 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18106,7 +18106,7 @@ var locations = [
   17.49812952,
   -93.63701111,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+199 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+199 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 823 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18128,7 +18128,7 @@ var locations = [
   17.49755096,
   -93.63703736,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+388 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+388 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 824 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18150,7 +18150,7 @@ var locations = [
   17.49644031,
   -93.63669439,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+238 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 94+238 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 825 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18172,7 +18172,7 @@ var locations = [
   17.4963044,
   -93.63679753,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+481 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+481 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 826 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18194,7 +18194,7 @@ var locations = [
   17.49488616,
   -93.63653827,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+548 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+548 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 827 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18216,7 +18216,7 @@ var locations = [
   17.49471452,
   -93.63650942,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+568 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+568 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 828 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18238,7 +18238,7 @@ var locations = [
   17.49454288,
   -93.63648056,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+587 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+587 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 829 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18260,7 +18260,7 @@ var locations = [
   17.49436223,
   -93.63644226,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+608 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+608 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 830 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18282,7 +18282,7 @@ var locations = [
   17.49418158,
   -93.63640395,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+628 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+628 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 831 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18304,7 +18304,7 @@ var locations = [
   17.49400996,
   -93.63636568,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+648 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+648 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 832 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18326,7 +18326,7 @@ var locations = [
   17.49382928,
   -93.63633679,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+668 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+668 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 833 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18348,7 +18348,7 @@ var locations = [
   17.49364866,
   -93.63628907,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+688 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+688 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 834 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18370,7 +18370,7 @@ var locations = [
   17.49347705,
   -93.63625079,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+708 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+708 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 835 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18392,7 +18392,7 @@ var locations = [
   17.49330544,
   -93.63621252,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+728 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+728 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 836 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18414,7 +18414,7 @@ var locations = [
   17.49309773,
   -93.63615528,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+751 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+751 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 837 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18436,7 +18436,7 @@ var locations = [
   17.49277262,
   -93.63606938,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+788 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+788 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 838 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18458,7 +18458,7 @@ var locations = [
   17.49242042,
   -93.63597396,
   'KM 90+000 AL 95+000',
-  '<b>Kilometro: </b> 94+808 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 94+808 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 839 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18480,7 +18480,7 @@ var locations = [
   17.49028087,
   -93.63515649,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 95+081 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 95+081 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 840 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18502,7 +18502,7 @@ var locations = [
   17.4858198,
   -93.63389772,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 95+522 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 95+522 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 841 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18524,7 +18524,7 @@ var locations = [
   17.48286749,
   -93.63285144,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 95+969 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 95+969 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 842 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18546,7 +18546,7 @@ var locations = [
   17.4825785,
   -93.63277509,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 843 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18568,7 +18568,7 @@ var locations = [
   17.48175662,
   -93.63257446,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+095 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+095 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 844 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18590,7 +18590,7 @@ var locations = [
   17.48046473,
   -93.6323722,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+238 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 96+238 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 845 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18612,7 +18612,7 @@ var locations = [
   17.4804923,
   -93.63223102,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+241 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+241 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 846 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18634,7 +18634,7 @@ var locations = [
   17.48047419,
   -93.63224038,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+259 <br> <b>Tipo:</b> INFORMACION GENERAL  (SIG-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 96+259 <br> <b>Tipo:</b> INFORMACION GENERAL  (SIG-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 847 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18656,7 +18656,7 @@ var locations = [
   17.48028411,
   -93.63232449,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+239 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+239 <br> <b>Tipo:</b> INFORMACION GENERAL (SIG-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 848 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18678,7 +18678,7 @@ var locations = [
   17.47977834,
   -93.6322003,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+317 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 96+317 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 849 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -18700,7 +18700,7 @@ var locations = [
   17.47924596,
   -93.63191591,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+297 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+297 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 850 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18722,7 +18722,7 @@ var locations = [
   17.47907438,
   -93.63186822,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+381 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+381 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 851 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18744,7 +18744,7 @@ var locations = [
   17.4789028,
   -93.63182054,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+400 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+400 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 852 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18766,7 +18766,7 @@ var locations = [
   17.47873118,
   -93.63178227,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+420 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+420 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 853 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18788,7 +18788,7 @@ var locations = [
   17.47854149,
   -93.63174394,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+440 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+440 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 854 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18810,7 +18810,7 @@ var locations = [
   17.47836078,
   -93.63172448,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+460 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+460 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 855 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18832,7 +18832,7 @@ var locations = [
   17.47816199,
   -93.63170496,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 46+479 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 46+479 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 856 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18854,7 +18854,7 @@ var locations = [
   17.47799029,
   -93.63169495,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 46+499 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 46+499 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 857 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18876,7 +18876,7 @@ var locations = [
   17.47780952,
   -93.63169432,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 46+520 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 46+520 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 858 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18898,7 +18898,7 @@ var locations = [
   17.47762869,
   -93.63171254,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 46+539 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 46+539 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 859 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18920,7 +18920,7 @@ var locations = [
   17.47744789,
   -93.63172133,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+513 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+513 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 860 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18942,7 +18942,7 @@ var locations = [
   17.47726703,
   -93.63174896,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+533 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+533 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 861 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18964,7 +18964,7 @@ var locations = [
   17.47708614,
   -93.63178601,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+552 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+552 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 862 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -18986,7 +18986,7 @@ var locations = [
   17.47690521,
   -93.63183248,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+572 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+572 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 863 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19008,7 +19008,7 @@ var locations = [
   17.47673333,
   -93.63187898,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+592 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+592 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 864 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19030,7 +19030,7 @@ var locations = [
   17.47655238,
   -93.63193486,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+611 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+611 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 865 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19052,7 +19052,7 @@ var locations = [
   17.47638041,
   -93.63200962,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+631 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+631 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 866 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19074,7 +19074,7 @@ var locations = [
   17.47622654,
   -93.63207501,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+651 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 867 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19096,7 +19096,7 @@ var locations = [
   17.47608172,
   -93.63214044,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+671 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+671 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 868 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19118,7 +19118,7 @@ var locations = [
   17.47582825,
   -93.632262,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+686 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+686 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 869 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19140,7 +19140,7 @@ var locations = [
   17.47484086,
   -93.63294613,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+847 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 96+847 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 870 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19162,7 +19162,7 @@ var locations = [
   17.47473275,
   -93.63283273,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+924 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+924 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 871 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19184,7 +19184,7 @@ var locations = [
   17.47428908,
   -93.63307607,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+853 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 96+853 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 872 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19206,7 +19206,7 @@ var locations = [
   17.47420714,
   -93.63326415,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 96+717 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 96+717 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 873 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19228,7 +19228,7 @@ var locations = [
   17.47360963,
   -93.63356347,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 874 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19250,7 +19250,7 @@ var locations = [
   17.47353765,
   -93.63345962,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 875 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19272,7 +19272,7 @@ var locations = [
   17.47351906,
   -93.63361967,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+010 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+010 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 876 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19294,7 +19294,7 @@ var locations = [
   17.4733561,
   -93.63370387,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+030 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+030 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 877 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19316,7 +19316,7 @@ var locations = [
   17.47319317,
   -93.63377865,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+050 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+050 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 878 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19338,7 +19338,7 @@ var locations = [
   17.47302119,
   -93.6338534,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+070 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+070 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 879 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19360,7 +19360,7 @@ var locations = [
   17.47284922,
   -93.63392815,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+091 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+091 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 880 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19382,7 +19382,7 @@ var locations = [
   17.47267731,
   -93.63398406,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+110 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+110 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 881 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19404,7 +19404,7 @@ var locations = [
   17.47250536,
   -93.63404939,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+130 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+130 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 882 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19426,7 +19426,7 @@ var locations = [
   17.47232444,
   -93.63409586,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+151 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+151 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 883 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19448,7 +19448,7 @@ var locations = [
   17.47214358,
   -93.63412348,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+171 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+171 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 884 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19470,7 +19470,7 @@ var locations = [
   17.47196272,
   -93.63415111,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+191 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+191 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 885 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19492,7 +19492,7 @@ var locations = [
   17.47177285,
   -93.63416929,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+212 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+212 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 886 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19514,7 +19514,7 @@ var locations = [
   17.47159205,
   -93.63417808,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+232 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+232 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 887 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19536,7 +19536,7 @@ var locations = [
   17.47126672,
   -93.63415812,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+268 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+268 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 888 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19558,7 +19558,7 @@ var locations = [
   17.47110406,
   -93.63414814,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+287 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+287 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 889 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19580,7 +19580,7 @@ var locations = [
   17.47089626,
   -93.63411917,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+390 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+390 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 890 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19602,7 +19602,7 @@ var locations = [
   17.47017353,
   -93.63400365,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+334 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+334 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 891 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -19624,7 +19624,7 @@ var locations = [
   17.47018302,
   -93.63386241,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+336 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+336 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 892 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19646,7 +19646,7 @@ var locations = [
   17.46928862,
   -93.63372746,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+392 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+392 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 893 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19668,7 +19668,7 @@ var locations = [
   17.46910791,
   -93.633708,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+455 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+455 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 894 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19690,7 +19690,7 @@ var locations = [
   17.46891816,
   -93.63368851,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+492 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+492 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 895 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19712,7 +19712,7 @@ var locations = [
   17.46836684,
   -93.63367719,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+511 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+511 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 896 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19734,7 +19734,7 @@ var locations = [
   17.46818601,
   -93.6336954,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+532 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+532 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 897 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19756,7 +19756,7 @@ var locations = [
   17.46800515,
   -93.63372302,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+591 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+591 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 898 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19778,7 +19778,7 @@ var locations = [
   17.46782426,
   -93.63376007,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+611 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+611 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 899 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19800,7 +19800,7 @@ var locations = [
   17.46764333,
   -93.63380653,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+630 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+630 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 900 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19822,7 +19822,7 @@ var locations = [
   17.46747145,
   -93.63385303,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+650 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+650 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 901 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19844,7 +19844,7 @@ var locations = [
   17.46729951,
   -93.63391836,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+670 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+670 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 902 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19866,7 +19866,7 @@ var locations = [
   17.46679257,
   -93.63416147,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+689 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+689 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 903 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19888,7 +19888,7 @@ var locations = [
   17.46675629,
   -93.63419901,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+709 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+709 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 904 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19910,7 +19910,7 @@ var locations = [
   17.46663858,
   -93.63426453,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+768 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+768 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 905 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19932,7 +19932,7 @@ var locations = [
   17.46633962,
   -93.6344801,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+774 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+774 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 906 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19954,7 +19954,7 @@ var locations = [
   17.46619464,
   -93.63459262,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+787 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+787 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 907 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19976,7 +19976,7 @@ var locations = [
   17.46604966,
   -93.63470513,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+794 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+794 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 908 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -19998,7 +19998,7 @@ var locations = [
   17.46611251,
   -93.63483719,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+870 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+870 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 909 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20020,7 +20020,7 @@ var locations = [
   17.4656961,
   -93.63503352,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+827 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+827 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 910 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20042,7 +20042,7 @@ var locations = [
   17.46591312,
   -93.63500602,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+898 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+898 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 911 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20064,7 +20064,7 @@ var locations = [
   17.4656961,
   -93.63503352,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+846 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+846 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 912 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20086,7 +20086,7 @@ var locations = [
   17.46572271,
   -93.63519372,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+927 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+927 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 913 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20108,7 +20108,7 @@ var locations = [
   17.46551479,
   -93.63520242,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+866 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 97+866 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 914 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20130,7 +20130,7 @@ var locations = [
   17.46558674,
   -93.63531568,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+947 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+947 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 915 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20152,7 +20152,7 @@ var locations = [
   17.46545978,
   -93.63544709,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+967 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+967 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 916 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20174,7 +20174,7 @@ var locations = [
   17.46532381,
   -93.63556905,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+987 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+987 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 917 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20196,7 +20196,7 @@ var locations = [
   17.46523321,
   -93.63563466,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 97+999 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 97+999 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 918 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20218,7 +20218,7 @@ var locations = [
   17.46514316,
   -93.63553075,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 919 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20240,7 +20240,7 @@ var locations = [
   17.4651788,
   -93.63569097,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+047 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+047 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 920 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20262,7 +20262,7 @@ var locations = [
   17.46502481,
   -93.63579403,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+068 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+068 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 921 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20284,7 +20284,7 @@ var locations = [
   17.46487987,
   -93.63589713,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+149 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+149 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 922 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20306,7 +20306,7 @@ var locations = [
   17.46487083,
   -93.63589709,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+169 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+169 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 923 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20328,7 +20328,7 @@ var locations = [
   17.46471684,
   -93.63600015,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+189 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+189 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 924 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20350,7 +20350,7 @@ var locations = [
   17.46403798,
   -93.63629916,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+270 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+270 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 925 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20372,7 +20372,7 @@ var locations = [
   17.46386607,
   -93.63635507,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+291 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+291 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 926 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20394,7 +20394,7 @@ var locations = [
   17.46368512,
   -93.63641095,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+311 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+311 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 927 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20416,7 +20416,7 @@ var locations = [
   17.46296176,
   -93.6364932,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 28+331 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 28+331 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 928 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20438,7 +20438,7 @@ var locations = [
   17.46277195,
   -93.63649254,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 28+351 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 28+351 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 929 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20460,7 +20460,7 @@ var locations = [
   17.46259121,
   -93.63648249,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+372 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+372 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 930 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20482,7 +20482,7 @@ var locations = [
   17.46241047,
   -93.63647245,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+392 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+392 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 931 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20504,7 +20504,7 @@ var locations = [
   17.46222976,
   -93.63645298,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+412 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+412 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 932 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20526,7 +20526,7 @@ var locations = [
   17.46204911,
   -93.63641469,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+432 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+432 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 933 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20548,7 +20548,7 @@ var locations = [
   17.46186848,
   -93.63636697,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+452 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+452 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 934 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20570,7 +20570,7 @@ var locations = [
   17.4616969,
   -93.63631929,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+472 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+472 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 935 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20592,7 +20592,7 @@ var locations = [
   17.46151634,
   -93.63625274,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+492 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+492 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 936 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20614,7 +20614,7 @@ var locations = [
   17.46134485,
   -93.6361768,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+667 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+667 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 937 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20636,7 +20636,7 @@ var locations = [
   17.4611824,
   -93.6361009,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+417 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 98+417 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 938 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -20658,7 +20658,7 @@ var locations = [
   17.46038025,
   -93.63538238,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+582 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+582 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 939 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20680,7 +20680,7 @@ var locations = [
   17.45983926,
   -93.63496614,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+669 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+669 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 940 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20702,7 +20702,7 @@ var locations = [
   17.45974908,
   -93.6348999,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+690 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+690 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 941 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20724,7 +20724,7 @@ var locations = [
   17.45959579,
   -93.63478636,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+638 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+638 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 942 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20746,7 +20746,7 @@ var locations = [
   17.45928004,
   -93.63459692,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+728 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+728 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 943 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20768,7 +20768,7 @@ var locations = [
   17.45911764,
   -93.63450219,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+748 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+748 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 944 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20790,7 +20790,7 @@ var locations = [
   17.45878367,
   -93.63435977,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+787 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+787 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 945 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20812,7 +20812,7 @@ var locations = [
   17.45863022,
   -93.63429331,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+804 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+804 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 946 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20834,7 +20834,7 @@ var locations = [
   17.45844969,
   -93.63421735,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+825 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+825 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 947 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20856,7 +20856,7 @@ var locations = [
   17.45828718,
   -93.63416028,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+844 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+844 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 948 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20878,7 +20878,7 @@ var locations = [
   17.45809752,
   -93.63411254,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+865 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+865 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 949 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20900,7 +20900,7 @@ var locations = [
   17.45791683,
   -93.63408366,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+884 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+884 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 950 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20922,7 +20922,7 @@ var locations = [
   17.45774516,
   -93.63406424,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+904 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+904 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 951 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20944,7 +20944,7 @@ var locations = [
   17.45760057,
   -93.63405432,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+918 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+918 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 952 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20966,7 +20966,7 @@ var locations = [
   17.45740172,
   -93.63405363,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 953 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -20988,7 +20988,7 @@ var locations = [
   17.45723903,
   -93.63405307,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 98+958 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 98+958 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 954 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21010,7 +21010,7 @@ var locations = [
   17.45723864,
   -93.63417549,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 955 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21032,7 +21032,7 @@ var locations = [
   17.45626256,
   -93.63414386,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+106 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+106 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 956 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21054,7 +21054,7 @@ var locations = [
   17.45608188,
   -93.63411499,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+126 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+126 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 957 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21076,7 +21076,7 @@ var locations = [
   17.45590117,
   -93.63409553,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+146 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+146 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 958 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21098,7 +21098,7 @@ var locations = [
   17.45572046,
   -93.63407607,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+169 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+169 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 959 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21120,7 +21120,7 @@ var locations = [
   17.45553071,
   -93.63405658,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+205 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+205 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 960 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21142,7 +21142,7 @@ var locations = [
   17.45533198,
   -93.63401822,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+225 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+225 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 961 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21164,7 +21164,7 @@ var locations = [
   17.45500686,
   -93.63393234,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+245 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+245 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 962 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21186,7 +21186,7 @@ var locations = [
   17.45483537,
   -93.63385641,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+265 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+265 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 963 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21208,7 +21208,7 @@ var locations = [
   17.45425771,
   -93.63360015,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+295 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+295 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 964 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21230,7 +21230,7 @@ var locations = [
   17.45393334,
   -93.63327884,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+265 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 99+265 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 965 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21252,7 +21252,7 @@ var locations = [
   17.45393334,
   -93.63327884,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+342 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 99+342 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 966 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21274,7 +21274,7 @@ var locations = [
   17.4519913,
   -93.63287662,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+507 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 99+507 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 967 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21296,7 +21296,7 @@ var locations = [
   17.45102399,
   -93.63292978,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+613 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+613 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 968 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21318,7 +21318,7 @@ var locations = [
   17.45087039,
   -93.63291042,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+687 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+687 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 969 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21340,7 +21340,7 @@ var locations = [
   17.45068971,
   -93.63288154,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+707 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+707 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 970 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21362,7 +21362,7 @@ var locations = [
   17.45050002,
   -93.63284322,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+725 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+725 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 971 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21384,7 +21384,7 @@ var locations = [
   17.4503194,
   -93.63279551,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+745 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+745 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 972 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21406,7 +21406,7 @@ var locations = [
   17.45014782,
   -93.63274784,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+766 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+766 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 973 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21428,7 +21428,7 @@ var locations = [
   17.44996719,
   -93.63270013,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+786 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+786 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 974 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21450,7 +21450,7 @@ var locations = [
   17.44979561,
   -93.63265245,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+806 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+806 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 975 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21472,7 +21472,7 @@ var locations = [
   17.44852254,
   -93.63221488,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+826 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO(SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+826 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO(SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 976 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21494,7 +21494,7 @@ var locations = [
   17.44847741,
   -93.63219589,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 99+846 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 99+846 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 977 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21516,7 +21516,7 @@ var locations = [
   17.44851395,
   -93.6320736,
   'KM 95+000 AL 100+000',
-  '<b>Kilometro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 978 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21538,7 +21538,7 @@ var locations = [
   17.448514,
   -93.6320736,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 979 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21560,7 +21560,7 @@ var locations = [
   17.4484774,
   -93.6321959,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 100+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 980 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21582,7 +21582,7 @@ var locations = [
   17.4478458,
   -93.6318359,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+078 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 100+078 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 981 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21604,7 +21604,7 @@ var locations = [
   17.4474571,
   -93.6318534,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+119 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 100+119 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 982 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21626,7 +21626,7 @@ var locations = [
   17.4474034,
   -93.6316837,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+129 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 100+129 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 983 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21648,7 +21648,7 @@ var locations = [
   17.4452807,
   -93.631262,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+368 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 100+368 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 984 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21670,7 +21670,7 @@ var locations = [
   17.4444322,
   -93.6309107,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+467 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 100+467 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 985 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21692,7 +21692,7 @@ var locations = [
   17.4408825,
   -93.6301169,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 100+831 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 100+831 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 986 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21714,7 +21714,7 @@ var locations = [
   17.4394196,
   -93.6296693,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 101+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 987 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21736,7 +21736,7 @@ var locations = [
   17.4394472,
   -93.6295188,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 101+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 988 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21758,7 +21758,7 @@ var locations = [
   17.4389596,
   -93.6293664,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+057 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA           (SP-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 101+057 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA           (SP-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 989 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21780,7 +21780,7 @@ var locations = [
   17.4377582,
   -93.6291363,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+192 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 101+192 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 990 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21802,7 +21802,7 @@ var locations = [
   17.4369549,
   -93.6287475,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+289 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 101+289 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 991 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21824,7 +21824,7 @@ var locations = [
   17.4356632,
   -93.6284888,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+434 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 101+434 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 992 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21846,7 +21846,7 @@ var locations = [
   17.4319524,
   -93.6271861,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+900 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 101+900 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 993 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21868,7 +21868,7 @@ var locations = [
   17.4314373,
   -93.6271749,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 101+955 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 101+955 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 994 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21890,7 +21890,7 @@ var locations = [
   17.431049,
   -93.6270512,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 995 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21912,7 +21912,7 @@ var locations = [
   17.4310855,
   -93.6269195,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 102+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 996 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -21934,7 +21934,7 @@ var locations = [
   17.4303718,
   -93.6268323,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+070.17 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+070.17 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 997 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21956,7 +21956,7 @@ var locations = [
   17.4298572,
   -93.6267752,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+079 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+079 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 998 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -21978,7 +21978,7 @@ var locations = [
   17.4298572,
   -93.6266423,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+099 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+099 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 999 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22000,7 +22000,7 @@ var locations = [
   17.4296857,
   -93.6265663,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+139 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+139 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1000 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22022,7 +22022,7 @@ var locations = [
   17.4295232,
   -93.6264905,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+160 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+160 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1001 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22044,7 +22044,7 @@ var locations = [
   17.4293608,
   -93.6264052,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+179 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+179 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1002 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22066,7 +22066,7 @@ var locations = [
   17.4292074,
   -93.6263199,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+199 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+199 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1003 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22088,7 +22088,7 @@ var locations = [
   17.429045,
   -93.6262252,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+218 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                                  (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+218 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                                  (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1004 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22110,7 +22110,7 @@ var locations = [
   17.4288826,
   -93.6261305,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+239 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+239 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1005 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22132,7 +22132,7 @@ var locations = [
   17.4287292,
   -93.6260264,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+259 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+259 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1006 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22154,7 +22154,7 @@ var locations = [
   17.4285759,
   -93.6259223,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+299 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+299 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                 (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1007 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22176,7 +22176,7 @@ var locations = [
   17.4284407,
   -93.6258182,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+318 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+318 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                    (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1008 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22198,7 +22198,7 @@ var locations = [
   17.4282874,
   -93.6256953,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+339 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+339 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1009 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22220,7 +22220,7 @@ var locations = [
   17.4281521,
   -93.6255913,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+358 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+358 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1010 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22242,7 +22242,7 @@ var locations = [
   17.4280079,
   -93.6254684,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+379 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+379 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                   (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1011 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22264,7 +22264,7 @@ var locations = [
   17.4277375,
   -93.6252132,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+419 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+419 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1012 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22286,7 +22286,7 @@ var locations = [
   17.426783,
   -93.6240801,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+597 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 102+597 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1013 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22308,7 +22308,7 @@ var locations = [
   17.4261426,
   -93.6236354,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+681 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+681 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1014 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22330,7 +22330,7 @@ var locations = [
   17.4255749,
   -93.6230779,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 102+767 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 102+767 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1015 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22352,7 +22352,7 @@ var locations = [
   17.4241338,
   -93.6214724,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1016 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22374,7 +22374,7 @@ var locations = [
   17.424043,
   -93.6215756,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1017 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22396,7 +22396,7 @@ var locations = [
   17.421348,
   -93.6191561,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+394 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+394 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1018 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22418,7 +22418,7 @@ var locations = [
   17.420789,
   -93.6187117,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+471 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+471 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1019 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22440,7 +22440,7 @@ var locations = [
   17.4202113,
   -93.6184367,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+539 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+539 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1020 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22462,7 +22462,7 @@ var locations = [
   17.419499,
   -93.6178882,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+642 <br> <b>Tipo:</b> SEÑAL PREVENTIVA   (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+642 <br> <b>Tipo:</b> SEÑAL PREVENTIVA   (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1021 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22484,7 +22484,7 @@ var locations = [
   17.4188413,
   -93.6171893,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+746 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+746 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1022 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22506,7 +22506,7 @@ var locations = [
   17.4185618,
   -93.6169718,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+783 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+783 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1023 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22528,7 +22528,7 @@ var locations = [
   17.4184085,
   -93.6168677,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+803 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+803 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1024 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22550,7 +22550,7 @@ var locations = [
   17.4181914,
   -93.6169046,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+708.85 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-28) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+708.85 <br> <b>Tipo:</b> SEÑAL PREVENTIVA          (SP-28) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1025 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22572,7 +22572,7 @@ var locations = [
   17.4177587,
   -93.6165266,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+881 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+881 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1026 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22594,7 +22594,7 @@ var locations = [
   17.4175872,
   -93.6164601,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+902 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+902 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1027 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22616,7 +22616,7 @@ var locations = [
   17.4174156,
   -93.616403,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+921 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+921 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1028 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22638,7 +22638,7 @@ var locations = [
   17.41737,
   -93.6165347,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+921 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+921 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1029 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22660,7 +22660,7 @@ var locations = [
   17.4172441,
   -93.616346,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+940 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1030 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22682,7 +22682,7 @@ var locations = [
   17.4170634,
   -93.6163077,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+846.56 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+846.56 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1031 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22704,7 +22704,7 @@ var locations = [
   17.4169094,
   -93.6164202,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+974 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 103+974 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1032 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22726,7 +22726,7 @@ var locations = [
   17.4168828,
   -93.6162694,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+980 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+980 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1033 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22748,7 +22748,7 @@ var locations = [
   17.4166836,
   -93.6163817,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 104+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1034 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -22770,7 +22770,7 @@ var locations = [
   17.4167021,
   -93.6162406,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 103+999 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 103+999 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1035 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22792,7 +22792,7 @@ var locations = [
   17.416693,
   -93.6162405,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1036 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22814,7 +22814,7 @@ var locations = [
   17.4165214,
   -93.6162211,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+019 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+019 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1037 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22836,7 +22836,7 @@ var locations = [
   17.4163316,
   -93.6162111,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+039 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+039 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1038 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22858,7 +22858,7 @@ var locations = [
   17.4161418,
   -93.616201,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+060 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+060 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1039 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22880,7 +22880,7 @@ var locations = [
   17.4143883,
   -93.6161857,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+254 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+254 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1040 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22902,7 +22902,7 @@ var locations = [
   17.4130055,
   -93.6161623,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+773 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+773 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN   (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1041 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22924,7 +22924,7 @@ var locations = [
   17.4118397,
   -93.6160736,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+903 <br> <b>Tipo:</b> SEÑAL PREVENTIVA   (SP-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+903 <br> <b>Tipo:</b> SEÑAL PREVENTIVA   (SP-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1042 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22946,7 +22946,7 @@ var locations = [
   17.4113157,
   -93.6160248,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 104+961 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 104+961 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1043 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22968,7 +22968,7 @@ var locations = [
   17.4109723,
   -93.6159954,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 105+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 105+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1044 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -22990,7 +22990,7 @@ var locations = [
   17.4109538,
   -93.6161271,
   'KM 100+000 AL 105+000',
-  '<b>Kilometro: </b> 105+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 105+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1045 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23012,7 +23012,7 @@ var locations = [
   17.4043781,
   -93.6146458,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 105+193 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 105+193 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1046 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23034,7 +23034,7 @@ var locations = [
   17.403439,
   -93.6143603,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 105+808 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 105+808 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1047 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23056,7 +23056,7 @@ var locations = [
   17.4018413,
   -93.6136677,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 106+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 106+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1048 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23078,7 +23078,7 @@ var locations = [
   17.4018778,
   -93.613536,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 106+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 106+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1049 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23100,7 +23100,7 @@ var locations = [
   17.3982551,
   -93.6129402,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 106+405 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 106+405 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1050 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23122,7 +23122,7 @@ var locations = [
   17.3980017,
   -93.6130523,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 106+432 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 106+432 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1051 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23144,7 +23144,7 @@ var locations = [
   17.3933799,
   -93.6110694,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 107+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 107+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1052 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23166,7 +23166,7 @@ var locations = [
   17.3932892,
   -93.6111821,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 107+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 107+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1053 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23188,7 +23188,7 @@ var locations = [
   17.3908472,
   -93.6087263,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 107+375 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 107+375 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1054 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23210,7 +23210,7 @@ var locations = [
   17.3865719,
   -93.6057469,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 108+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1055 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23232,7 +23232,7 @@ var locations = [
   17.3866175,
   -93.6056058,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 108+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1056 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23254,7 +23254,7 @@ var locations = [
   17.3844684,
   -93.6048833,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+250 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 108+250 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1057 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23276,7 +23276,7 @@ var locations = [
   17.3814088,
   -93.6033765,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+145.05 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 108+145.05 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1058 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23298,7 +23298,7 @@ var locations = [
   17.3797134,
   -93.6021001,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+376.34 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 108+376.34 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1059 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23320,7 +23320,7 @@ var locations = [
   17.379191,
   -93.601496,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 108+461.56 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 108+461.56 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1060 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23342,7 +23342,7 @@ var locations = [
   17.3789565,
   -93.6013069,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 109+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 109+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1061 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23364,7 +23364,7 @@ var locations = [
   17.3788658,
   -93.6014196,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 109+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 109+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1062 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23386,7 +23386,7 @@ var locations = [
   17.3761607,
   -93.5992363,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 109+379 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 109+379 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1063 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23408,7 +23408,7 @@ var locations = [
   17.3722192,
   -93.5964184,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 106+912 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 106+912 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1064 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23430,7 +23430,7 @@ var locations = [
   17.3715154,
   -93.5960208,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 110+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 110+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1065 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23452,7 +23452,7 @@ var locations = [
   17.371588,
   -93.5958986,
   'KM 105+000 AL 110+000',
-  '<b>Kilometro: </b> 110+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 110+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1066 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23474,7 +23474,7 @@ var locations = [
   17.3657672,
   -93.5927925,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 110+724 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 110+724 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1067 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23496,7 +23496,7 @@ var locations = [
   17.3633923,
   -93.5920224,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1068 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23518,7 +23518,7 @@ var locations = [
   17.3634198,
   -93.5918907,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 111+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1069 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23540,7 +23540,7 @@ var locations = [
   17.363185,
   -93.5918147,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+177 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 111+177 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1070 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23562,7 +23562,7 @@ var locations = [
   17.3629949,
   -93.5919176,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+045 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+045 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1071 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23584,7 +23584,7 @@ var locations = [
   17.362109,
   -93.5916606,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-26) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-26) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1072 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23606,7 +23606,7 @@ var locations = [
   17.362109,
   -93.5916606,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-17) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-17) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1073 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23628,7 +23628,7 @@ var locations = [
   17.362109,
   -93.5916606,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-16) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-16) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1074 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23650,7 +23650,7 @@ var locations = [
   17.362109,
   -93.5916606,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+146 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS               (SIS-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1075 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23672,7 +23672,7 @@ var locations = [
   17.362109,
   -93.5916606,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+146 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+146 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1076 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23694,7 +23694,7 @@ var locations = [
   17.361848,
   -93.5915845,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+177 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+177 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1077 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23716,7 +23716,7 @@ var locations = [
   17.360412,
   -93.5911751,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+341 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+341 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1078 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23738,7 +23738,7 @@ var locations = [
   17.3585701,
   -93.5905009,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+568 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-29) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+568 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-29) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1079 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23760,7 +23760,7 @@ var locations = [
   17.3572075,
   -93.5897154,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+738 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 111+738 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO               (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1080 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23782,7 +23782,7 @@ var locations = [
   17.3562141,
   -93.589411,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+852 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+852 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN    (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1081 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23804,7 +23804,7 @@ var locations = [
   17.3557177,
   -93.5891741,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+913 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+913 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1082 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23826,7 +23826,7 @@ var locations = [
   17.3549864,
   -93.58888,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1083 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23848,7 +23848,7 @@ var locations = [
   17.355023,
   -93.5887483,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1084 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -23870,7 +23870,7 @@ var locations = [
   17.3540294,
   -93.5885004,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+113 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+113 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1085 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23892,7 +23892,7 @@ var locations = [
   17.353569,
   -93.5883201,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+167 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+167 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1086 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23914,7 +23914,7 @@ var locations = [
   17.35328,
   -93.5882157,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+201 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS)  <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+201 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS)  <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1087 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23936,7 +23936,7 @@ var locations = [
   17.3526661,
   -93.5879878,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+273 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+273 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1088 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23958,7 +23958,7 @@ var locations = [
   17.3526661,
   -93.5879878,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 111+803.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 111+803.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1089 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -23980,7 +23980,7 @@ var locations = [
   17.3517723,
   -93.5876368,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+323 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+323 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1090 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24002,7 +24002,7 @@ var locations = [
   17.3517723,
   -93.5876273,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+379 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS)  <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+379 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS)  <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1091 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24024,7 +24024,7 @@ var locations = [
   17.3517456,
   -93.5874767,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+388 <br> <b>Tipo:</b> INFORMARIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+388 <br> <b>Tipo:</b> INFORMARIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1092 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24046,7 +24046,7 @@ var locations = [
   17.3510952,
   -93.5873616,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+459 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+459 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1093 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24068,7 +24068,7 @@ var locations = [
   17.3506979,
   -93.5872192,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1094 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24090,7 +24090,7 @@ var locations = [
   17.3506979,
   -93.5872192,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1095 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24112,7 +24112,7 @@ var locations = [
   17.3506979,
   -93.5872192,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1096 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24134,7 +24134,7 @@ var locations = [
   17.3506979,
   -93.5872192,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+521 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1097 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24156,7 +24156,7 @@ var locations = [
   17.3506979,
   -93.5872192,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+521 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+521 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1098 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24178,7 +24178,7 @@ var locations = [
   17.3505715,
   -93.5871717,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+001.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+001.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1099 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24200,7 +24200,7 @@ var locations = [
   17.3505452,
   -93.5868893,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+534 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+534 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1100 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24222,7 +24222,7 @@ var locations = [
   17.3501832,
   -93.5870293,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+566 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+566 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1101 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24244,7 +24244,7 @@ var locations = [
   17.3500748,
   -93.5869913,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+059.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+059.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1102 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24266,7 +24266,7 @@ var locations = [
   17.3501571,
   -93.586681,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+583 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+583 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1103 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24288,7 +24288,7 @@ var locations = [
   17.3496143,
   -93.5868393,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+632 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+632 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1104 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24310,7 +24310,7 @@ var locations = [
   17.349443,
   -93.586707,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+655 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+655 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1105 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24332,7 +24332,7 @@ var locations = [
   17.349443,
   -93.586707,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+655 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+655 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1106 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24354,7 +24354,7 @@ var locations = [
   17.3489383,
   -93.5861971,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+727 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+727 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1107 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24376,7 +24376,7 @@ var locations = [
   17.3488934,
   -93.5861029,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+736 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+736 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1108 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24398,7 +24398,7 @@ var locations = [
   17.3484322,
   -93.5861767,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+661 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+661 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1109 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24420,7 +24420,7 @@ var locations = [
   17.3480629,
   -93.5857143,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+720 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+720 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1110 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24442,7 +24442,7 @@ var locations = [
   17.3480088,
   -93.585685,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+726 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+726 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1111 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24464,7 +24464,7 @@ var locations = [
   17.3478817,
   -93.5858549,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+730 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+730 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1112 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24486,7 +24486,7 @@ var locations = [
   17.3478734,
   -93.5856196,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+743 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+743 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1113 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24508,7 +24508,7 @@ var locations = [
   17.3475395,
   -93.5854397,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+785 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+785 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1114 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24530,7 +24530,7 @@ var locations = [
   17.3474035,
   -93.5855805,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+791 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+791 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1115 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24552,7 +24552,7 @@ var locations = [
   17.3473951,
   -93.585364,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+401.13 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+401.13 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1116 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24574,7 +24574,7 @@ var locations = [
   17.3473223,
   -93.5855238,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+802 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+802 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1117 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24596,7 +24596,7 @@ var locations = [
   17.3472138,
   -93.5855328,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+812 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 112+812 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1118 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24618,7 +24618,7 @@ var locations = [
   17.3471965,
   -93.5852598,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+827 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+827 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1119 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24640,7 +24640,7 @@ var locations = [
   17.3458607,
   -93.5845874,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+987 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+987 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1120 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24662,7 +24662,7 @@ var locations = [
   17.3457159,
   -93.5846622,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 112+999 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 112+999 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1121 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24684,7 +24684,7 @@ var locations = [
   17.3456702,
   -93.5848409,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 113+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1122 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24706,7 +24706,7 @@ var locations = [
   17.3457069,
   -93.5846622,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1123 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24728,7 +24728,7 @@ var locations = [
   17.3455353,
   -93.5846146,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+020 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+020 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1124 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24750,7 +24750,7 @@ var locations = [
   17.3454811,
   -93.584605,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+026 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+026 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1125 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24772,7 +24772,7 @@ var locations = [
   17.3453456,
   -93.5845763,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+040 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+040 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1126 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24794,7 +24794,7 @@ var locations = [
   17.3451012,
   -93.5846979,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+065 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 113+065 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1127 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -24816,7 +24816,7 @@ var locations = [
   17.344649,
   -93.5845176,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+115 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+115 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1128 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24838,7 +24838,7 @@ var locations = [
   17.3444147,
   -93.5845169,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+141 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+141 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1129 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24860,7 +24860,7 @@ var locations = [
   17.3439627,
   -93.5845625,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+190 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+190 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1130 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24882,7 +24882,7 @@ var locations = [
   17.3436733,
   -93.5846087,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+221 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+221 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1131 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24904,7 +24904,7 @@ var locations = [
   17.3433386,
   -93.5846829,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+258 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+258 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1132 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24926,7 +24926,7 @@ var locations = [
   17.3433386,
   -93.5846829,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-7) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1133 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24948,7 +24948,7 @@ var locations = [
   17.3433386,
   -93.5846829,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1134 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24970,7 +24970,7 @@ var locations = [
   17.3433386,
   -93.5846829,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1135 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -24992,7 +24992,7 @@ var locations = [
   17.3433386,
   -93.5846829,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+258 <br> <b>Tipo:</b> INFORMATIVA DE SERVICOS (SIS) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1136 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25014,7 +25014,7 @@ var locations = [
   17.3432839,
   -93.5848615,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+269 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 113+269 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1137 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25036,7 +25036,7 @@ var locations = [
   17.3424065,
   -93.5850752,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+366 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+366 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1138 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25058,7 +25058,7 @@ var locations = [
   17.3421439,
   -93.5852344,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+400 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+400 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1139 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25080,7 +25080,7 @@ var locations = [
   17.341999,
   -93.5853186,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+418 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+418 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1140 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25102,7 +25102,7 @@ var locations = [
   17.3417091,
   -93.5855436,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1141 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25124,7 +25124,7 @@ var locations = [
   17.3417091,
   -93.5855436,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1142 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25146,7 +25146,7 @@ var locations = [
   17.3417091,
   -93.5855436,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1143 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25168,7 +25168,7 @@ var locations = [
   17.3417091,
   -93.5855436,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+457 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1144 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25190,7 +25190,7 @@ var locations = [
   17.3417091,
   -93.5855436,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+457 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 113+457 <br> <b>Tipo:</b> TABLERO ADICIONAL <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1145 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25212,7 +25212,7 @@ var locations = [
   17.3387007,
   -93.5881128,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 113+485.66 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 113+485.66 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1146 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25234,7 +25234,7 @@ var locations = [
   17.338447,
   -93.5883096,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 114+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1147 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25256,7 +25256,7 @@ var locations = [
   17.338375,
   -93.5881964,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1148 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25278,7 +25278,7 @@ var locations = [
   17.3379583,
   -93.5885245,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+057 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+057 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1149 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25300,7 +25300,7 @@ var locations = [
   17.3345827,
   -93.5899066,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+476.85 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+476.85 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1150 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25322,7 +25322,7 @@ var locations = [
   17.3340765,
   -93.5899144,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+538.85 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+538.85 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1151 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25344,7 +25344,7 @@ var locations = [
   17.3336969,
   -93.5899132,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+581.35 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+581.35 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1152 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25366,7 +25366,7 @@ var locations = [
   17.3309215,
   -93.5900737,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+886.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+886.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1153 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25388,7 +25388,7 @@ var locations = [
   17.330496,
   -93.5901664,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 114+934.34 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 114+934.34 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1154 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25410,7 +25410,7 @@ var locations = [
   17.3299085,
   -93.5903057,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 115+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 115+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1155 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25432,7 +25432,7 @@ var locations = [
   17.3299623,
   -93.5904565,
   'KM 110+000 AL 115+000',
-  '<b>Kilometro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1156 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25454,7 +25454,7 @@ var locations = [
   17.327367,
   -93.591361,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 115+301.78 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 115+301.78 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1157 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25476,7 +25476,7 @@ var locations = [
   17.327347,
   -93.591539,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 115+311.48 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 115+311.48 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1158 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25498,7 +25498,7 @@ var locations = [
   17.326161,
   -93.592092,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 115+454.38 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 115+454.38 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1159 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25520,7 +25520,7 @@ var locations = [
   17.326097,
   -93.591958,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 115+455.84 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 115+455.84 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1160 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25542,7 +25542,7 @@ var locations = [
   17.3218066,
   -93.5913432,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 15+961 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 15+961 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1161 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25564,7 +25564,7 @@ var locations = [
   17.3214998,
   -93.5911729,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 16+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 16+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1162 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25586,7 +25586,7 @@ var locations = [
   17.321436,
   -93.5913044,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 16+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 16+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1163 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25608,7 +25608,7 @@ var locations = [
   17.3130473,
   -93.5885016,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 17+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 17+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1164 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25630,7 +25630,7 @@ var locations = [
   17.3130921,
   -93.5886241,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 17+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 17+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1165 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25652,7 +25652,7 @@ var locations = [
   17.3109849,
   -93.5889938,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 117+235 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 117+235 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1166 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25674,7 +25674,7 @@ var locations = [
   17.309501,
   -93.589516,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 117+408 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 117+408 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1167 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25696,7 +25696,7 @@ var locations = [
   17.3042957,
   -93.5891419,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN           (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 118+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN           (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1168 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25718,7 +25718,7 @@ var locations = [
   17.3043594,
   -93.5890009,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN           (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 118+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN           (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1169 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25740,7 +25740,7 @@ var locations = [
   17.303222,
   -93.588508,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+070 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 118+070 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1170 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25762,7 +25762,7 @@ var locations = [
   17.3032766,
   -93.5883859,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+137 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 118+137 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1171 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25784,7 +25784,7 @@ var locations = [
   17.2988784,
   -93.5871016,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+691 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 118+691 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1172 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25806,7 +25806,7 @@ var locations = [
   17.2988155,
   -93.5869603,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 118+683 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 118+683 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1173 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25828,7 +25828,7 @@ var locations = [
   17.2961596,
   -93.5864438,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 119+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1174 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25850,7 +25850,7 @@ var locations = [
   17.296087,
   -93.5865564,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 119+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1175 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25872,7 +25872,7 @@ var locations = [
   17.2955636,
   -93.5862443,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+066 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 119+066 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1176 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25894,7 +25894,7 @@ var locations = [
   17.2946708,
   -93.5855358,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+191 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 119+191 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1177 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -25916,7 +25916,7 @@ var locations = [
   17.2946894,
   -93.5853759,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+200 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 119+200 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1178 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25938,7 +25938,7 @@ var locations = [
   17.291567,
   -93.5835877,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+595 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 119+595 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1179 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25960,7 +25960,7 @@ var locations = [
   17.2903568,
   -93.5833016,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+732 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 119+732 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1180 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -25982,7 +25982,7 @@ var locations = [
   17.2898235,
   -93.5832999,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 11+790 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 11+790 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1181 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26004,7 +26004,7 @@ var locations = [
   17.2889202,
   -93.5830713,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 119+892 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 119+892 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1182 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26026,7 +26026,7 @@ var locations = [
   17.2880083,
   -93.5827203,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 120+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 120+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1183 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26048,7 +26048,7 @@ var locations = [
   17.288072,
   -93.5825888,
   'KM 115+000 AL 120+000',
-  '<b>Kilometro: </b> 120+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 120+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1184 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26070,7 +26070,7 @@ var locations = [
   17.285906,
   -93.581339,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 120+275 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 120+275 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1185 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26092,7 +26092,7 @@ var locations = [
   17.285869,
   -93.581142,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 120+290 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 120+290 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1186 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26114,7 +26114,7 @@ var locations = [
   17.2820249,
   -93.5794932,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 120+709 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 120+709 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1187 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26136,7 +26136,7 @@ var locations = [
   17.2797326,
   -93.5782253,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 121+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 121+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1188 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26158,7 +26158,7 @@ var locations = [
   17.2798233,
   -93.5781221,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 121+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 121+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1189 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26180,7 +26180,7 @@ var locations = [
   17.2788058,
   -93.5767923,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 121+183 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 121+183 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1190 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26202,7 +26202,7 @@ var locations = [
   17.2776256,
   -93.5754245,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 121+378 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 121+378 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1191 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26224,7 +26224,7 @@ var locations = [
   17.2770944,
   -93.574679,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 121+476 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 121+476 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1192 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26246,7 +26246,7 @@ var locations = [
   17.2734053,
   -93.571939,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 122+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 122+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1193 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26268,7 +26268,7 @@ var locations = [
   17.2734238,
   -93.571798,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 122+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 122+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1194 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26290,7 +26290,7 @@ var locations = [
   17.2702144,
   -93.5720146,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 122+355 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 122+355 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1195 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26312,7 +26312,7 @@ var locations = [
   17.2696175,
   -93.5721163,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 122+421 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 122+421 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1196 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26334,7 +26334,7 @@ var locations = [
   17.2680345,
   -93.5725253,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 122+641 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 122+641 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1197 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26356,7 +26356,7 @@ var locations = [
   17.264807,
   -93.5727506,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1198 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26378,7 +26378,7 @@ var locations = [
   17.2648345,
   -93.5726095,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 123+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1199 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26400,7 +26400,7 @@ var locations = [
   17.2617755,
   -93.5707751,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+405 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 123+405 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1200 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26422,7 +26422,7 @@ var locations = [
   17.2611081,
   -93.5702556,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+497 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+497 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1201 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26444,7 +26444,7 @@ var locations = [
   17.2610547,
   -93.5699826,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+522 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 123+522 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1202 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26466,7 +26466,7 @@ var locations = [
   17.2603692,
   -93.5694537,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+617 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+617 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1203 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26488,7 +26488,7 @@ var locations = [
   17.2596662,
   -93.568727,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+726 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+726 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1204 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26510,7 +26510,7 @@ var locations = [
   17.2593597,
   -93.568444,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+772 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+772 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1205 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26532,7 +26532,7 @@ var locations = [
   17.2586926,
   -93.567811,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+871 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 123+871 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1206 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26554,7 +26554,7 @@ var locations = [
   17.257862,
   -93.5674611,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+968 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+968 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1207 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26576,7 +26576,7 @@ var locations = [
   17.2578259,
   -93.567442,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+973 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+973 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1208 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26598,7 +26598,7 @@ var locations = [
   39.7196631,
   -93.7036905,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 123+986 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 123+986 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1209 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26620,7 +26620,7 @@ var locations = [
   17.2576093,
   -93.5673192,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 124+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1210 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26642,7 +26642,7 @@ var locations = [
   17.257727,
   -93.5672443,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN          (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1211 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26664,7 +26664,7 @@ var locations = [
   17.256716,
   -93.5667897,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+114 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-17) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 124+114 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-17) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1212 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26686,7 +26686,7 @@ var locations = [
   17.2566623,
   -93.5665919,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+133 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+133 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1213 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26708,7 +26708,7 @@ var locations = [
   17.256004,
   -93.5660443,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+225 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+225 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1214 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26730,7 +26730,7 @@ var locations = [
   17.2558687,
   -93.5659216,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+246 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+246 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1215 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26752,7 +26752,7 @@ var locations = [
   17.2558507,
   -93.5659121,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+248 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+248 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1216 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26774,7 +26774,7 @@ var locations = [
   17.2549226,
   -93.5648839,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+401 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+401 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1217 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26796,7 +26796,7 @@ var locations = [
   17.2543646,
   -93.5640074,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+515 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+515 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1218 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26818,7 +26818,7 @@ var locations = [
   17.2540589,
   -93.563442,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+558 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+558 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1219 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26840,7 +26840,7 @@ var locations = [
   17.2533297,
   -93.562386,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+715 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 124+715 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1220 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26862,7 +26862,7 @@ var locations = [
   17.2530786,
   -93.5616611,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 124+795 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 124+795 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1221 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26884,7 +26884,7 @@ var locations = [
   17.251935,
   -93.5601149,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 125+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 125+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1222 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -26906,7 +26906,7 @@ var locations = [
   17.2518443,
   -93.5602275,
   'KM 120+000 AL 125+000',
-  '<b>Kilometro: </b> 125+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1223 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26928,7 +26928,7 @@ var locations = [
   17.250914,
   -93.559669,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+119 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+119 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1224 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26950,7 +26950,7 @@ var locations = [
   17.248936,
   -93.559428,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+344 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+344 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1225 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26972,7 +26972,7 @@ var locations = [
   17.248639,
   -93.559475,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+378 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+378 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1226 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -26994,7 +26994,7 @@ var locations = [
   17.24815,
   -93.559444,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+429 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 125+429 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1227 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27016,7 +27016,7 @@ var locations = [
   17.2462772,
   -93.5598815,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+644 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 125+644 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1228 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27038,7 +27038,7 @@ var locations = [
   17.2462407,
   -93.5600225,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+651 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+651 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1229 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27060,7 +27060,7 @@ var locations = [
   17.2457794,
   -93.560134,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+703 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 125+703 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1230 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27082,7 +27082,7 @@ var locations = [
   17.2457255,
   -93.5600021,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 125+706 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 125+706 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1231 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27104,7 +27104,7 @@ var locations = [
   17.2431653,
   -93.5607751,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 126+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 126+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1232 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27126,7 +27126,7 @@ var locations = [
   17.2432282,
   -93.560907,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 126+536 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 126+536 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1233 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27148,7 +27148,7 @@ var locations = [
   17.2410075,
   -93.5631108,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 126+341 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 126+341 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1234 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27170,7 +27170,7 @@ var locations = [
   17.2355969,
   -93.5650227,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 127+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 127+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1235 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27192,7 +27192,7 @@ var locations = [
   17.2355972,
   -93.564891,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 127+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 127+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1236 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27214,7 +27214,7 @@ var locations = [
   17.2293033,
   -93.5626521,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 127+725 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 127+725 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1237 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27236,7 +27236,7 @@ var locations = [
   17.227192,
   -3.5612819,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 128+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 128+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1238 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27258,7 +27258,7 @@ var locations = [
   17.2272647,
   -93.5611692,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 128+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 128+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1239 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27280,7 +27280,7 @@ var locations = [
   17.2260825,
   -93.560479,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 128+149 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 128+149 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1240 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27302,7 +27302,7 @@ var locations = [
   17.2233071,
   -93.5573857,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 128+552 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 128+552 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1241 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27324,7 +27324,7 @@ var locations = [
   17.2231813,
   -93.5571125,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 128+602 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 128+602 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1242 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27346,7 +27346,7 @@ var locations = [
   17.2218169,
   -93.5536472,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 129+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1243 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27368,7 +27368,7 @@ var locations = [
   17.2219346,
   -93.5535912,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1244 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27390,7 +27390,7 @@ var locations = [
   17.2218169,
   -93.5536472,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+001 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 129+001 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1245 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27412,7 +27412,7 @@ var locations = [
   17.2218987,
   -93.553497,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+012 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+012 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1246 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27434,7 +27434,7 @@ var locations = [
   17.2210979,
   -93.552159,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+176 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+176 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1247 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27456,7 +27456,7 @@ var locations = [
   17.2209176,
   -93.5519892,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+201 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+201 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1248 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27478,7 +27478,7 @@ var locations = [
   17.2208003,
   -93.5519042,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+216 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+216 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1249 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27500,7 +27500,7 @@ var locations = [
   17.220683,
   -93.5518098,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+232 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+232 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1250 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27522,7 +27522,7 @@ var locations = [
   17.2205206,
   -93.5516965,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+253 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+253 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1251 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27544,7 +27544,7 @@ var locations = [
   17.2203312,
   -93.5515642,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+277 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+277 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1252 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27566,7 +27566,7 @@ var locations = [
   17.2198979,
   -3.5513654,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+328 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+328 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1253 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27588,7 +27588,7 @@ var locations = [
   17.2196721,
   -93.5512895,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+353 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+353 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1254 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27610,7 +27610,7 @@ var locations = [
   17.2194643,
   -93.5512419,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+375 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+375 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1255 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27632,7 +27632,7 @@ var locations = [
   17.2192294,
   -93.551213,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+401 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+401 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1256 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27654,7 +27654,7 @@ var locations = [
   17.2190216,
   -93.5511841,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+423 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+423 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1257 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27676,7 +27676,7 @@ var locations = [
   17.2187775,
   -93.551174,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+449 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+449 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1258 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27698,7 +27698,7 @@ var locations = [
   17.2185425,
   -93.5511827,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+474 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+474 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1259 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27720,7 +27720,7 @@ var locations = [
   17.2183436,
   -93.5512197,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+496 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+496 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1260 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27742,7 +27742,7 @@ var locations = [
   17.2181537,
   -93.5512474,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+517 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+517 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1261 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27764,7 +27764,7 @@ var locations = [
   17.2179546,
   -93.5513032,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+536 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+536 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1262 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27786,7 +27786,7 @@ var locations = [
   17.2177737,
   -93.5513497,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+556 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+556 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1263 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27808,7 +27808,7 @@ var locations = [
   17.2175475,
   -93.5514337,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+582 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+582 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1264 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27830,7 +27830,7 @@ var locations = [
   17.2173303,
   -93.5515271,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+607 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+607 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1265 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27852,7 +27852,7 @@ var locations = [
   17.216959,
   -93.5517329,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+653 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+653 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1266 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27874,7 +27874,7 @@ var locations = [
   17.2167415,
   -93.5520144,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+688 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 129+688 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1267 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27896,7 +27896,7 @@ var locations = [
   17.2162078,
   -93.5521445,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 129+747 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 129+747 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1268 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27918,7 +27918,7 @@ var locations = [
   17.2140736,
   -93.5525238,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 130+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1269 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27940,7 +27940,7 @@ var locations = [
   17.214046,
   -93.5526742,
   'KM 125+000 AL 130+000',
-  '<b>Kilometro: </b> 130+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 130+000 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1270 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -27962,7 +27962,7 @@ var locations = [
   17.2099904,
   -93.5516088,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 130+268.26 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+268.26 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS           (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1271 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -27984,7 +27984,7 @@ var locations = [
   17.2098005,
   -93.5516553,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 130+307.98 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+307.98 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS              (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1272 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28006,7 +28006,7 @@ var locations = [
   17.2079357,
   -93.5526467,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 130+720.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+720.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1273 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28028,7 +28028,7 @@ var locations = [
   17.2063784,
   -93.5535919,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 130+920.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+920.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1274 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28050,7 +28050,7 @@ var locations = [
   17.2059347,
   -93.5538915,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 130+960.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+960.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1275 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28072,7 +28072,7 @@ var locations = [
   17.2057537,
   -93.5539756,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 131+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1276 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28094,7 +28094,7 @@ var locations = [
   17.2058167,
   -93.5540793,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 131+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1277 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28116,7 +28116,7 @@ var locations = [
   17.2025519,
   -93.5546903,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+377.04 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 131+377.04 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1278 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28138,7 +28138,7 @@ var locations = [
   17.2020366,
   -93.5547263,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+431.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 131+431.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1279 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28160,7 +28160,7 @@ var locations = [
   17.2015582,
   -93.5544804,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+534.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 131+534.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1280 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28182,7 +28182,7 @@ var locations = [
   17.1990196,
   -93.5539932,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+181.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 131+181.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1281 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28204,7 +28204,7 @@ var locations = [
   17.198956,
   -93.5541059,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+824.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 131+824.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1282 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28226,7 +28226,7 @@ var locations = [
   17.1973929,
   -93.5538661,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 132+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 132+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1283 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28248,7 +28248,7 @@ var locations = [
   17.1974023,
   -93.5537157,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 132+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 132+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1284 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28270,7 +28270,7 @@ var locations = [
   17.1969233,
   -93.5536955,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 132+052+.60 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 132+052+.60 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1285 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28292,7 +28292,7 @@ var locations = [
   17.19441,
   -93.5538761,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 132+331.02 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 132+331.02 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1286 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28314,7 +28314,7 @@ var locations = [
   17.1936498,
   -93.5542029,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+419.60 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 131+419.60 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1287 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28336,7 +28336,7 @@ var locations = [
   17.1905651,
   -93.5550965,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 132+830.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 132+830.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1288 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28358,7 +28358,7 @@ var locations = [
   17.1901037,
   -93.5552268,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 131+883.09 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-06) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 131+883.09 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-06) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1289 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28380,7 +28380,7 @@ var locations = [
   17.1890815,
   -93.5555247,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 133+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1290 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28402,7 +28402,7 @@ var locations = [
   17.1890457,
   -93.5553929,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1291 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28424,7 +28424,7 @@ var locations = [
   17.1862575,
   -93.5601617,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-13) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-13) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1292 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28446,7 +28446,7 @@ var locations = [
   17.1862575,
   -93.5601617,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1293 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28468,7 +28468,7 @@ var locations = [
   17.1862575,
   -93.5601617,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1294 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28490,7 +28490,7 @@ var locations = [
   17.1862575,
   -93.5601617,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+574.45 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1295 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28512,7 +28512,7 @@ var locations = [
   17.1862836,
   -93.5605191,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+613.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+613.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1296 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28534,7 +28534,7 @@ var locations = [
   17.186218,
   -93.5613652,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+701.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 133+701.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1297 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28556,7 +28556,7 @@ var locations = [
   17.1865013,
   -93.5635007,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+930.06 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+930.06 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS            (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1298 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28578,7 +28578,7 @@ var locations = [
   17.1865103,
   -93.5635007,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+931.03 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+931.03 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1299 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28600,7 +28600,7 @@ var locations = [
   17.1865542,
   -93.5639711,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+981.44 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 133+981.44 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1300 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28622,7 +28622,7 @@ var locations = [
   17.1864187,
   -93.5639424,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+977 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 133+977 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1301 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28644,7 +28644,7 @@ var locations = [
   17.1865628,
   -93.5641403,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 134+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1302 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28666,7 +28666,7 @@ var locations = [
   17.1864362,
   -93.5641588,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1303 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28688,7 +28688,7 @@ var locations = [
   17.1866154,
   -93.5647141,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+092.32 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 134+092.32 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1304 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28710,7 +28710,7 @@ var locations = [
   17.186506,
   -93.5650617,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+096.16 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+096.16 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1305 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28732,7 +28732,7 @@ var locations = [
   17.1865494,
   -93.5656919,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+163.18 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+163.18 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1306 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28754,7 +28754,7 @@ var locations = [
   17.1865465,
   -93.5667263,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+162.86 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 133+162.86 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1307 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28776,7 +28776,7 @@ var locations = [
   17.1861631,
   -93.5680793,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 133+371.64 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 133+371.64 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1308 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28798,7 +28798,7 @@ var locations = [
   17.1860358,
   -93.568314,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+526.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+526.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1309 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28820,7 +28820,7 @@ var locations = [
   17.1835814,
   -93.5700367,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+542.22 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 134+542.22 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1310 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28842,7 +28842,7 @@ var locations = [
   17.1832831,
   -93.5700546,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+550 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 134+550 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1311 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -28864,7 +28864,7 @@ var locations = [
   17.1827772,
   -93.5699496,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-13) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-13) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1312 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28886,7 +28886,7 @@ var locations = [
   17.1827772,
   -93.5699496,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-16) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1313 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28908,7 +28908,7 @@ var locations = [
   17.1827772,
   -93.5699496,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1314 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28930,7 +28930,7 @@ var locations = [
   17.1827772,
   -93.5699496,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+554.06 <br> <b>Tipo:</b> INFORMATIVA DE SERVICIOS (SIS-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1315 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28952,7 +28952,7 @@ var locations = [
   17.1827772,
   -93.5699496,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 134+925.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 134+925.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1316 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28974,7 +28974,7 @@ var locations = [
   17.1821173,
   -93.5699664,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 135+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 135+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1317 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -28996,7 +28996,7 @@ var locations = [
   17.182126,
   -93.5700981,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 135+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 135+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1318 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29018,7 +29018,7 @@ var locations = [
   17.1792055,
   -93.5704183,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 135+324.15 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 135+324.15 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1319 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29040,7 +29040,7 @@ var locations = [
   17.1789971,
   -93.5705963,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 135+350.54 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 135+350.54 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1320 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29062,7 +29062,7 @@ var locations = [
   17.1785177,
   -93.5706983,
   'KM 130+000 AL 135+000',
-  '<b>Kilometro: </b> 135+404.61 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 135+404.61 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1321 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29084,7 +29084,7 @@ var locations = [
   17.1746676,
   -93.5737049,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 136+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 136+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1322 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29106,7 +29106,7 @@ var locations = [
   17.1745502,
   -93.5736575,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 136+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 136+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1323 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29128,7 +29128,7 @@ var locations = [
   17.174259,
   -93.5743524,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 135+078.81 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 135+078.81 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1324 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29150,7 +29150,7 @@ var locations = [
   17.1739859,
   -93.575038,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 135+158.55 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 135+158.55 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1325 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29172,7 +29172,7 @@ var locations = [
   17.17302,
   -93.5777525,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 135+464.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 135+464.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1326 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29194,7 +29194,7 @@ var locations = [
   17.1719905,
   -93.5805513,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 137+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1327 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29216,7 +29216,7 @@ var locations = [
   17.1718551,
   -93.5805039,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 137+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1328 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29238,7 +29238,7 @@ var locations = [
   17.1714164,
   -93.5821669,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+182.59 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 137+182.59 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1329 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29260,7 +29260,7 @@ var locations = [
   17.1712336,
   -93.5828903,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+261.92 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 137+261.92 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1330 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29282,7 +29282,7 @@ var locations = [
   17.1710598,
   -93.583595,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+339.45 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 137+339.45 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1331 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29304,7 +29304,7 @@ var locations = [
   17.1711498,
   -93.5837363,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+351.36 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 137+351.36 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1332 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29326,7 +29326,7 @@ var locations = [
   17.1700283,
   -93.5870896,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+725.22 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 137+725.22 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1333 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29348,7 +29348,7 @@ var locations = [
   17.1688675,
   -93.5883929,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 137+913.39 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 137+913.39 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1334 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29370,7 +29370,7 @@ var locations = [
   17.1683865,
   -93.5890402,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 138+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1335 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29392,7 +29392,7 @@ var locations = [
   17.1682511,
   -93.5889927,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 138+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1336 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29414,7 +29414,7 @@ var locations = [
   17.1675804,
   -93.5896112,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+106..81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 138+106..81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1337 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29436,7 +29436,7 @@ var locations = [
   17.1672632,
   -93.5899017,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+153.44 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 138+153.44 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1338 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29458,7 +29458,7 @@ var locations = [
   17.1668005,
   -93.5904832,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+232.78 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 138+232.78 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1339 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29480,7 +29480,7 @@ var locations = [
   17.1621238,
   -93.5947653,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+706+84 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 138+706+84 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1340 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29502,7 +29502,7 @@ var locations = [
   17.1613081,
   -93.5955055,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 138+824.51 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 138+824.51 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1341 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29524,7 +29524,7 @@ var locations = [
   17.1600937,
   -93.596564,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1342 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29546,7 +29546,7 @@ var locations = [
   39.4379732,
   -93.7371492,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 139+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1343 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29568,7 +29568,7 @@ var locations = [
   17.1582021,
   -93.5974136,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+227.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+227.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1344 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29590,7 +29590,7 @@ var locations = [
   17.1571718,
   -93.5973445,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+428.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 139+428.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1345 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29612,7 +29612,7 @@ var locations = [
   17.1563673,
   -93.5973607,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+605.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+605.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1346 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29634,7 +29634,7 @@ var locations = [
   17.1554828,
   -93.5969066,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+651.21 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 139+651.21 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1347 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29656,7 +29656,7 @@ var locations = [
   17.154562,
   -93.5965088,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+713.40 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+713.40 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1348 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29678,7 +29678,7 @@ var locations = [
   17.1541291,
   -93.5961971,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+771.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+771.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1349 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29700,7 +29700,7 @@ var locations = [
   17.1538134,
   -93.5959611,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+831.53 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+831.53 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1350 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29722,7 +29722,7 @@ var locations = [
   17.1528939,
   -93.5951119,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+949.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 139+949.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1351 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29744,7 +29744,7 @@ var locations = [
   17.1527942,
   -93.5952245,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+951.89 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+951.89 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1352 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29766,7 +29766,7 @@ var locations = [
   17.1526047,
   -93.5951016,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+977 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+977 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1353 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29788,7 +29788,7 @@ var locations = [
   17.1524514,
   -93.5949695,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+435.50 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 139+435.50 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1354 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29810,7 +29810,7 @@ var locations = [
   17.1525241,
   -93.5948475,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 139+435.50 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 139+435.50 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1355 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29832,7 +29832,7 @@ var locations = [
   17.1510082,
   -93.5939401,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+192.03 <br> <b>Tipo:</b> INFORMACIÓN GENERAL         (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 140+192.03 <br> <b>Tipo:</b> INFORMACIÓN GENERAL         (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1356 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29854,7 +29854,7 @@ var locations = [
   17.1503309,
   -93.5937217,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140.253.48 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 140.253.48 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1357 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29876,7 +29876,7 @@ var locations = [
   17.1500336,
   -93.5934011,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+313.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 140+313.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1358 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29898,7 +29898,7 @@ var locations = [
   17.1497534,
   -93.5934096,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+340.90 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 140+340.90 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1359 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29920,7 +29920,7 @@ var locations = [
   17.1491036,
   -93.5930597,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+421.94 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 140+421.94 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1360 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29942,7 +29942,7 @@ var locations = [
   17.1491763,
   -93.5929377,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+808.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 140+808.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1361 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -29964,7 +29964,7 @@ var locations = [
   17.1486704,
   -93.5928233,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+842.11 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 140+842.11 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1362 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -29986,7 +29986,7 @@ var locations = [
   17.1481108,
   -93.5925301,
   'KM 135+000 AL 140+000',
-  '<b>Kilometro: </b> 140+911.74 <br> <b>Tipo:</b> INFORMACIÓN GENERAL         (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 140+911.74 <br> <b>Tipo:</b> INFORMACIÓN GENERAL         (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1363 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30008,7 +30008,7 @@ var locations = [
   17.1473978,
   -93.5921705,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 141+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 141+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1364 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30030,7 +30030,7 @@ var locations = [
   17.1474344,
   -93.592039,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 141+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 141+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1365 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30052,7 +30052,7 @@ var locations = [
   17.1368168,
   -93.5939984,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 142+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1366 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30074,7 +30074,7 @@ var locations = [
   17.13679,
   -93.5938949,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 142+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1367 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30096,7 +30096,7 @@ var locations = [
   17.1302592,
   -93.5954629,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+718.56 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 142+718.56 <br> <b>Tipo:</b> INFORMACIÓN GENERAL (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1368 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30118,7 +30118,7 @@ var locations = [
   17.1301597,
   -93.5954814,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+730.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 142+730.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1369 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30140,7 +30140,7 @@ var locations = [
   17.1292186,
   -93.5958544,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142.840.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 142.840.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1370 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30162,7 +30162,7 @@ var locations = [
   17.1291738,
   -93.5957227,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+842.43 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 142+842.43 <br> <b>Tipo:</b> INFORMATIVA DE RECOMENDACIÓN (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1371 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30184,7 +30184,7 @@ var locations = [
   17.1283502,
   -93.5960585,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 142+939.11 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 142+939.11 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1372 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30206,7 +30206,7 @@ var locations = [
   17.1278256,
   -93.5961884,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 143+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1373 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30228,7 +30228,7 @@ var locations = [
   17.1277808,
   -93.5960567,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 143+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1374 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30250,7 +30250,7 @@ var locations = [
   17.1267951,
   -93.5961945,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+113.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 143+113.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1375 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30272,7 +30272,7 @@ var locations = [
   17.1227779,
   -93.5944239,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+612.07 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 143+612.07 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1376 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30294,7 +30294,7 @@ var locations = [
   17.1225892,
   -93.5940566,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+654.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 143+654.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1377 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30316,7 +30316,7 @@ var locations = [
   17.1201216,
   -93.5909655,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 143+875.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 143+875.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1378 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30338,7 +30338,7 @@ var locations = [
   17.1198085,
   -93.5898365,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 144+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1379 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30360,7 +30360,7 @@ var locations = [
   17.1199351,
   -93.5897993,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 144+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1380 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30382,7 +30382,7 @@ var locations = [
   17.1197924,
   -93.58915,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+070.58 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 144+070.58 <br> <b>Tipo:</b> SEÑAL PREVENTIVA           (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1381 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30404,7 +30404,7 @@ var locations = [
   17.1196388,
   -93.5891121,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+079.39 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 144+079.39 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1382 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30426,7 +30426,7 @@ var locations = [
   17.1195585,
   -93.5887641,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+117.10 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 144+117.10 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1383 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30448,7 +30448,7 @@ var locations = [
   17.1194263,
   -93.5876074,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+239.75 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 144+239.75 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1384 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30470,7 +30470,7 @@ var locations = [
   17.1190136,
   -93.5865345,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+362.42 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 144+362.42 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1385 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30492,7 +30492,7 @@ var locations = [
   17.1170392,
   -93.5847611,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 144+668.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 144+668.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA        (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1386 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30514,7 +30514,7 @@ var locations = [
   17.1140757,
   -93.5842913,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 145+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 145+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1387 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30536,7 +30536,7 @@ var locations = [
   17.1140662,
   -93.584451,
   'KM 140+000 AL 145+000',
-  '<b>Kilometro: </b> 145+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 145+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1388 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30558,7 +30558,7 @@ var locations = [
   17.1070474,
   -93.5860271,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 146+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 146+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1389 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30580,7 +30580,7 @@ var locations = [
   17.1070025,
   -93.5858953,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 146+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 146+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1390 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30602,7 +30602,7 @@ var locations = [
   17.104342,
   -93.5869491,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 146+314.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 146+314.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1391 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30624,7 +30624,7 @@ var locations = [
   17.1037996,
   -93.5869568,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 146+568.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 146+568.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1392 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30646,7 +30646,7 @@ var locations = [
   17.0985356,
   -93.5881152,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 146+961.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 146+961.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1393 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30668,7 +30668,7 @@ var locations = [
   17.098183,
   -93.5881047,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1394 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30690,7 +30690,7 @@ var locations = [
   17.0981745,
   -93.5879543,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 147+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN     (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1395 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30712,7 +30712,7 @@ var locations = [
   17.0975776,
   -93.5880464,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+064.58 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+064.58 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1396 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30734,7 +30734,7 @@ var locations = [
   17.0969545,
   -93.5878565,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+135.93 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-29) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+135.93 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-29) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1397 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30756,7 +30756,7 @@ var locations = [
   17.0957004,
   -93.5870255,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+298.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+298.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1398 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30778,7 +30778,7 @@ var locations = [
   17.0956017,
   -93.5867902,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+322.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 147+322.36 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1399 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30800,7 +30800,7 @@ var locations = [
   17.0949609,
   -93.5864404,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+400.72 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+400.72 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1400 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30822,7 +30822,7 @@ var locations = [
   17.0948893,
   -93.5861958,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+423.28 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 147+423.28 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1401 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30844,7 +30844,7 @@ var locations = [
   17.0930031,
   -93.5851936,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+656.73 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA             (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+656.73 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA             (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1402 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30866,7 +30866,7 @@ var locations = [
   17.0915849,
   -93.584869,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+818+.91 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+818+.91 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1403 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30888,7 +30888,7 @@ var locations = [
   17.0913323,
   -93.5846809,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+849.38 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 147+849.38 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1404 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30910,7 +30910,7 @@ var locations = [
   17.0905372,
   -93.5845562,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+938.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 147+938.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1405 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30932,7 +30932,7 @@ var locations = [
   17.0902748,
   -93.5846588,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 147+965.69 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 147+965.69 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1406 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30954,7 +30954,7 @@ var locations = [
   17.0899676,
   -93.5846108,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1407 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -30976,7 +30976,7 @@ var locations = [
   17.0899951,
   -93.5844699,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 148+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1408 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -30998,7 +30998,7 @@ var locations = [
   17.0886757,
   -93.5843906,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+144.78 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+144.78 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1409 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31020,7 +31020,7 @@ var locations = [
   17.0856516,
   -93.5829996,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+512.07 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+512.07 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1410 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31042,7 +31042,7 @@ var locations = [
   17.0848492,
   -93.5822546,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+623.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+623.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1411 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31064,7 +31064,7 @@ var locations = [
   17.0847055,
   -93.5819346,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+657.96 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 148+657.96 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1412 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31086,7 +31086,7 @@ var locations = [
   17.0843895,
   -93.5818303,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+691.26 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+691.26 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1413 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31108,7 +31108,7 @@ var locations = [
   17.0837313,
   -93.5812549,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+786.90 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+786.90 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1414 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31130,7 +31130,7 @@ var locations = [
   17.0837313,
   -93.5812549,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+786.90 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+786.90 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1415 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31152,7 +31152,7 @@ var locations = [
   17.0833707,
   -93.5808967,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+841.174 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+841.174 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1416 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31174,7 +31174,7 @@ var locations = [
   17.0831273,
   -93.5806704,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+877.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+877.61 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1417 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31196,7 +31196,7 @@ var locations = [
   17.082965,
   -93.5805195,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 148+901.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-26) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 148+901.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-26) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1418 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31218,7 +31218,7 @@ var locations = [
   17.082307,
   -93.5798971,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 149+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1419 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31240,7 +31240,7 @@ var locations = [
   17.0824067,
   -93.5797753,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN      (SII-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1420 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31262,7 +31262,7 @@ var locations = [
   17.0820997,
   -93.5796897,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+031.63 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 149+031.63 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1421 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31284,7 +31284,7 @@ var locations = [
   17.0795304,
   -93.5772946,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+412.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-26) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+412.99 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-26) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1422 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31306,7 +31306,7 @@ var locations = [
   17.0790334,
   -93.5772085,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+505.82 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 149+505.82 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1423 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31328,7 +31328,7 @@ var locations = [
   17.0791152,
   -93.5770678,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+464.28 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+464.28 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1424 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31350,7 +31350,7 @@ var locations = [
   17.0791062,
   -93.5770678,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+512.36 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+512.36 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1425 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31372,7 +31372,7 @@ var locations = [
   17.079061,
   -93.5770395,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+541.03 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+541.03 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS (OD-5) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1426 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31394,7 +31394,7 @@ var locations = [
   17.0787814,
   -93.5768506,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+541.03 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+541.03 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-13) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1427 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31416,7 +31416,7 @@ var locations = [
   17.0781222,
   -93.576623,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+582.80 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+582.80 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1428 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31438,7 +31438,7 @@ var locations = [
   17.0777338,
   -93.5764997,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+626.52 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+626.52 <br> <b>Tipo:</b> SEÑAL PREVENTIVA (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1429 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31460,7 +31460,7 @@ var locations = [
   17.0770563,
   -93.5763472,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+702.41 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+702.41 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1430 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31482,7 +31482,7 @@ var locations = [
   17.0754751,
   -93.576145,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+706.55 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+706.55 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1431 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31504,7 +31504,7 @@ var locations = [
   17.0747613,
   -93.5760394,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+786.45 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 149+786.45 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO (SID-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1432 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31526,7 +31526,7 @@ var locations = [
   17.0739477,
   -93.5760651,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+875.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 149+875.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1433 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31548,7 +31548,7 @@ var locations = [
   17.0733062,
   -93.5759786,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 149+947.22 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 149+947.22 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA         (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1434 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31570,7 +31570,7 @@ var locations = [
   17.0728273,
   -93.5759113,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 150+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 150+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1435 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31592,7 +31592,7 @@ var locations = [
   17.0728819,
   -93.5757705,
   'KM 145+000 AL 150+000',
-  '<b>Kilometro: </b> 150+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 150+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN       (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1436 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31613,7 +31613,7 @@ var locations = [
   17.0678491,
   -93.5750785,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 150+693.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 150+693.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1437 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31635,7 +31635,7 @@ var locations = [
   17.0666289,
   -93.5750371,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 150+693.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                         (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 150+693.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                         (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1438 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31657,7 +31657,7 @@ var locations = [
   17.0656711,
   -93.5749308,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 150+806.33 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 150+806.33 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1439 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31679,7 +31679,7 @@ var locations = [
   17.0651922,
   -93.5748636,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 150+859.80 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                   (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 150+859.80 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                   (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1440 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31701,7 +31701,7 @@ var locations = [
   17.0641806,
   -93.5745692,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 150+937.74 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                    (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 150+937.74 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                    (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1441 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31723,7 +31723,7 @@ var locations = [
   17.0639548,
   -93.57454,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 151+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 151+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1442 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31745,7 +31745,7 @@ var locations = [
   17.0639363,
   -93.5746624,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 151+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 151+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1443 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31767,7 +31767,7 @@ var locations = [
   17.0588377,
   -93.5716679,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 151+674.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA   (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 151+674.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA   (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1444 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31789,7 +31789,7 @@ var locations = [
   17.0584055,
   -93.571065,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 151+897.75 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA   (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 151+897.75 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA   (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1445 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31811,7 +31811,7 @@ var locations = [
   17.0576388,
   -93.570499,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 152+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1446 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31833,7 +31833,7 @@ var locations = [
   17.0577204,
   -93.5703959,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 152+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1447 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31855,7 +31855,7 @@ var locations = [
   17.0569176,
   -93.5698014,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+108.71 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 152+108.71 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1448 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31877,7 +31877,7 @@ var locations = [
   17.056557,
   -93.5694526,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+162.48 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SID-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 152+162.48 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SID-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1449 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31899,7 +31899,7 @@ var locations = [
   17.0554031,
   -93.5683591,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+397.48 <br> <b>Tipo:</b> INFORMACIÓN GENERAL              (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 152+397.48 <br> <b>Tipo:</b> INFORMACIÓN GENERAL              (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1450 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31921,7 +31921,7 @@ var locations = [
   17.0542763,
   -93.567228,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+509.37 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 152+509.37 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1451 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -31943,7 +31943,7 @@ var locations = [
   17.0543129,
   -93.5670872,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+516.08 <br> <b>Tipo:</b> INFORMACIÓN GENERAL              (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 152+516.08 <br> <b>Tipo:</b> INFORMACIÓN GENERAL              (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1452 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31965,7 +31965,7 @@ var locations = [
   17.0540244,
   -93.5668044,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+559.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 152+559.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1453 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -31987,7 +31987,7 @@ var locations = [
   17.0534114,
   -93.5662011,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 152+653.32 <br> <b>Tipo:</b>  TABLERO ADICIONAL                   ( T/A) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 152+653.32 <br> <b>Tipo:</b>  TABLERO ADICIONAL                   ( T/A) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1454 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32009,7 +32009,7 @@ var locations = [
   17.0508496,
   -93.564314,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 153+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 153+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1455 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32031,7 +32031,7 @@ var locations = [
   17.0509313,
   -93.5641921,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 153+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 153+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1456 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32053,7 +32053,7 @@ var locations = [
   17.0470687,
   -93.5619629,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 153+488.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 153+488.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1457 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32075,7 +32075,7 @@ var locations = [
   17.0459407,
   -93.5612736,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 153+632.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 153+632.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA        (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1458 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32097,7 +32097,7 @@ var locations = [
   17.0444608,
   -93.5603577,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 153+834.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 153+834.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1459 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32119,7 +32119,7 @@ var locations = [
   17.0432702,
   -93.5594333,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 154+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 154+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1460 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32141,7 +32141,7 @@ var locations = [
   17.0431886,
   -93.559527,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 154+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 154+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN  (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1461 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32163,7 +32163,7 @@ var locations = [
   17.0415965,
   -93.5566564,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 154+355.87 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 154+355.87 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1462 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32185,7 +32185,7 @@ var locations = [
   17.0416168,
   -93.5558672,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 154+438.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 154+438.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA    (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1463 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32207,7 +32207,7 @@ var locations = [
   17.0413125,
   -93.5547669,
   'KM 150+000 AL 155+000',
-  '<b>Kilometro: </b> 154+559.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 154+559.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA    (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1464 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32229,7 +32229,7 @@ var locations = [
   17.0394438,
   -93.5505425,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 154+902.62 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                    (SID-11) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 154+902.62 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                    (SID-11) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1465 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32251,7 +32251,7 @@ var locations = [
   17.0393536,
   -93.5504764,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 154+914.91 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 154+914.91 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1466 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32273,7 +32273,7 @@ var locations = [
   17.0392092,
   -93.5503726,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 154+933.74 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            ( SR-7) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 154+933.74 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            ( SR-7) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1467 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32295,7 +32295,7 @@ var locations = [
   17.0386313,
   -93.5501454,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 155+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1468 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32317,7 +32317,7 @@ var locations = [
   17.038704,
   -93.5500329,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1469 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32339,7 +32339,7 @@ var locations = [
   17.0385596,
   -93.549929,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+019.49 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-19) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+019.49 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-19) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1470 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32361,7 +32361,7 @@ var locations = [
   17.037946,
   -93.5495139,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+100.68 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+100.68 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1471 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32383,7 +32383,7 @@ var locations = [
   17.0376839,
   -93.5495131,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+125.71 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 155+125.71 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1472 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32405,7 +32405,7 @@ var locations = [
   17.0369987,
   -93.5488722,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+226.38 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+226.38 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1473 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32427,7 +32427,7 @@ var locations = [
   17.0363762,
   -93.5484381,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+308.77 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO            (SID-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+308.77 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO            (SID-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1474 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32449,7 +32449,7 @@ var locations = [
   17.0341723,
   -93.544429,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+707.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 155+707.56 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1475 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32471,7 +32471,7 @@ var locations = [
   17.0335192,
   -93.541909,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+985.11 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 155+985.11 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1476 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32493,7 +32493,7 @@ var locations = [
   17.033619,
   -93.541749,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 15+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1477 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32515,7 +32515,7 @@ var locations = [
   17.0334924,
   -93.5417774,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 156+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 156+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1478 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32537,7 +32537,7 @@ var locations = [
   17.0334229,
   -93.540753,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 156+107.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 156+107.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1479 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32559,7 +32559,7 @@ var locations = [
   17.0331178,
   -93.5399159,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 155+797.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 155+797.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1480 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32581,7 +32581,7 @@ var locations = [
   17.0332264,
   -93.539841,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 156+202.12 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 156+202.12 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA       (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1481 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32603,7 +32603,7 @@ var locations = [
   17.0317543,
   -93.5359375,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+207.48 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+207.48 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1482 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32625,7 +32625,7 @@ var locations = [
   17.0294186,
   -93.5338826,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 157+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1483 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32647,7 +32647,7 @@ var locations = [
   17.029355,
   -93.533995,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1484 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32669,7 +32669,7 @@ var locations = [
   17.0280467,
   -93.5330894,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+173.25 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 157+173.25 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1485 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -32691,7 +32691,7 @@ var locations = [
   17.0278929,
   -93.5331548,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+187.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-17) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+187.89 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-17) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1486 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32713,7 +32713,7 @@ var locations = [
   17.0276401,
   -93.5330131,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+217.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+217.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1487 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32735,7 +32735,7 @@ var locations = [
   17.0272791,
   -93.5328054,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+262.79 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+262.79 <br> <b>Tipo:</b> SEÑAL PREVENTIVA       (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1488 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32757,7 +32757,7 @@ var locations = [
   17.026719,
   -93.532475,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+333.20 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO            (SID_8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+333.20 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO            (SID_8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1489 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32779,7 +32779,7 @@ var locations = [
   17.0248426,
   -93.5312482,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+578.01 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+578.01 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1490 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32801,7 +32801,7 @@ var locations = [
   17.0246713,
   -93.531088,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+603.54 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+603.54 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1491 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32823,7 +32823,7 @@ var locations = [
   17.0245271,
   -93.5309279,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+623.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+623.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1492 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32845,7 +32845,7 @@ var locations = [
   17.0243739,
   -93.53073,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+653.40 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+653.40 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1493 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32867,7 +32867,7 @@ var locations = [
   17.024085,
   -93.5303159,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+706.90 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+706.90 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1494 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32889,7 +32889,7 @@ var locations = [
   17.0239507,
   -93.53009,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+734.91 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+734.91 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1495 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32911,7 +32911,7 @@ var locations = [
   17.0238609,
   -93.5298737,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+759.79 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+759.79 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1496 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32933,7 +32933,7 @@ var locations = [
   17.0237531,
   -93.5296197,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+788.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+788.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1497 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32955,7 +32955,7 @@ var locations = [
   17.0236723,
   -93.529394,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+814.33 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+814.33 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1498 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32977,7 +32977,7 @@ var locations = [
   17.0236006,
   -93.5291683,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+838.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+838.24 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1499 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -32999,7 +32999,7 @@ var locations = [
   17.023547,
   -93.5289333,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+864.08 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+864.08 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1500 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33021,7 +33021,7 @@ var locations = [
   17.0235024,
   -93.5286889,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 157+890.31 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 157+890.31 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1501 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33043,7 +33043,7 @@ var locations = [
   17.0235935,
   -93.528426,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1502 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33065,7 +33065,7 @@ var locations = [
   17.0234669,
   -93.5284539,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 158+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1503 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33087,7 +33087,7 @@ var locations = [
   17.023467,
   -93.5283881,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+006.11 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 158+006.11 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS               (OD-12) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1504 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33109,7 +33109,7 @@ var locations = [
   17.0235766,
   -93.5279844,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+047.81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+047.81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1505 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33131,7 +33131,7 @@ var locations = [
   17.0235979,
   -93.5267255,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+183.08 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+183.08 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1506 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33153,7 +33153,7 @@ var locations = [
   17.0236288,
   -93.5252692,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+337.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+337.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA      (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1507 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33175,7 +33175,7 @@ var locations = [
   17.024054,
   -93.5216156,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+732.33 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+732.33 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1508 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33197,7 +33197,7 @@ var locations = [
   17.0241281,
   -93.52092,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+871.62 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 158+871.62 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1509 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33219,7 +33219,7 @@ var locations = [
   17.0241646,
   -93.5207984,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+885.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 158+885.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA          (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1510 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33241,7 +33241,7 @@ var locations = [
   17.0243639,
   -93.5206017,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+912.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+912.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1511 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33263,7 +33263,7 @@ var locations = [
   17.0243639,
   -93.5206017,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+995.45 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 158+995.45 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1512 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33285,7 +33285,7 @@ var locations = [
   17.0245017,
   -93.5197659,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 158+996.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 158+996.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1513 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33307,7 +33307,7 @@ var locations = [
   17.0245017,
   -93.5197659,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 159+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1514 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33329,7 +33329,7 @@ var locations = [
   17.0246281,
   -93.5197944,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1515 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33351,7 +33351,7 @@ var locations = [
   17.0249222,
   -93.5179067,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+003.37 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+003.37 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1516 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33373,7 +33373,7 @@ var locations = [
   17.0248601,
   -93.5174461,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+250.83 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+250.83 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1517 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33395,7 +33395,7 @@ var locations = [
   17.0247438,
   -93.5169573,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+303.73 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+303.73 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1518 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33417,7 +33417,7 @@ var locations = [
   17.0246721,
   -93.5167504,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+326.82 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+326.82 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1519 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33439,7 +33439,7 @@ var locations = [
   17.0245732,
   -93.5165058,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+353.83 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+353.83 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1520 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33461,7 +33461,7 @@ var locations = [
   17.0244833,
   -93.5163082,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+377.28 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+377.28 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1521 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33483,7 +33483,7 @@ var locations = [
   17.0243663,
   -93.5161106,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+401.76 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+401.76 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1522 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33505,7 +33505,7 @@ var locations = [
   17.0242583,
   -93.5159412,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+422.52 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+422.52 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1523 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33527,7 +33527,7 @@ var locations = [
   17.0241412,
   -93.5157718,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+444.15 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+444.15 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1524 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33549,7 +33549,7 @@ var locations = [
   17.0240331,
   -93.5156211,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+464.29 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+464.29 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1525 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33571,7 +33571,7 @@ var locations = [
   17.0237807,
   -93.515348,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+503.06 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+503.06 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1526 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33593,7 +33593,7 @@ var locations = [
   17.0236545,
   -93.5152255,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+521.44 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+521.44 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1527 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33615,7 +33615,7 @@ var locations = [
   17.0234922,
   -93.5150653,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+546.48 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+546.48 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS             (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1528 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33637,7 +33637,7 @@ var locations = [
   17.022978,
   -3.5146693,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+592.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+592.68 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1529 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33659,7 +33659,7 @@ var locations = [
   17.0220577,
   -93.5139903,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+716.35 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+716.35 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1530 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33681,7 +33681,7 @@ var locations = [
   17.0216246,
   -93.5136791,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+736.54 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+736.54 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1531 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33703,7 +33703,7 @@ var locations = [
   17.0206412,
   -93.5129436,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+870.06 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 159+870.06 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1532 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33725,7 +33725,7 @@ var locations = [
   17.0199009,
   -93.5125469,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 159+960.92 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 159+960.92 <br> <b>Tipo:</b> SEÑAL PREVENTIVA     (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1533 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33747,7 +33747,7 @@ var locations = [
   17.0196848,
   -93.5122363,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 160+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1534 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33769,7 +33769,7 @@ var locations = [
   17.0196122,
   -93.5123394,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 160+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 160+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN         (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1535 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33791,7 +33791,7 @@ var locations = [
   17.0195043,
   -93.5121043,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 160+024.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+024.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1536 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33813,7 +33813,7 @@ var locations = [
   17.0194137,
   -93.512198,
   'KM 155+000 AL 160+000',
-  '<b>Kilometro: </b> 160+136.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 160+136.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1537 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33835,7 +33835,7 @@ var locations = [
   17.0159412,
   -93.5091727,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 160+025.18 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+025.18 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1538 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33857,7 +33857,7 @@ var locations = [
   17.0153733,
   -93.5085511,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 160+121.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+121.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1539 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33879,7 +33879,7 @@ var locations = [
   17.0137872,
   -93.5066208,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 160+861.74 <br> <b>Tipo:</b> RECOMENDACIÓN                      (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+861.74 <br> <b>Tipo:</b> RECOMENDACIÓN                      (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1540 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33901,7 +33901,7 @@ var locations = [
   17.0136339,
   -93.5064513,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 160+887.55 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+887.55 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1541 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33923,7 +33923,7 @@ var locations = [
   17.0131108,
   -93.5060083,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 160+960.65 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 160+960.65 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1542 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33945,7 +33945,7 @@ var locations = [
   17.0129761,
   -93.5056509,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 161+000 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 161+000 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1543 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -33967,7 +33967,7 @@ var locations = [
   17.0124979,
   -93.5052739,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 161+063.85 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 161+063.85 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1544 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -33989,7 +33989,7 @@ var locations = [
   17.0112365,
   -93.5036451,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 161+287.04 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 161+287.04 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1545 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34011,7 +34011,7 @@ var locations = [
   17.0104606,
   -93.5030136,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 161+394.55 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 161+394.55 <br> <b>Tipo:</b> DISPOSITIVOS DIVERSOS                     (OD-12) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1546 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34033,7 +34033,7 @@ var locations = [
   17.0100094,
   -93.5027118,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 161+453.99 <br> <b>Tipo:</b> INFORMACIÓN SERVICIO              (RAMPA) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 161+453.99 <br> <b>Tipo:</b> INFORMACIÓN SERVICIO              (RAMPA) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1547 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34055,7 +34055,7 @@ var locations = [
   17.0057818,
   -93.5016013,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 162+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1548 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34077,7 +34077,7 @@ var locations = [
   17.0058,
   -93.5014698,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 162+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1549 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34099,7 +34099,7 @@ var locations = [
   17.0049147,
   -93.5013172,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+099.32 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 162+099.32 <br> <b>Tipo:</b> SEÑAL PREVENTIVA      (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1550 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34121,7 +34121,7 @@ var locations = [
   17.004562,
   -93.5013914,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+135.84 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 162+135.84 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1551 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34143,7 +34143,7 @@ var locations = [
   17.0034149,
   -93.5010407,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+267.97 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 162+267.97 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1552 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34165,7 +34165,7 @@ var locations = [
   16.9975533,
   -93.4990524,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+905.25 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-19) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 162+905.25 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-19) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1553 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34187,7 +34187,7 @@ var locations = [
   16.9974276,
   -93.4986951,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 162+942.70 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 162+942.70 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1554 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34209,7 +34209,7 @@ var locations = [
   16.9970126,
   -93.4983558,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)   <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)   <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1555 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34231,7 +34231,7 @@ var locations = [
   16.9971032,
   -93.4982809,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)   <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+000.00 <br> <b>Tipo:</b> INFORMATIVA DE IDENTIFICACIÓN               (SII-15)   <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1556 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34253,7 +34253,7 @@ var locations = [
   16.9966795,
   -93.4978006,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+069.52 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+069.52 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1557 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34275,7 +34275,7 @@ var locations = [
   16.9967703,
   -93.4976318,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+080.00 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+080.00 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1558 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34297,7 +34297,7 @@ var locations = [
   16.9960406,
   -93.4966529,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+210.14 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-13) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+210.14 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                         (SID-13) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1559 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34319,7 +34319,7 @@ var locations = [
   16.9961224,
   -93.4964464,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+224.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+224.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1560 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34341,7 +34341,7 @@ var locations = [
   16.9960594,
   -93.4963241,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+240.14 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+240.14 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1561 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34363,7 +34363,7 @@ var locations = [
   16.9959425,
   -93.4960983,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+267.68 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+267.68 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1562 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34385,7 +34385,7 @@ var locations = [
   16.9958345,
   -93.495882,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+293.07 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-17) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+293.07 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-17) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1563 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34407,7 +34407,7 @@ var locations = [
   16.9956457,
   -93.4954775,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+378.02 <br> <b>Tipo:</b> ALTURA LIBRE RESTRINGIDA                    (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+378.02 <br> <b>Tipo:</b> ALTURA LIBRE RESTRINGIDA                    (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1564 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34429,7 +34429,7 @@ var locations = [
   16.9953389,
   -93.4952513,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+485.83 <br> <b>Tipo:</b> ALTURA LIBRE RESTRINGIDA                    (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+485.83 <br> <b>Tipo:</b> ALTURA LIBRE RESTRINGIDA                    (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1565 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34451,7 +34451,7 @@ var locations = [
   16.9948982,
   -93.4943389,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+530.86 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO            (RAMPA) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+530.86 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO            (RAMPA) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1566 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34473,7 +34473,7 @@ var locations = [
   16.9946369,
   -93.494,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+609.30 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-19) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+609.30 <br> <b>Tipo:</b> SEÑAL  PREVENTIVA            (SP-19) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1567 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34495,7 +34495,7 @@ var locations = [
   16.9944831,
   -93.4940372,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+692.67 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+692.67 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1568 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34517,7 +34517,7 @@ var locations = [
   16.9934012,
   -93.4928883,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+708.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+708.29 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1569 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34539,7 +34539,7 @@ var locations = [
   16.9919835,
   -93.4922646,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+888.61 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 163+888.61 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                        (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1570 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34561,7 +34561,7 @@ var locations = [
   16.9914963,
   -93.4919157,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 163+940.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 163+940.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1571 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34583,7 +34583,7 @@ var locations = [
   16.9910353,
   -93.491877,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 164+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1572 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34605,7 +34605,7 @@ var locations = [
   16.9910718,
   -93.4917549,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 164+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1573 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34627,7 +34627,7 @@ var locations = [
   16.9908551,
   -93.4916698,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+026.60 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 164+026.60 <br> <b>Tipo:</b> SEÑAL PREVENTIVA            (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1574 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34649,7 +34649,7 @@ var locations = [
   16.9901413,
   -93.4915364,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+103.83 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 164+103.83 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1575 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34671,7 +34671,7 @@ var locations = [
   16.9883629,
   -93.4905642,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+328.25 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 164+328.25 <br> <b>Tipo:</b> RECOMENDACIÓN         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1576 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34693,7 +34693,7 @@ var locations = [
   16.9866494,
   -93.4889159,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+430.85 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 164+430.85 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1577 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34715,7 +34715,7 @@ var locations = [
   16.9861622,
   -93.4885389,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+591.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 164+591.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1578 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34737,7 +34737,7 @@ var locations = [
   16.9859463,
   -93.4880874,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 164+708.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 164+708.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1579 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34759,7 +34759,7 @@ var locations = [
   16.9844224,
   -93.4865335,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 165+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 165+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1580 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34781,7 +34781,7 @@ var locations = [
   16.984513,
   -93.4864304,
   'KM 160+000 AL 165+000',
-  '<b>Kilometro: </b> 165+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 165+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1581 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34803,7 +34803,7 @@ var locations = [
   16.9813248,
   -93.4853326,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 165+370.00 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 165+370.00 <br> <b>Tipo:</b> INFORMATIVA GENERAL (SIG) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1582 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34825,7 +34825,7 @@ var locations = [
   16.9804294,
   -93.4855463,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 165+470.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 165+470.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1583 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34847,7 +34847,7 @@ var locations = [
   16.9799324,
   -93.4854605,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 165+471.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 165+471.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1584 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34869,7 +34869,7 @@ var locations = [
   16.9799324,
   -93.4854605,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 165+481.00 <br> <b>Tipo:</b> RECOMENDACIÓN                                     (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 165+481.00 <br> <b>Tipo:</b> RECOMENDACIÓN                                     (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1585 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34891,7 +34891,7 @@ var locations = [
   16.9755781,
   -93.4843409,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 165+524.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 165+524.50 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1586 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34913,7 +34913,7 @@ var locations = [
   16.9755781,
   -93.4843409,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+000.00 <br> <b>Tipo:</b> INFORMACIÓN  DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 166+000.00 <br> <b>Tipo:</b> INFORMACIÓN  DE IDENTIFICACIÓN        (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1587 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -34935,7 +34935,7 @@ var locations = [
   16.9737197,
   -93.482795,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+103.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 166+103.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1588 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34957,7 +34957,7 @@ var locations = [
   16.974685,
   -93.483502,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+136.63 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 166+136.63 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1589 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -34979,7 +34979,7 @@ var locations = [
   16.9743062,
   -93.4832199,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+188.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 166+188.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL               (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1590 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35001,7 +35001,7 @@ var locations = [
   16.9736291,
   -93.48288,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+232.23 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 166+232.23 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1591 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35023,7 +35023,7 @@ var locations = [
   16.9715626,
   -93.4814,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 166+546.70 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 166+546.70 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1592 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35045,7 +35045,7 @@ var locations = [
   16.9675325,
   -93.4808074,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 167+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 167+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1593 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35067,7 +35067,7 @@ var locations = [
   16.9675412,
   -93.4809389,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 167+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 167+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1594 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35089,7 +35089,7 @@ var locations = [
   16.9675412,
   -93.4809389,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 168+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 168+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1595 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35111,7 +35111,7 @@ var locations = [
   16.9536541,
   -93.4782362,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 168+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 168+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                    (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1596 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35133,7 +35133,7 @@ var locations = [
   16.9536541,
   -93.4782362,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 168+602.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 168+602.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1597 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35155,7 +35155,7 @@ var locations = [
   16.952101,
   -93.4774621,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 168+793.47 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 168+793.47 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1598 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35177,7 +35177,7 @@ var locations = [
   16.9505398,
   -93.4763969,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 169+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 169+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1599 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35199,7 +35199,7 @@ var locations = [
   16.9504763,
   -93.4765095,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 169+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 169+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1600 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35221,7 +35221,7 @@ var locations = [
   16.9494653,
   -93.4759152,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 169+128.81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 169+128.81 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1601 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35243,7 +35243,7 @@ var locations = [
   16.9452088,
   -93.4715656,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 169+802.88 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 169+802.88 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1602 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35265,7 +35265,7 @@ var locations = [
   16.9441003,
   -93.4701259,
   'KM 165+000 AL 170+000',
-  '<b>Kilometro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1603 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35287,7 +35287,7 @@ var locations = [
   16.9441003,
   -93.4701259,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1604 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35309,7 +35309,7 @@ var locations = [
   16.9441003,
   -93.4701259,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 170+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1605 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35331,7 +35331,7 @@ var locations = [
   16.937153,
   -93.4644269,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 171+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1606 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35353,7 +35353,7 @@ var locations = [
   16.9362251,
   -93.4630441,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+181.41 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 171+181.41 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1607 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35375,7 +35375,7 @@ var locations = [
   16.9360269,
   -93.4627431,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+220.82 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 171+220.82 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1608 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35397,7 +35397,7 @@ var locations = [
   16.9333867,
   -93.4590553,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+709.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 171+709.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1609 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35419,7 +35419,7 @@ var locations = [
   16.9330534,
   -93.4585568,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+173.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 171+173.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1610 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35441,7 +35441,7 @@ var locations = [
   16.933153,
   -93.4584819,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 171+773.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 171+773.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1611 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35463,7 +35463,7 @@ var locations = [
   16.931837,
   -93.4567226,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 172+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 172+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1612 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35485,7 +35485,7 @@ var locations = [
   16.9317465,
   -93.4568257,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 172+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 172+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1613 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35507,7 +35507,7 @@ var locations = [
   16.9301674,
   -93.455601,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 172+216.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 172+216.50 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1614 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35529,7 +35529,7 @@ var locations = [
   16.9284148,
   -93.4551085,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 172+415.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 172+415.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1615 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35551,7 +35551,7 @@ var locations = [
   16.9268425,
   -93.4548981,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 172+590.60 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 172+590.60 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1616 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35573,7 +35573,7 @@ var locations = [
   16.9230669,
   -93.4535838,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 173+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1617 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35595,7 +35595,7 @@ var locations = [
   16.9231305,
   -93.4534618,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 173+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1618 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35617,7 +35617,7 @@ var locations = [
   16.9211994,
   -93.4519547,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+269.40 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 173+269.40 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1619 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35639,7 +35639,7 @@ var locations = [
   16.9207568,
   -93.451794,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+319.35 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 173+319.35 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1620 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35661,7 +35661,7 @@ var locations = [
   16.9186994,
   -93.450174,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+655.83 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 173+655.83 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1621 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35683,7 +35683,7 @@ var locations = [
   16.9181674,
   -93.449581,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 173+740.69 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 173+740.69 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                       (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1622 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35705,7 +35705,7 @@ var locations = [
   16.9156207,
   -93.4484576,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 174+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 174+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1623 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35727,7 +35727,7 @@ var locations = [
   16.9135863,
   -93.4487158,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 174+269.67 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 174+269.67 <br> <b>Tipo:</b> SEÑAL PREVENTIVA              (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1624 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35749,7 +35749,7 @@ var locations = [
   16.913333,
   -93.4486119,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 174+294.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 174+294.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1625 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35771,7 +35771,7 @@ var locations = [
   16.913098,
   -93.4487991,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 174+324.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 174+324.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1626 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35793,7 +35793,7 @@ var locations = [
   16.9084981,
   -93.4482718,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 174+908.39 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 174+908.39 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1627 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35815,7 +35815,7 @@ var locations = [
   16.9079208,
   -93.447707,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 175+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 175+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1628 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35837,7 +35837,7 @@ var locations = [
   16.9078122,
   -93.4477913,
   'KM 170+000 AL 175+000',
-  '<b>Kilometro: </b> 175+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 175+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1629 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35859,7 +35859,7 @@ var locations = [
   16.9068843,
   -93.4463149,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 175+187.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 175+187.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1630 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35881,7 +35881,7 @@ var locations = [
   16.9068939,
   -93.4460614,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 175+209.90 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 175+209.90 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1631 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35903,7 +35903,7 @@ var locations = [
   16.9060654,
   -93.4446134,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 175+389.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-29) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 175+389.80 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-29) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1632 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35925,7 +35925,7 @@ var locations = [
   16.9034806,
   -93.440213,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 175+874.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 175+874.15 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1633 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -35947,7 +35947,7 @@ var locations = [
   16.9035083,
   -93.4399689,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 175+895.40 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 175+895.40 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1634 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35969,7 +35969,7 @@ var locations = [
   16.903112,
   -93.4390854,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 176+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1635 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -35991,7 +35991,7 @@ var locations = [
   16.9029858,
   -93.4391414,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 176+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1636 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36013,7 +36013,7 @@ var locations = [
   16.9027257,
   -93.4381737,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+105.53 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 176+105.53 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1637 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36035,7 +36035,7 @@ var locations = [
   16.9014124,
   -93.4351378,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+460.47 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 176+460.47 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1638 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36057,7 +36057,7 @@ var locations = [
   16.9012858,
   -93.4351751,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+462.79 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 176+462.79 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1639 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36079,7 +36079,7 @@ var locations = [
   16.9011689,
   -93.4349025,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+506.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 176+506.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1640 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36101,7 +36101,7 @@ var locations = [
   16.9012416,
   -93.4347243,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 176+521.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 176+521.03 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1641 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36123,7 +36123,7 @@ var locations = [
   16.8985008,
   -93.4313191,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1642 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36145,7 +36145,7 @@ var locations = [
   16.8984553,
   -93.43144,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1643 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36167,7 +36167,7 @@ var locations = [
   16.8971274,
   -93.4310155,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+153.01 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 177+153.01 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1644 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36189,7 +36189,7 @@ var locations = [
   16.8961334,
   -93.4308818,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+263.58 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 177+263.58 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1645 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36211,7 +36211,7 @@ var locations = [
   16.895437,
   -93.4309271,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+340.19 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 177+340.19 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1646 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36233,7 +36233,7 @@ var locations = [
   16.894886,
   -93.4308602,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+400.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 177+400.95 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1647 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36255,7 +36255,7 @@ var locations = [
   16.8938019,
   -93.4305666,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+513.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 177+513.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1648 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36277,7 +36277,7 @@ var locations = [
   16.8911469,
   -93.4293025,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+848.25 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO          (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 177+848.25 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO          (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1649 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36299,7 +36299,7 @@ var locations = [
   16.890553,
   -93.4280336,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1650 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36321,7 +36321,7 @@ var locations = [
   16.8904353,
   -93.4280991,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 177+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN               (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1651 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36343,7 +36343,7 @@ var locations = [
   16.890157,
   -93.4271877,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+100.49 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 178+100.49 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1652 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36365,7 +36365,7 @@ var locations = [
   16.889959,
   -93.4267554,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+151.54 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 178+151.54 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1653 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36387,7 +36387,7 @@ var locations = [
   16.8894184,
   -93.4259185,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+257.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 178+257.74 <br> <b>Tipo:</b> SEÑAL PREVENTIVA               (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1654 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36409,7 +36409,7 @@ var locations = [
   16.8870658,
   -93.422683,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+701.61 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 178+701.61 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1655 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36431,7 +36431,7 @@ var locations = [
   16.8861005,
   -93.4217425,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+777.88 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 178+777.88 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1656 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36453,7 +36453,7 @@ var locations = [
   16.8866059,
   -93.4221473,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+847.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 178+847.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1657 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36475,7 +36475,7 @@ var locations = [
   16.8865424,
   -93.4222598,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+900.11 <br> <b>Tipo:</b> RECOMENDACIÓN                         (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 178+900.11 <br> <b>Tipo:</b> RECOMENDACIÓN                         (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1658 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36497,7 +36497,7 @@ var locations = [
   16.8857035,
   -93.4214224,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 178+902.85 <br> <b>Tipo:</b> RECOMENDACIÓN                         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 178+902.85 <br> <b>Tipo:</b> RECOMENDACIÓN                         (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1659 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36519,7 +36519,7 @@ var locations = [
   16.88492,
   -93.4209794,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 179+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 179+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1660 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36541,7 +36541,7 @@ var locations = [
   16.8850085,
   -93.4208763,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 179+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 179+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1661 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36563,7 +36563,7 @@ var locations = [
   16.881335,
   -93.4181267,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 179+549.90 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 179+549.90 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1662 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36585,7 +36585,7 @@ var locations = [
   16.8810016,
   -93.4176753,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 179+608.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 179+608.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1663 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36607,7 +36607,7 @@ var locations = [
   16.88092,
   -93.4177878,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 179+608.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 179+608.18 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1664 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36629,7 +36629,7 @@ var locations = [
   16.8779592,
   -93.4157534,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1665 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36651,7 +36651,7 @@ var locations = [
   16.8779137,
   -93.4158753,
   'KM 175+000 AL 180+000',
-  '<b>Kilometro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                        (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1666 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36673,7 +36673,7 @@ var locations = [
   16.8714536,
   -93.4143778,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 179+689.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 179+689.97 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1667 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36695,7 +36695,7 @@ var locations = [
   16.8700165,
   -93.414271,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 179+849.23 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 179+849.23 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1668 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36717,7 +36717,7 @@ var locations = [
   16.8692936,
   -93.4141478,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 179+930.10 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 179+930.10 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1669 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36739,7 +36739,7 @@ var locations = [
   16.8686701,
   -93.414052,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1670 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36761,7 +36761,7 @@ var locations = [
   16.868688,
   -93.413911,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1671 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36783,7 +36783,7 @@ var locations = [
   16.868245,
   -93.413826,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+049.96 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+049.96 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1672 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36805,7 +36805,7 @@ var locations = [
   16.8678749,
   -93.4138819,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+088.53 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 180+088.53 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1673 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36827,7 +36827,7 @@ var locations = [
   16.867513,
   -93.413618,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+135.95 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+135.95 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1674 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36849,7 +36849,7 @@ var locations = [
   16.86541,
   -93.41197,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+431.44 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (TARJETA) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 180+431.44 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (TARJETA) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1675 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36871,7 +36871,7 @@ var locations = [
   16.8652405,
   -93.411369,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+496.31 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+496.31 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1676 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36893,7 +36893,7 @@ var locations = [
   16.8651229,
   -93.4114069,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+498.76 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 180+498.76 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1677 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36915,7 +36915,7 @@ var locations = [
   16.8647905,
   -93.4103547,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 180+615.66 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                               (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 180+615.66 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                               (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1678 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36937,7 +36937,7 @@ var locations = [
   16.864664,
   -93.4100635,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 160+649.84 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 160+649.84 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1679 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -36959,7 +36959,7 @@ var locations = [
   16.86443889,
   -93.40988333,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 160+900.31 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 160+900.31 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1680 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -36981,7 +36981,7 @@ var locations = [
   16.86433056,
   -93.40964167,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 160+928.00 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 160+928.00 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1681 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37003,7 +37003,7 @@ var locations = [
   16.86443,
   -93.4095278,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 130+934.59 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 130+934.59 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1682 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37025,7 +37025,7 @@ var locations = [
   16.86415,
   -93.409245,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 130+975.27 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 130+975.27 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1683 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37047,7 +37047,7 @@ var locations = [
   16.8641786,
   -93.408973,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1684 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37069,7 +37069,7 @@ var locations = [
   16.8640519,
   -93.409029,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN                  (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1685 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37091,7 +37091,7 @@ var locations = [
   16.864106,
   -93.4087949,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+020.70 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+020.70 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1686 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37113,7 +37113,7 @@ var locations = [
   16.863971,
   -93.4088322,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+023.05 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+023.05 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1687 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37135,7 +37135,7 @@ var locations = [
   16.86389,
   -93.408644,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+045.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-10) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+045.50 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-10) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1688 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37157,7 +37157,7 @@ var locations = [
   16.8639717,
   -93.4084848,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+056.98 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+056.98 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1689 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37179,7 +37179,7 @@ var locations = [
   16.8637549,
   -93.4083717,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+077.62 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (IAVE) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+077.62 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (IAVE) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1690 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37201,7 +37201,7 @@ var locations = [
   16.863656,
   -93.4081274,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+105.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+105.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1691 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37223,7 +37223,7 @@ var locations = [
   16.8637376,
   -93.4079774,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+116.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+116.94 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1692 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37245,7 +37245,7 @@ var locations = [
   16.863098,
   -93.406427,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+297.94 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                               (SID-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+297.94 <br> <b>Tipo:</b> INFORMATIVA DE DESTINO                               (SID-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1693 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37267,7 +37267,7 @@ var locations = [
   16.86185556,
   -93.40406944,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+314.86 <br> <b>Tipo:</b> INFORMACIÓN CAPUFE <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+314.86 <br> <b>Tipo:</b> INFORMACIÓN CAPUFE <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1694 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37289,7 +37289,7 @@ var locations = [
   16.86154167,
   -93.40335,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+315.00 <br> <b>Tipo:</b>  DISPOSITIVOS DIVERSOS                     (OD-5) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+315.00 <br> <b>Tipo:</b>  DISPOSITIVOS DIVERSOS                     (OD-5) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1695 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37311,7 +37311,7 @@ var locations = [
   16.86208056,
   -93.40425556,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+339.43 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+339.43 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1696 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37333,7 +37333,7 @@ var locations = [
   16.86135278,
   -93.40293056,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+345.00 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-7) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+345.00 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-7) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1697 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37355,7 +37355,7 @@ var locations = [
   16.862703,
   -93.4053936,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+414.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+414.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1698 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37377,7 +37377,7 @@ var locations = [
   16.8625503,
   -93.405036,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+416.70 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+416.70 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1699 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37399,7 +37399,7 @@ var locations = [
   16.8623343,
   -93.404557,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+419.10 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+419.10 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1700 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37421,7 +37421,7 @@ var locations = [
   16.862018,
   -93.4040966,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+421.43 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (CAPUFE) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+421.43 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (CAPUFE) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1701 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37443,7 +37443,7 @@ var locations = [
   16.86157778,
   -93.4034,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+414.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+414.78 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1702 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37465,7 +37465,7 @@ var locations = [
   16.861425,
   -93.40310833,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+456.17 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+456.17 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1703 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37487,7 +37487,7 @@ var locations = [
   16.86162222,
   -93.40352222,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+512.79 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+512.79 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1704 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37509,7 +37509,7 @@ var locations = [
   16.861425,
   -93.40310833,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+553.40 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+553.40 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIOS                      (SIS-23) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1705 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37531,7 +37531,7 @@ var locations = [
   16.86161389,
   -93.40348611,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+562.32 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (CAPUFE) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+562.32 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (CAPUFE) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1706 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37553,7 +37553,7 @@ var locations = [
   16.86208056,
   -93.40425556,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+571.38 <br> <b>Tipo:</b> CAPUFE <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+571.38 <br> <b>Tipo:</b> CAPUFE <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1707 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37575,7 +37575,7 @@ var locations = [
   16.86185556,
   -93.40406667,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+583.63 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+583.63 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1708 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37597,7 +37597,7 @@ var locations = [
   16.8619738,
   -93.4040026,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+601.58 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (IAVE) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+601.58 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIÓ                      (IAVE) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1709 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37619,7 +37619,7 @@ var locations = [
   16.8614788,
   -93.402865,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+666.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+666.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1710 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37641,7 +37641,7 @@ var locations = [
   16.86154167,
   -93.40335278,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+715.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+715.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1711 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37663,7 +37663,7 @@ var locations = [
   16.8612,
   -93.40226389,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+715.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+715.14 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1712 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37685,7 +37685,7 @@ var locations = [
   16.861352,
   -93.4029311,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+765.83 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+765.83 <br> <b>Tipo:</b> RECOMENDACIÓN                  (SIR) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1713 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37707,7 +37707,7 @@ var locations = [
   16.8612,
   -93.40226389,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+786.51 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+786.51 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1714 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37729,7 +37729,7 @@ var locations = [
   16.86147778,
   -93.402875,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+786.51 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+786.51 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                 (SR-22) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1715 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37751,7 +37751,7 @@ var locations = [
   16.86147778,
   -93.402875,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 181+858.879 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 181+858.879 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1716 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37773,7 +37773,7 @@ var locations = [
   16.8609298,
   -93.401653,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+364.69 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+364.69 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-22) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1717 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37795,7 +37795,7 @@ var locations = [
   16.8602002,
   -93.4003377,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+796.14 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+796.14 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1718 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37817,7 +37817,7 @@ var locations = [
   16.8601559,
   -93.3998776,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+811.08 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 182+811.08 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1719 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37839,7 +37839,7 @@ var locations = [
   16.8598852,
   -93.399633,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 182+878.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 182+878.87 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1720 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37861,7 +37861,7 @@ var locations = [
   16.8595257,
   -93.398552,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1721 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37883,7 +37883,7 @@ var locations = [
   16.8594081,
   -93.3986181,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 183+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1722 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -37905,7 +37905,7 @@ var locations = [
   16.8592014,
   -93.397998,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+067.37 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (SIS-4) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+067.37 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (SIS-4) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1723 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37927,7 +37927,7 @@ var locations = [
   16.8589039,
   -93.397575,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+123.29 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+123.29 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                   (IAVE) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1724 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37949,7 +37949,7 @@ var locations = [
   16.8578303,
   -93.3964839,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+288.57 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+288.57 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-10) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1725 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37971,7 +37971,7 @@ var locations = [
   16.856954,
   -93.3958625,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+404.60 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+404.60 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1726 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -37993,7 +37993,7 @@ var locations = [
   16.8561331,
   -93.3953351,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+511.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+511.00 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                   (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1727 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38015,7 +38015,7 @@ var locations = [
   16.855474,
   -93.394939,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+602.58 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+602.58 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1728 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38037,7 +38037,7 @@ var locations = [
   16.8549771,
   -93.394778,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+657.77 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 183+657.77 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1729 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38059,7 +38059,7 @@ var locations = [
   16.8540113,
   -93.3940352,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 183+790.93 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 183+790.93 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                     (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1730 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38081,7 +38081,7 @@ var locations = [
   16.8523771,
   -93.3930274,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 184+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 184+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1731 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38103,7 +38103,7 @@ var locations = [
   16.8523136,
   -93.3931493,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 184+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 184+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN             (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1732 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38125,7 +38125,7 @@ var locations = [
   16.8500473,
   -93.391746,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 184+292.45 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 184+292.45 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1733 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38147,7 +38147,7 @@ var locations = [
   16.8471761,
   -93.3899753,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 184+661.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 184+661.26 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1734 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38169,7 +38169,7 @@ var locations = [
   16.845298,
   -93.3888169,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 184+901.4 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 184+901.4 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                 (SID-11) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1735 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38191,7 +38191,7 @@ var locations = [
   16.8445307,
   -3.3883366,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 185+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 185+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1736 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38213,7 +38213,7 @@ var locations = [
   16.844594,
   -93.388224,
   'KM 180+000 AL 185+000',
-  '<b>Kilometro: </b> 185+191.53 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 185+191.53 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1737 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38235,7 +38235,7 @@ var locations = [
   16.8367747,
   -93.3835431,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 186+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1738 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38257,7 +38257,7 @@ var locations = [
   16.8368382,
   -93.3834306,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 186+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1739 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38279,7 +38279,7 @@ var locations = [
   16.836251,
   -93.383222,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+067.76 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 186+067.76 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1740 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38301,7 +38301,7 @@ var locations = [
   16.8342285,
   -93.3819799,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+328.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 186+328.29 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1741 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38323,7 +38323,7 @@ var locations = [
   16.8335065,
   -93.3813589,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+430.065 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 186+430.065 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1742 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38345,7 +38345,7 @@ var locations = [
   16.8322782,
   -93.3807745,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+581.27 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 186+581.27 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1743 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38367,7 +38367,7 @@ var locations = [
   16.830445,
   -93.379485,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 186+825.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 186+825.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1744 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38389,7 +38389,7 @@ var locations = [
   16.8290912,
   -93.3786375,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 187+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 187+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1745 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38411,7 +38411,7 @@ var locations = [
   16.8290912,
   -93.3786375,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 187+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 187+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1746 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38433,7 +38433,7 @@ var locations = [
   16.821623,
   -93.3740425,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 187+963.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 187+963.00 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA            (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1747 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38455,7 +38455,7 @@ var locations = [
   16.829027,
   -93.3787594,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 188+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 188+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1748 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38477,7 +38477,7 @@ var locations = [
   16.8169015,
   -93.3711331,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 188+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 188+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN              (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1749 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38499,7 +38499,7 @@ var locations = [
   16.8135877,
   -93.3690807,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 188+572.76 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 188+572.76 <br> <b>Tipo:</b> RECOMENDACIÓN                 (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1750 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38521,7 +38521,7 @@ var locations = [
   16.8138764,
   -93.3694097,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 188+954.31 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 188+954.31 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1751 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38543,7 +38543,7 @@ var locations = [
   16.8135877,
   -93.3690807,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 189+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1752 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38565,7 +38565,7 @@ var locations = [
   16.8135242,
   -93.369193,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 189+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1753 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38587,7 +38587,7 @@ var locations = [
   16.8132716,
   -93.368883,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+040.82 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 189+040.82 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1754 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38609,7 +38609,7 @@ var locations = [
   16.8094829,
   -93.3644834,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+688.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 189+688.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1755 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38631,7 +38631,7 @@ var locations = [
   16.8090781,
   -93.363337,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+818.07 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 189+818.07 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1756 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38653,7 +38653,7 @@ var locations = [
   16.8091959,
   -93.363215,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 189+825.88 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 189+825.88 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1757 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38675,7 +38675,7 @@ var locations = [
   16.809096,
   -93.362934,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 188+858.10 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 188+858.10 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                 (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1758 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38697,7 +38697,7 @@ var locations = [
   16.8085386,
   -93.3617224,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 190+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 190+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1759 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38719,7 +38719,7 @@ var locations = [
   16.8086471,
   -93.3616851,
   'KM 185+000 AL 190+000',
-  '<b>Kilometro: </b> 190+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 190+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1760 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38741,7 +38741,7 @@ var locations = [
   16.8086471,
   -93.3616851,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 190+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 190+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1761 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38763,7 +38763,7 @@ var locations = [
   16.8085386,
   -93.3617224,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 190+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 190+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1762 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38785,7 +38785,7 @@ var locations = [
   16.8068393,
   -93.3564636,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 190+87.52 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 190+87.52 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1763 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38807,7 +38807,7 @@ var locations = [
   16.8066318,
   -93.3562004,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 190+594.08 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 190+594.08 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1764 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38829,7 +38829,7 @@ var locations = [
   16.8057952,
   -93.3538527,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 190+894.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 190+894.86 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                  (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1765 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38851,7 +38851,7 @@ var locations = [
   16.8054804,
   -93.35292,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 191+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 191+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1766 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38873,7 +38873,7 @@ var locations = [
   16.805607,
   -93.352876,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 191+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 191+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1767 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38895,7 +38895,7 @@ var locations = [
   16.8008656,
   -93.345021,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 192+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 192+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1768 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38917,7 +38917,7 @@ var locations = [
   16.793908,
   -93.338272,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 192+051.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 192+051.45 <br> <b>Tipo:</b> SEÑAL PREVENTIVA             (SP-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1769 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38939,7 +38939,7 @@ var locations = [
   16.793475,
   -93.338031,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 192+108.54 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 192+108.54 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1770 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -38961,7 +38961,7 @@ var locations = [
   16.8009561,
   -93.344918,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 192+265.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 192+265.25 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1771 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -38983,7 +38983,7 @@ var locations = [
   16.800956,
   -93.344917,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 193+710.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 193+710.65 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA              (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1772 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39005,7 +39005,7 @@ var locations = [
   16.787471,
   -93.3321698,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 194+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 194+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1773 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39027,7 +39027,7 @@ var locations = [
   16.7873904,
   -93.3322635,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 194+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 194+000.00 <br> <b>Tipo:</b> IDENTIFICACIÓN DE IDENTIFICACIÓN                 (SII-15) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1774 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39049,7 +39049,7 @@ var locations = [
   16.7827331,
   -93.3278544,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 194+165.19 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO          (SID-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 194+165.19 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO          (SID-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1775 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39071,7 +39071,7 @@ var locations = [
   16.7807473,
   -93.3259742,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 195+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 195+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1776 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39093,7 +39093,7 @@ var locations = [
   16.7808288,
   -93.3258805,
   'KM 190+000 AL 195+000',
-  '<b>Kilometro: </b> 195+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 195+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-14) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1777 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39115,7 +39115,7 @@ var locations = [
   16.7769656,
   -93.3222425,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 195+045.60 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                 (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 195+045.60 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                 (SIR-6) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1778 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39137,7 +39137,7 @@ var locations = [
   16.775611,
   -93.321047,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 195+773.24 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 195+773.24 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1779 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39159,7 +39159,7 @@ var locations = [
   16.7757918,
   -93.3213866,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 195+832.23 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 195+832.23 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                   (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1780 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39181,7 +39181,7 @@ var locations = [
   16.7751147,
   -93.3208131,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 195+916+38 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                 (SIR-6) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 195+916+38 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                 (SIR-6) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1781 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39203,7 +39203,7 @@ var locations = [
   16.7745188,
   -93.320324,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 195+972.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 195+972.05 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1782 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39225,7 +39225,7 @@ var locations = [
   16.774014,
   -93.319733,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 196+000.00 <br> <b>Tipo:</b> INFORMACIÓN DE IDENTIFICACIÓN            (SII-15) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1783 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39247,7 +39247,7 @@ var locations = [
   16.7741306,
   -93.3200045,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+209.63 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+209.63 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1784 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39269,7 +39269,7 @@ var locations = [
   16.7724152,
   -93.3186598,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+341.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+341.76 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-18) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1785 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39291,7 +39291,7 @@ var locations = [
   16.771197,
   -93.317531,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+389.40 <br> <b>Tipo:</b> INFORMACION DE DESTINO               (SID-8 ) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 196+389.40 <br> <b>Tipo:</b> INFORMACION DE DESTINO               (SID-8 ) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1786 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39313,7 +39313,7 @@ var locations = [
   16.7714672,
   -93.3178982,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+427.80 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-8) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+427.80 <br> <b>Tipo:</b> INFORMACIÓN GENERAL                  (SIG-8) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1787 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39335,7 +39335,7 @@ var locations = [
   16.7708442,
   -93.317428,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+469.68 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-38) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+469.68 <br> <b>Tipo:</b> SEÑAL PREVENTIVA                  (SP-38) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1788 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39357,7 +39357,7 @@ var locations = [
   16.7701219,
   -93.316845,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+528.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-9) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+528.42 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA               (SR-9) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1789 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ],
 
@@ -39379,7 +39379,7 @@ var locations = [
   16.7698874,
   -93.3164975,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+571.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 196+571.23 <br> <b>Tipo:</b> SEÑAL RESTRICTIVA                           (SR-18) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1790 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39401,7 +39401,7 @@ var locations = [
   16.7695895,
   -93.3162624,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+570.32 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                         (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
+  '<b>Kilómetro: </b> 196+570.32 <br> <b>Tipo:</b> INFORMACIÓN DE SERVICIO                         (SIS-26) <br> <b>Lado:</b> IZQUIERDO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1791 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'IZQUIERDO' ],
 
@@ -39423,17 +39423,16 @@ var locations = [
   16.7691017,
   -93.3159989,
   'KM 195+000 AL 197+500',
-  '<b>Kilometro: </b> 196+671.23 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                             (SID-13) <br> <b>Lado:</b> DERECHO',
+  '<b>Kilómetro: </b> 196+671.23 <br> <b>Tipo:</b> INFORMACIÓN DE DESTINO                             (SID-13) <br> <b>Lado:</b> DERECHO',
   '<a class="hvr-bounce-to-right" onClick="justOne( 1792 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>',
   'DERECHO' ]
 
 ];
 
-
 function initialize() {
 
-   //Options for the street view
-   var panoramaOptions = {
+    //Options for the street view
+    var panoramaOptions = {
         addressControlOptions : { position : google.maps.ControlPosition.TOP_CENTER },
         enableCloseButton : true,
         visible: false //set to false so streetview is not triggered on the initial map load
@@ -39459,330 +39458,331 @@ function initialize() {
     map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
 
     //coordinates por the polyline
-   var linePath = [
-    {lat: 18.068652, lng: -94.25055299999997},
-    {lat: 18.068286631177894, lng: -94.2498601190211},
-    {lat: 18.067554067943473, lng: -94.24916724237386},
-    {lat: 18.066088935355175, lng: -94.24821065528113},
-    {lat: 18.054223330517928, lng: -94.24131966320505},
-    {lat: 18.04862056393551, lng: -94.23745460471594},
-    {lat: 18.039998173270387, lng: -94.23084338793717},
-    {lat: 18.026139781555205, lng: -94.22045458106913},
-    {lat: 18.019108367807036, lng: -94.21513205324527},
-    {lat: 18.011729937188697, lng: -94.20953100064378},
-    {lat: 18.00906987971749, lng: -94.20748381615806},
-    {lat: 18.00653586212296, lng: -94.20583799513571},
-    {lat: 18.00212440036227, lng: -94.20329103448273},
-    {lat: 17.992151349932342, lng: -94.19756671671792},
-    {lat: 17.981749530502192, lng: -94.19149975529422},
-    {lat: 17.97654855211571, lng: -94.18840216429237},
-    {lat: 17.9713883521169, lng: -94.18577680997595},
-    {lat: 17.95032862956103, lng: -94.17511611018034},
-    {lat: 17.93979855487754, lng: -94.16982961760641},
-    {lat: 17.934513050652125, lng: -94.16710077273274},
-    {lat: 17.92945208471737, lng: -94.16454373879003},
-    {lat: 17.927025923494455, lng: -94.16279312964082},
-    {lat: 17.924354744484987, lng: -94.16037738800378},
-    {lat: 17.88389266290509, lng: -94.12372936490056},
-    {lat: 17.85565087066235, lng: -94.10519426522961},
-    {lat: 17.822737806541422, lng: -94.07292937601778},
-    {lat: 17.772986973671298, lng: -94.0461716474012},
-    {lat: 17.76145442130673, lng: -94.01043296475945},
-    {lat: 17.727352138337746, lng: -93.96234534904124},
-    {lat: 17.696146178744165, lng: -93.92063261505405},
-    {lat: 17.68275881670568, lng: -93.889743907803},
-    {lat: 17.650324523048788, lng: -93.83686144032544},
-    {lat: 17.64880778952793, lng: -93.83429606605279},
-    {lat: 17.647454602274788, lng: -93.83155907265359},
-    {lat: 17.644257349770623, lng: -93.82539859117259},
-    {lat: 17.63843488039634, lng: -93.81372192894969},
-    {lat: 17.63238681244171, lng: -93.80208896172564},
-    {lat: 17.625969985059005, lng: -93.79071428201757},
-    {lat: 17.612897562356903, lng: -93.7608889580988},
-    {lat: 17.592123624592542, lng: -93.72280499664663},
-    {lat: 17.566272004734184, lng: -93.69605601856472},
-    {lat: 17.56260160189792, lng: -93.69117076121597},
-    {lat: 17.55267066964117, lng: -93.67457025881686},
-    {lat: 17.54284125843732, lng: -93.66404334605033},
-    {lat: 17.532602105928845, lng: -93.65368925067497},
-    {lat: 17.525751696620937, lng: -93.64968035229043},
-    {lat: 17.51905278564816, lng: -93.64776218838063},
-    {lat: 17.50956112431913, lng: -93.64316265140565},
-    {lat: 17.50015119451819, lng: -93.6378769833305},
-    {lat: 17.48930847779957, lng: -93.63503788814728},
-    {lat: 17.478261055335395, lng: -93.6315983619445},
-    {lat: 17.47709703014295, lng: -93.6317252553165},
-    {lat: 17.472903852370955, lng: -93.63374039230757},
-    {lat: 17.47099145671139, lng: -93.63410421033018},
-    {lat: 17.4682603477176, lng: -93.63386721191608},
-    {lat: 17.46626609252123, lng: -93.63444559347397},
-    {lat: 17.464695849696426, lng: -93.63593640675555},
-    {lat: 17.4626211902102, lng: -93.63640285621511},
-    {lat: 17.46038278043903, lng: -93.63549601987341},
-    {lat: 17.458594856005792, lng: -93.63431351996098},
-    {lat: 17.45598152990436, lng: -93.63406568283932},
-    {lat: 17.452996455087234, lng: -93.63295476480027},
-    {lat: 17.450152989801364, lng: -93.63274272190228},
-    {lat: 17.436530637213764, lng: -93.62843104521437},
-    {lat: 17.43283841796011, lng: -93.62752490151172},
-    {lat: 17.429064304522154, lng: -93.62627547915713},
-    {lat: 17.42327669765926, lng: -93.6208156553987},
-    {lat: 17.422732292081555, lng: -93.62022663331135},
-    {lat: 17.421334060268705, lng: -93.61919183213104},
-    {lat: 17.418748350740433, lng: -93.61710565191765},
-    {lat: 17.416920162125333, lng: -93.61634995630203},
-    {lat: 17.408704065318364, lng: -93.61593761555184},
-    {lat: 17.40491070098355, lng: -93.61501052532378},
-    {lat: 17.401335129003435, lng: -93.61330253927866},
-    {lat: 17.396680775500084, lng: -93.61292073068745},
-    {lat: 17.394435587322874, lng: -93.6120432598421},
-    {lat: 17.38876718020907, lng: -93.6069268036349},
-    {lat: 17.385998563476406, lng: -93.6053687957583},
-    {lat: 17.38322993940074, lng: -93.60449747014542},
-    {lat: 17.380313858845717, lng: -93.60249742064622},
-    {lat: 17.375492934326118, lng: -93.59853588816014},
-    {lat: 17.371163437749225, lng: -93.5957761532581},
-    {lat: 17.366059679894786, lng: -93.59293716333434},
-    {lat: 17.359022754301638, lng: -93.59070243346645},
-    {lat: 17.350507048580656, lng: -93.5870639829908},
-    {lat: 17.346497165268268, lng: -93.58514233619314},
-    {lat: 17.34584915915974, lng: -93.58475021976642},
-    {lat: 17.344668624643955, lng: -93.58457268290005},
-    {lat: 17.34332564364503, lng: -93.58475750103452},
-    {lat: 17.342289893008456, lng: -93.58519980707774},
-    {lat: 17.339656518741464, lng: -93.58727287782978},
-    {lat: 17.337350847144386, lng: -93.58895965988575},
-    {lat: 17.336600454260758, lng: -93.58953303843492},
-    {lat: 17.335645231792395, lng: -93.58980600564217},
-    {lat: 17.334481437737793, lng: -93.58999612374942},
-    {lat: 17.331801891076896, lng: -93.5900145782964},
-    {lat: 17.329675404166686, lng: -93.59041925146988},
-    {lat: 17.326912007610275, lng: -93.59180174097389},
-    {lat: 17.325366434397374, lng: -93.59219256514325},
-    {lat: 17.324778004422058, lng: -93.59236651721216},
-    {lat: 17.323902795737467, lng: -93.59236880720175},
-    {lat: 17.322950278514686, lng: -93.59202283588684},
-    {lat: 17.319460299216132, lng: -93.59006958146614},
-    {lat: 17.317551423064117, lng: -93.58900715006217},
-    {lat: 17.316791590721497, lng: -93.58871197575615},
-    {lat: 17.316031758114658, lng: -93.58854554939137},
-    {lat: 17.315500525261836, lng: -93.58837365146064},
-    {lat: 17.314886661143756, lng: -93.58833061851749},
-    {lat: 17.313903713838037, lng: -93.5884163906511},
-    {lat: 17.31247008741686, lng: -93.5886738219055},
-    {lat: 17.308200325273827, lng: -93.58981086441133},
-    {lat: 17.30720464437056, lng: -93.58992346538253},
-    {lat: 17.3060450742974, lng: -93.58982148957023},
-    {lat: 17.304896810677285, lng: -93.58950227924743},
-    {lat: 17.3024374103967, lng: -93.58785271256374},
-    {lat: 17.30010654666892, lng: -93.58697431880148},
-    {lat: 17.29785762883214, lng: -93.58695424185873},
-    {lat: 17.296264344374308, lng: -93.58663379960461},
-    {lat: 17.2932550600641, lng: -93.5842849106383},
-    {lat: 17.29151931961003, lng: -93.58351531224673},
-    {lat: 17.289701626692977, lng: -93.58343236759299},
-    {lat: 17.28655794677334, lng: -93.58172156429475},
-    {lat: 17.284312474684743, lng: -93.58010121178944},
-    {lat: 17.280731072297414, lng: -93.57899068845131},
-    {lat: 17.27967799375617, lng: -93.57804924810137},
-    {lat: 17.277266431710068, lng: -93.57453155983995},
-    {lat: 17.275814757149305, lng: -93.57298733988864},
-    {lat: 17.274248832151738, lng: -93.57202213020588},
-    {lat: 17.272191148907368, lng: -93.57165774926085},
-    {lat: 17.26892340212221, lng: -93.57243762217138},
-    {lat: 17.265322439899524, lng: -93.57278463723696},
-    {lat: 17.26368588659575, lng: -93.57231441965973},
-    {lat: 17.261885401752725, lng: -93.57107174185228},
-    {lat: 17.260068484419772, lng: -93.56888422109978},
-    {lat: 17.25842232075715, lng: -93.56770468904148},
-    {lat: 17.25604186717485, lng: -93.56715787358928},
-    {lat: 17.253294249783927, lng: -93.56216381048773},
-    {lat: 17.25243271186551, lng: -93.56052513665583},
-    {lat: 17.25118224724333, lng: -93.559491232097},
-    {lat: 17.24993178026379, lng: -93.55914398240651},
-    {lat: 17.24727505476622, lng: -93.55961821501512},
-    {lat: 17.24320064494161, lng: -93.56084235664599},
-    {lat: 17.241862576389718, lng: -93.56220470637464},
-    {lat: 17.240794569561015, lng: -93.56360015388418},
-    {lat: 17.23887425290745, lng: -93.5647429860627},
-    {lat: 17.237278786975594, lng: -93.56486378304362},
-    {lat: 17.235601345365883, lng: -93.56472708809997},
-    {lat: 17.2331526472638, lng: -93.5649883109761},
-    {lat: 17.225129404472945, lng: -93.55958485415107},
-    {lat: 17.223168074845596, lng: -93.55692610391907},
-    {lat: 17.221739556354002, lng: -93.55289412132697},
-    {lat: 17.219529378968197, lng: -93.55117891628117},
-    {lat: 17.21701008598961, lng: -93.5517804561178},
-    {lat: 17.214848620406702, lng: -93.55268203487935},
-    {lat: 17.210637548746593, lng: -93.55130911992279},
-    {lat: 17.20490059224877, lng: -93.55448543985841},
-    {lat: 17.203117909524273, lng: -93.55487175660983},
-    {lat: 17.1984655367107, lng: -93.55397062198415},
-    {lat: 17.18803241796405, lng: -93.55577313163258},
-    {lat: 17.18707966626206, lng: -93.55663142113366},
-    {lat: 17.186208905357912, lng: -93.55817634431389},
-    {lat: 17.186641693236574, lng: -93.56732729616988},
-    {lat: 17.185967379183992, lng: -93.56883929104646},
-    {lat: 17.184496967705776, lng: -93.56976449728654},
-    {lat: 17.17957975939431, lng: -93.57048457424446},
-    {lat: 17.177059656196203, lng: -93.57080167756573},
-    {lat: 17.17552357720992, lng: -93.57180541006392},
-    {lat: 17.174388655404076, lng: -93.5740488433758},
-    {lat: 17.173007682471816, lng: -93.5775367827805},
-    {lat: 17.171237108271686, lng: -93.58287001001605},
-    {lat: 17.170474771691612, lng: -93.58603010482307},
-    {lat: 17.169591300551794, lng: -93.58772815825853},
-    {lat: 17.16825678556006, lng: -93.58921161594662},
-    {lat: 17.161451868002572, lng: -93.59521163099748},
-    {lat: 17.15942270033769, lng: -93.59696895243349},
-    {lat: 17.15748550265525, lng: -93.59746135969652},
-    {lat: 17.15579930604276, lng: -93.59714966321383},
-    {lat: 17.15429763429542, lng: -93.59632299158147},
-    {lat: 17.152698848962036, lng: -93.59512021263987},
-    {lat: 17.149879845854134, lng: -93.59334936323478},
-    {lat: 17.146814785944997, lng: -93.5917931432702},
-    {lat: 17.145974876825324, lng: -93.5917814204804},
-    {lat: 17.131099014934662, lng: -93.59525169720678},
-    {lat: 17.12780319082937, lng: -93.59614986000167},
-    {lat: 17.12691401088933, lng: -93.59636289705975},
-    {lat: 17.12499297340063, lng: -93.59612609165038},
-    {lat: 17.123564088466363, lng: -93.59530992950408},
-    {lat: 17.122050835899888, lng: -93.5938815246941},
-    {lat: 17.12074051758795, lng: -93.59207301007223},
-    {lat: 17.120207866513237, lng: -93.5909664309309},
-    {lat: 17.119798249382477, lng: -93.58964528121749},
-    {lat: 17.119388624412718, lng: -93.58768042237068},
-    {lat: 17.11848681481691, lng: -93.58588723814779},
-    {lat: 17.117186634312112, lng: -93.58494287861777},
-    {lat: 17.11634892105177, lng: -93.58461023744877},
-    {lat: 17.11551120762806, lng: -93.58457800533222},
-    {lat: 17.114179779555865, lng: -93.584304396596},
-    {lat: 17.11280733636835, lng: -93.58437411209502},
-    {lat: 17.11106578796197, lng: -93.58467985305742},
-    {lat: 17.106708646075248, lng: -93.58603434080146},
-    {lat: 17.103443124447452, lng: -93.58709779300568},
-    {lat: 17.10222053894068, lng: -93.58760804931688},
-    {lat: 17.100300651366883, lng: -93.58796809620958},
-    {lat: 17.09795913777238, lng: -93.58798939372411},
-    {lat: 17.096398733681816, lng: -93.58742069994389},
-    {lat: 17.094377715697533, lng: -93.58579526620736},
-    {lat: 17.093377473381405, lng: -93.58520788700957},
-    {lat: 17.09209165706283, lng: -93.584825008797},
-    {lat: 17.08953422010055, lng: -93.58444213848117},
-    {lat: 17.087181873964347, lng: -93.58408073658825},
-    {lat: 17.085280756768732, lng: -93.58266792288487},
-    {lat: 17.08238561383322, lng: -93.57977132480926},
-    {lat: 17.079449413014913, lng: -93.57726104938484},
-    {lat: 17.077643075165717, lng: -93.5765672706334},
-    {lat: 17.069314573362426, lng: -93.5754264717774},
-    {lat: 17.063673382982934, lng: -93.57462008387262},
-    {lat: 17.060945035832262, lng: -93.57359916021642},
-    {lat: 17.054513823765294, lng: -93.56734132946121},
-    {lat: 17.051421264523874, lng: -93.5645774030964},
-    {lat: 17.043671840676666, lng: -93.55966792329065},
-    {lat: 17.042317601457672, lng: -93.55841194235057},
-    {lat: 17.041558387036165, lng: -93.55589580330843},
-    {lat: 17.04085041278419, lng: -93.55244917530581},
-    {lat: 17.039675639299908, lng: -93.55068308947625},
-    {lat: 17.03679041468109, lng: -93.54877019176843},
-    {lat: 17.03547086855484, lng: -93.54759936302406},
-    {lat: 17.034605907479705, lng: -93.54637031017273},
-    {lat: 17.033763064019762, lng: -93.5423226238093},
-    {lat: 17.03276703553908, lng: -93.53811021817825},
-    {lat: 17.032145791941073, lng: -93.53630454229506},
-    {lat: 17.03052205813143, lng: -93.53454345168768},
-    {lat: 17.02708399068767, lng: -93.53259010400456},
-    {lat: 17.025118719033586, lng: -93.53148481123355},
-    {lat: 17.024177101854985, lng: -93.53024558382845},
-    {lat: 17.02352161227253, lng: -93.52848874743665},
-    {lat: 17.023598836249683, lng: -93.52491137355526},
-    {lat: 17.023688718256548, lng: -93.5231012273183},
-    {lat: 17.024065829590757, lng: -93.5213769073597},
-    {lat: 17.024622436153855, lng: -93.51973308044523},
-    {lat: 17.02495333615538, lng: -93.51774592089077},
-    {lat: 17.024463506159986, lng: -93.51642397015974},
-    {lat: 17.023912126669234, lng: -93.51546690111638},
-    {lat: 17.017631396381038, lng: -93.51081564428807},
-    {lat: 17.016029982230354, lng: -93.50937019208385},
-    {lat: 17.012059179999685, lng: -93.50458133329653},
-    {lat: 17.010022488214666, lng: -93.50297038381245},
-    {lat: 17.008675865867108, lng: -93.50216500078744},
-    {lat: 16.999794719850957, lng: -93.500431981828},
-    {lat: 16.99777558405638, lng: -93.4993081634318},
-    {lat: 16.996191453060778, lng: -93.49677219504844},
-    {lat: 16.995235212356846, lng: -93.49490344927119},
-    {lat: 16.99403886258836, lng: -93.49353995372024},
-    {lat: 16.993153397898443, lng: -93.4927723975535},
-    {lat: 16.98950938510523, lng: -93.49120845913484},
-    {lat: 16.987913104813313, lng: -93.490319224438},
-    {lat: 16.986563075313178, lng: -93.48880773171413},
-    {lat: 16.984110400195704, lng: -93.48624158519004},
-    {lat: 16.982760989143078, lng: -93.48547363228857},
-    {lat: 16.981028148762423, lng: -93.48530312434872},
-    {lat: 16.97945948550976, lng: -93.48564759900921},
-    {lat: 16.97776778486422, lng: -93.4854342024176},
-    {lat: 16.976470483103306, lng: -93.48511295137064},
-    {lat: 16.97368748984009, lng: -93.48276366559776},
-    {lat: 16.971967666267155, lng: -93.48154619353784},
-    {lat: 16.970018993725258, lng: -93.48089851873584},
-    {lat: 16.96807032059583, lng: -93.4808516659615},
-    {lat: 16.959636067996733, lng: -93.48093358680774},
-    {lat: 16.95679406330928, lng: -93.48018064644327},
-    {lat: 16.95395205079457, lng: -93.47839777616889},
-    {lat: 16.94714343424775, lng: -93.4742987038772},
-    {lat: 16.943357961652204, lng: -93.46917563699049},
-    {lat: 16.940562012473485, lng: -93.46719354075145},
-    {lat: 16.93751972765197, lng: -93.46546899409952},
-    {lat: 16.934000971187746, lng: -93.46000334077576},
-    {lat: 16.93199531331936, lng: -93.45716347706326},
-    {lat: 16.930898566671008, lng: -93.45600291119331},
-    {lat: 16.92495725493409, lng: -93.45441325612893},
-    {lat: 16.92336793035985, lng: -93.45381074903088},
-    {lat: 16.91920657279512, lng: -93.45059127341733},
-    {lat: 16.91679742350602, lng: -93.44880993160962},
-    {lat: 16.914716758397198, lng: -93.44844483510178},
-    {lat: 16.910289523699653, lng: -93.44913288458218},
-    {lat: 16.908527577521017, lng: -93.44853280288618},
-    {lat: 16.907522511685794, lng: -93.4475030174255},
-    {lat: 16.906517437803004, lng: -93.44595826156171},
-    {lat: 16.904507251732305, lng: -93.44235381786638},
-    {lat: 16.900333332095645, lng: -93.43304467127888},
-    {lat: 16.899611733016847, lng: -93.43193111654654},
-    {lat: 16.8983152602291, lng: -93.43116089464706},
-    {lat: 16.89591012236089, lng: -93.43099161682443},
-    {lat: 16.892818718907026, lng: -93.43047789295463},
-    {lat: 16.89176586273281, lng: -93.43000655069625},
-    {lat: 16.89017179236479, lng: -93.42839762998392},
-    {lat: 16.888964124319873, lng: -93.42476084413829},
-    {lat: 16.88745683564326, lng: -93.42294258183904},
-    {lat: 16.881980681430555, lng: -93.41872904360116},
-    {lat: 16.87895515793999, lng: -93.41653660683505},
-    {lat: 16.875964000665146, lng: -93.4151400428297},
-    {lat: 16.8683492746156, lng: -93.41401264245087},
-    {lat: 16.866894802825108, lng: -93.41331447396885},
-    {lat: 16.86594048377627, lng: -93.41264630005571},
-    {lat: 16.86492159044643, lng: -93.41089139021346},
-    {lat: 16.86410802909563, lng: -93.40900775197753},
-    {lat: 16.859379900309314, lng: -93.39854591650277},
-    {lat: 16.85855182893657, lng: -93.39732497383454},
-    {lat: 16.857723752230545, lng: -93.39644736311106},
-    {lat: 16.85284347054467, lng: -93.39344767148742},
-    {lat: 16.811701037243207, lng: -93.36796849522034},
-    {lat: 16.80994340322775, lng: -93.36542361708513},
-    {lat: 16.80655853285278, lng: -93.35621191561171},
-    {lat: 16.80461943749361, lng: -93.35036165651837},
-    {lat: 16.802762379123344, lng: -93.34682893695702},
-    {lat: 16.785103810458562, lng: -93.33046716812134},
-    {lat: 16.77684931960097, lng: -93.32207283060154},
-    {lat: 16.771776918006093, lng: -93.31817634314086},
-    {lat: 16.766951, lng: -93.31531000000001}
-  ];
- 
+    var linePath = [
+        {lat: 18.068652, lng: -94.25055299999997},
+        {lat: 18.068286631177894, lng: -94.2498601190211},
+        {lat: 18.067554067943473, lng: -94.24916724237386},
+        {lat: 18.066088935355175, lng: -94.24821065528113},
+        {lat: 18.054223330517928, lng: -94.24131966320505},
+        {lat: 18.04862056393551, lng: -94.23745460471594},
+        {lat: 18.039998173270387, lng: -94.23084338793717},
+        {lat: 18.026139781555205, lng: -94.22045458106913},
+        {lat: 18.019108367807036, lng: -94.21513205324527},
+        {lat: 18.011729937188697, lng: -94.20953100064378},
+        {lat: 18.00906987971749, lng: -94.20748381615806},
+        {lat: 18.00653586212296, lng: -94.20583799513571},
+        {lat: 18.00212440036227, lng: -94.20329103448273},
+        {lat: 17.992151349932342, lng: -94.19756671671792},
+        {lat: 17.981749530502192, lng: -94.19149975529422},
+        {lat: 17.97654855211571, lng: -94.18840216429237},
+        {lat: 17.9713883521169, lng: -94.18577680997595},
+        {lat: 17.95032862956103, lng: -94.17511611018034},
+        {lat: 17.93979855487754, lng: -94.16982961760641},
+        {lat: 17.934513050652125, lng: -94.16710077273274},
+        {lat: 17.92945208471737, lng: -94.16454373879003},
+        {lat: 17.927025923494455, lng: -94.16279312964082},
+        {lat: 17.924354744484987, lng: -94.16037738800378},
+        {lat: 17.88389266290509, lng: -94.12372936490056},
+        {lat: 17.85565087066235, lng: -94.10519426522961},
+        {lat: 17.822737806541422, lng: -94.07292937601778},
+        {lat: 17.772986973671298, lng: -94.0461716474012},
+        {lat: 17.76145442130673, lng: -94.01043296475945},
+        {lat: 17.727352138337746, lng: -93.96234534904124},
+        {lat: 17.696146178744165, lng: -93.92063261505405},
+        {lat: 17.68275881670568, lng: -93.889743907803},
+        {lat: 17.650324523048788, lng: -93.83686144032544},
+        {lat: 17.64880778952793, lng: -93.83429606605279},
+        {lat: 17.647454602274788, lng: -93.83155907265359},
+        {lat: 17.644257349770623, lng: -93.82539859117259},
+        {lat: 17.63843488039634, lng: -93.81372192894969},
+        {lat: 17.63238681244171, lng: -93.80208896172564},
+        {lat: 17.625969985059005, lng: -93.79071428201757},
+        {lat: 17.612897562356903, lng: -93.7608889580988},
+        {lat: 17.592123624592542, lng: -93.72280499664663},
+        {lat: 17.566272004734184, lng: -93.69605601856472},
+        {lat: 17.56260160189792, lng: -93.69117076121597},
+        {lat: 17.55267066964117, lng: -93.67457025881686},
+        {lat: 17.54284125843732, lng: -93.66404334605033},
+        {lat: 17.532602105928845, lng: -93.65368925067497},
+        {lat: 17.525751696620937, lng: -93.64968035229043},
+        {lat: 17.51905278564816, lng: -93.64776218838063},
+        {lat: 17.50956112431913, lng: -93.64316265140565},
+        {lat: 17.50015119451819, lng: -93.6378769833305},
+        {lat: 17.48930847779957, lng: -93.63503788814728},
+        {lat: 17.478261055335395, lng: -93.6315983619445},
+        {lat: 17.47709703014295, lng: -93.6317252553165},
+        {lat: 17.472903852370955, lng: -93.63374039230757},
+        {lat: 17.47099145671139, lng: -93.63410421033018},
+        {lat: 17.4682603477176, lng: -93.63386721191608},
+        {lat: 17.46626609252123, lng: -93.63444559347397},
+        {lat: 17.464695849696426, lng: -93.63593640675555},
+        {lat: 17.4626211902102, lng: -93.63640285621511},
+        {lat: 17.46038278043903, lng: -93.63549601987341},
+        {lat: 17.458594856005792, lng: -93.63431351996098},
+        {lat: 17.45598152990436, lng: -93.63406568283932},
+        {lat: 17.452996455087234, lng: -93.63295476480027},
+        {lat: 17.450152989801364, lng: -93.63274272190228},
+        {lat: 17.436530637213764, lng: -93.62843104521437},
+        {lat: 17.43283841796011, lng: -93.62752490151172},
+        {lat: 17.429064304522154, lng: -93.62627547915713},
+        {lat: 17.42327669765926, lng: -93.6208156553987},
+        {lat: 17.422732292081555, lng: -93.62022663331135},
+        {lat: 17.421334060268705, lng: -93.61919183213104},
+        {lat: 17.418748350740433, lng: -93.61710565191765},
+        {lat: 17.416920162125333, lng: -93.61634995630203},
+        {lat: 17.408704065318364, lng: -93.61593761555184},
+        {lat: 17.40491070098355, lng: -93.61501052532378},
+        {lat: 17.401335129003435, lng: -93.61330253927866},
+        {lat: 17.396680775500084, lng: -93.61292073068745},
+        {lat: 17.394435587322874, lng: -93.6120432598421},
+        {lat: 17.38876718020907, lng: -93.6069268036349},
+        {lat: 17.385998563476406, lng: -93.6053687957583},
+        {lat: 17.38322993940074, lng: -93.60449747014542},
+        {lat: 17.380313858845717, lng: -93.60249742064622},
+        {lat: 17.375492934326118, lng: -93.59853588816014},
+        {lat: 17.371163437749225, lng: -93.5957761532581},
+        {lat: 17.366059679894786, lng: -93.59293716333434},
+        {lat: 17.359022754301638, lng: -93.59070243346645},
+        {lat: 17.350507048580656, lng: -93.5870639829908},
+        {lat: 17.346497165268268, lng: -93.58514233619314},
+        {lat: 17.34584915915974, lng: -93.58475021976642},
+        {lat: 17.344668624643955, lng: -93.58457268290005},
+        {lat: 17.34332564364503, lng: -93.58475750103452},
+        {lat: 17.342289893008456, lng: -93.58519980707774},
+        {lat: 17.339656518741464, lng: -93.58727287782978},
+        {lat: 17.337350847144386, lng: -93.58895965988575},
+        {lat: 17.336600454260758, lng: -93.58953303843492},
+        {lat: 17.335645231792395, lng: -93.58980600564217},
+        {lat: 17.334481437737793, lng: -93.58999612374942},
+        {lat: 17.331801891076896, lng: -93.5900145782964},
+        {lat: 17.329675404166686, lng: -93.59041925146988},
+        {lat: 17.326912007610275, lng: -93.59180174097389},
+        {lat: 17.325366434397374, lng: -93.59219256514325},
+        {lat: 17.324778004422058, lng: -93.59236651721216},
+        {lat: 17.323902795737467, lng: -93.59236880720175},
+        {lat: 17.322950278514686, lng: -93.59202283588684},
+        {lat: 17.319460299216132, lng: -93.59006958146614},
+        {lat: 17.317551423064117, lng: -93.58900715006217},
+        {lat: 17.316791590721497, lng: -93.58871197575615},
+        {lat: 17.316031758114658, lng: -93.58854554939137},
+        {lat: 17.315500525261836, lng: -93.58837365146064},
+        {lat: 17.314886661143756, lng: -93.58833061851749},
+        {lat: 17.313903713838037, lng: -93.5884163906511},
+        {lat: 17.31247008741686, lng: -93.5886738219055},
+        {lat: 17.308200325273827, lng: -93.58981086441133},
+        {lat: 17.30720464437056, lng: -93.58992346538253},
+        {lat: 17.3060450742974, lng: -93.58982148957023},
+        {lat: 17.304896810677285, lng: -93.58950227924743},
+        {lat: 17.3024374103967, lng: -93.58785271256374},
+        {lat: 17.30010654666892, lng: -93.58697431880148},
+        {lat: 17.29785762883214, lng: -93.58695424185873},
+        {lat: 17.296264344374308, lng: -93.58663379960461},
+        {lat: 17.2932550600641, lng: -93.5842849106383},
+        {lat: 17.29151931961003, lng: -93.58351531224673},
+        {lat: 17.289701626692977, lng: -93.58343236759299},
+        {lat: 17.28655794677334, lng: -93.58172156429475},
+        {lat: 17.284312474684743, lng: -93.58010121178944},
+        {lat: 17.280731072297414, lng: -93.57899068845131},
+        {lat: 17.27967799375617, lng: -93.57804924810137},
+        {lat: 17.277266431710068, lng: -93.57453155983995},
+        {lat: 17.275814757149305, lng: -93.57298733988864},
+        {lat: 17.274248832151738, lng: -93.57202213020588},
+        {lat: 17.272191148907368, lng: -93.57165774926085},
+        {lat: 17.26892340212221, lng: -93.57243762217138},
+        {lat: 17.265322439899524, lng: -93.57278463723696},
+        {lat: 17.26368588659575, lng: -93.57231441965973},
+        {lat: 17.261885401752725, lng: -93.57107174185228},
+        {lat: 17.260068484419772, lng: -93.56888422109978},
+        {lat: 17.25842232075715, lng: -93.56770468904148},
+        {lat: 17.25604186717485, lng: -93.56715787358928},
+        {lat: 17.253294249783927, lng: -93.56216381048773},
+        {lat: 17.25243271186551, lng: -93.56052513665583},
+        {lat: 17.25118224724333, lng: -93.559491232097},
+        {lat: 17.24993178026379, lng: -93.55914398240651},
+        {lat: 17.24727505476622, lng: -93.55961821501512},
+        {lat: 17.24320064494161, lng: -93.56084235664599},
+        {lat: 17.241862576389718, lng: -93.56220470637464},
+        {lat: 17.240794569561015, lng: -93.56360015388418},
+        {lat: 17.23887425290745, lng: -93.5647429860627},
+        {lat: 17.237278786975594, lng: -93.56486378304362},
+        {lat: 17.235601345365883, lng: -93.56472708809997},
+        {lat: 17.2331526472638, lng: -93.5649883109761},
+        {lat: 17.225129404472945, lng: -93.55958485415107},
+        {lat: 17.223168074845596, lng: -93.55692610391907},
+        {lat: 17.221739556354002, lng: -93.55289412132697},
+        {lat: 17.219529378968197, lng: -93.55117891628117},
+        {lat: 17.21701008598961, lng: -93.5517804561178},
+        {lat: 17.214848620406702, lng: -93.55268203487935},
+        {lat: 17.210637548746593, lng: -93.55130911992279},
+        {lat: 17.20490059224877, lng: -93.55448543985841},
+        {lat: 17.203117909524273, lng: -93.55487175660983},
+        {lat: 17.1984655367107, lng: -93.55397062198415},
+        {lat: 17.18803241796405, lng: -93.55577313163258},
+        {lat: 17.18707966626206, lng: -93.55663142113366},
+        {lat: 17.186208905357912, lng: -93.55817634431389},
+        {lat: 17.186641693236574, lng: -93.56732729616988},
+        {lat: 17.185967379183992, lng: -93.56883929104646},
+        {lat: 17.184496967705776, lng: -93.56976449728654},
+        {lat: 17.17957975939431, lng: -93.57048457424446},
+        {lat: 17.177059656196203, lng: -93.57080167756573},
+        {lat: 17.17552357720992, lng: -93.57180541006392},
+        {lat: 17.174388655404076, lng: -93.5740488433758},
+        {lat: 17.173007682471816, lng: -93.5775367827805},
+        {lat: 17.171237108271686, lng: -93.58287001001605},
+        {lat: 17.170474771691612, lng: -93.58603010482307},
+        {lat: 17.169591300551794, lng: -93.58772815825853},
+        {lat: 17.16825678556006, lng: -93.58921161594662},
+        {lat: 17.161451868002572, lng: -93.59521163099748},
+        {lat: 17.15942270033769, lng: -93.59696895243349},
+        {lat: 17.15748550265525, lng: -93.59746135969652},
+        {lat: 17.15579930604276, lng: -93.59714966321383},
+        {lat: 17.15429763429542, lng: -93.59632299158147},
+        {lat: 17.152698848962036, lng: -93.59512021263987},
+        {lat: 17.149879845854134, lng: -93.59334936323478},
+        {lat: 17.146814785944997, lng: -93.5917931432702},
+        {lat: 17.145974876825324, lng: -93.5917814204804},
+        {lat: 17.131099014934662, lng: -93.59525169720678},
+        {lat: 17.12780319082937, lng: -93.59614986000167},
+        {lat: 17.12691401088933, lng: -93.59636289705975},
+        {lat: 17.12499297340063, lng: -93.59612609165038},
+        {lat: 17.123564088466363, lng: -93.59530992950408},
+        {lat: 17.122050835899888, lng: -93.5938815246941},
+        {lat: 17.12074051758795, lng: -93.59207301007223},
+        {lat: 17.120207866513237, lng: -93.5909664309309},
+        {lat: 17.119798249382477, lng: -93.58964528121749},
+        {lat: 17.119388624412718, lng: -93.58768042237068},
+        {lat: 17.11848681481691, lng: -93.58588723814779},
+        {lat: 17.117186634312112, lng: -93.58494287861777},
+        {lat: 17.11634892105177, lng: -93.58461023744877},
+        {lat: 17.11551120762806, lng: -93.58457800533222},
+        {lat: 17.114179779555865, lng: -93.584304396596},
+        {lat: 17.11280733636835, lng: -93.58437411209502},
+        {lat: 17.11106578796197, lng: -93.58467985305742},
+        {lat: 17.106708646075248, lng: -93.58603434080146},
+        {lat: 17.103443124447452, lng: -93.58709779300568},
+        {lat: 17.10222053894068, lng: -93.58760804931688},
+        {lat: 17.100300651366883, lng: -93.58796809620958},
+        {lat: 17.09795913777238, lng: -93.58798939372411},
+        {lat: 17.096398733681816, lng: -93.58742069994389},
+        {lat: 17.094377715697533, lng: -93.58579526620736},
+        {lat: 17.093377473381405, lng: -93.58520788700957},
+        {lat: 17.09209165706283, lng: -93.584825008797},
+        {lat: 17.08953422010055, lng: -93.58444213848117},
+        {lat: 17.087181873964347, lng: -93.58408073658825},
+        {lat: 17.085280756768732, lng: -93.58266792288487},
+        {lat: 17.08238561383322, lng: -93.57977132480926},
+        {lat: 17.079449413014913, lng: -93.57726104938484},
+        {lat: 17.077643075165717, lng: -93.5765672706334},
+        {lat: 17.069314573362426, lng: -93.5754264717774},
+        {lat: 17.063673382982934, lng: -93.57462008387262},
+        {lat: 17.060945035832262, lng: -93.57359916021642},
+        {lat: 17.054513823765294, lng: -93.56734132946121},
+        {lat: 17.051421264523874, lng: -93.5645774030964},
+        {lat: 17.043671840676666, lng: -93.55966792329065},
+        {lat: 17.042317601457672, lng: -93.55841194235057},
+        {lat: 17.041558387036165, lng: -93.55589580330843},
+        {lat: 17.04085041278419, lng: -93.55244917530581},
+        {lat: 17.039675639299908, lng: -93.55068308947625},
+        {lat: 17.03679041468109, lng: -93.54877019176843},
+        {lat: 17.03547086855484, lng: -93.54759936302406},
+        {lat: 17.034605907479705, lng: -93.54637031017273},
+        {lat: 17.033763064019762, lng: -93.5423226238093},
+        {lat: 17.03276703553908, lng: -93.53811021817825},
+        {lat: 17.032145791941073, lng: -93.53630454229506},
+        {lat: 17.03052205813143, lng: -93.53454345168768},
+        {lat: 17.02708399068767, lng: -93.53259010400456},
+        {lat: 17.025118719033586, lng: -93.53148481123355},
+        {lat: 17.024177101854985, lng: -93.53024558382845},
+        {lat: 17.02352161227253, lng: -93.52848874743665},
+        {lat: 17.023598836249683, lng: -93.52491137355526},
+        {lat: 17.023688718256548, lng: -93.5231012273183},
+        {lat: 17.024065829590757, lng: -93.5213769073597},
+        {lat: 17.024622436153855, lng: -93.51973308044523},
+        {lat: 17.02495333615538, lng: -93.51774592089077},
+        {lat: 17.024463506159986, lng: -93.51642397015974},
+        {lat: 17.023912126669234, lng: -93.51546690111638},
+        {lat: 17.017631396381038, lng: -93.51081564428807},
+        {lat: 17.016029982230354, lng: -93.50937019208385},
+        {lat: 17.012059179999685, lng: -93.50458133329653},
+        {lat: 17.010022488214666, lng: -93.50297038381245},
+        {lat: 17.008675865867108, lng: -93.50216500078744},
+        {lat: 16.999794719850957, lng: -93.500431981828},
+        {lat: 16.99777558405638, lng: -93.4993081634318},
+        {lat: 16.996191453060778, lng: -93.49677219504844},
+        {lat: 16.995235212356846, lng: -93.49490344927119},
+        {lat: 16.99403886258836, lng: -93.49353995372024},
+        {lat: 16.993153397898443, lng: -93.4927723975535},
+        {lat: 16.98950938510523, lng: -93.49120845913484},
+        {lat: 16.987913104813313, lng: -93.490319224438},
+        {lat: 16.986563075313178, lng: -93.48880773171413},
+        {lat: 16.984110400195704, lng: -93.48624158519004},
+        {lat: 16.982760989143078, lng: -93.48547363228857},
+        {lat: 16.981028148762423, lng: -93.48530312434872},
+        {lat: 16.97945948550976, lng: -93.48564759900921},
+        {lat: 16.97776778486422, lng: -93.4854342024176},
+        {lat: 16.976470483103306, lng: -93.48511295137064},
+        {lat: 16.97368748984009, lng: -93.48276366559776},
+        {lat: 16.971967666267155, lng: -93.48154619353784},
+        {lat: 16.970018993725258, lng: -93.48089851873584},
+        {lat: 16.96807032059583, lng: -93.4808516659615},
+        {lat: 16.959636067996733, lng: -93.48093358680774},
+        {lat: 16.95679406330928, lng: -93.48018064644327},
+        {lat: 16.95395205079457, lng: -93.47839777616889},
+        {lat: 16.94714343424775, lng: -93.4742987038772},
+        {lat: 16.943357961652204, lng: -93.46917563699049},
+        {lat: 16.940562012473485, lng: -93.46719354075145},
+        {lat: 16.93751972765197, lng: -93.46546899409952},
+        {lat: 16.934000971187746, lng: -93.46000334077576},
+        {lat: 16.93199531331936, lng: -93.45716347706326},
+        {lat: 16.930898566671008, lng: -93.45600291119331},
+        {lat: 16.92495725493409, lng: -93.45441325612893},
+        {lat: 16.92336793035985, lng: -93.45381074903088},
+        {lat: 16.91920657279512, lng: -93.45059127341733},
+        {lat: 16.91679742350602, lng: -93.44880993160962},
+        {lat: 16.914716758397198, lng: -93.44844483510178},
+        {lat: 16.910289523699653, lng: -93.44913288458218},
+        {lat: 16.908527577521017, lng: -93.44853280288618},
+        {lat: 16.907522511685794, lng: -93.4475030174255},
+        {lat: 16.906517437803004, lng: -93.44595826156171},
+        {lat: 16.904507251732305, lng: -93.44235381786638},
+        {lat: 16.900333332095645, lng: -93.43304467127888},
+        {lat: 16.899611733016847, lng: -93.43193111654654},
+        {lat: 16.8983152602291, lng: -93.43116089464706},
+        {lat: 16.89591012236089, lng: -93.43099161682443},
+        {lat: 16.892818718907026, lng: -93.43047789295463},
+        {lat: 16.89176586273281, lng: -93.43000655069625},
+        {lat: 16.89017179236479, lng: -93.42839762998392},
+        {lat: 16.888964124319873, lng: -93.42476084413829},
+        {lat: 16.88745683564326, lng: -93.42294258183904},
+        {lat: 16.881980681430555, lng: -93.41872904360116},
+        {lat: 16.87895515793999, lng: -93.41653660683505},
+        {lat: 16.875964000665146, lng: -93.4151400428297},
+        {lat: 16.8683492746156, lng: -93.41401264245087},
+        {lat: 16.866894802825108, lng: -93.41331447396885},
+        {lat: 16.86594048377627, lng: -93.41264630005571},
+        {lat: 16.86492159044643, lng: -93.41089139021346},
+        {lat: 16.86410802909563, lng: -93.40900775197753},
+        {lat: 16.859379900309314, lng: -93.39854591650277},
+        {lat: 16.85855182893657, lng: -93.39732497383454},
+        {lat: 16.857723752230545, lng: -93.39644736311106},
+        {lat: 16.85284347054467, lng: -93.39344767148742},
+        {lat: 16.811701037243207, lng: -93.36796849522034},
+        {lat: 16.80994340322775, lng: -93.36542361708513},
+        {lat: 16.80655853285278, lng: -93.35621191561171},
+        {lat: 16.80461943749361, lng: -93.35036165651837},
+        {lat: 16.802762379123344, lng: -93.34682893695702},
+        {lat: 16.785103810458562, lng: -93.33046716812134},
+        {lat: 16.77684931960097, lng: -93.32207283060154},
+        {lat: 16.771776918006093, lng: -93.31817634314086},
+        {lat: 16.766951, lng: -93.31531000000001}
+    ];
+
+
     //Polyline Options
     var line = new google.maps.Polyline({
         path: linePath,
         geodesic: true,
-        strokeColor: '#5D276A',
+        strokeColor: '#5d276a',
         strokeOpacity: 0.8,
         strokeWeight: 8,
         editable: false
@@ -39805,15 +39805,15 @@ function initialize() {
             return function () {
                 //With help of jquery we set the info window to the left side
 
-            jQuery('#displayInfo-Terraplen').css('visibility', 'visible');
-            jQuery('#displayInfo-Terraplen').empty();
-            jQuery('#displayInfo-Terraplen').append(locations[i][0]);
-            map.setZoom(16);
-            map.setCenter(marker.getPosition());
-            //this div is to put the scroll bar to the top
-            var myDiv = document.getElementById('infowindow');
-            myDiv.scrollTop = 0;
-            //end
+                jQuery('#displayInfo-2').css('visibility', 'visible');
+                jQuery('#displayInfo-2').empty();
+                jQuery('#displayInfo-2').append(locations[i][0]);
+                map.setZoom(16);
+                map.setCenter(marker.getPosition());
+                //this div is to put the scroll bar to the top
+                var myDiv = document.getElementById('infowindow');
+                myDiv.scrollTop = 0;
+                //end
 
 
 
@@ -39823,12 +39823,12 @@ function initialize() {
         })(marker, i));
 
         //function to show info
-       google.maps.event.addListener(marker, 'mouseover', (function(marker,i) {
-           return function() {
-               infowindow.setContent(locations[i][4]);
-               infowindow.open(map, marker);
-           }
-         })(marker, i));
+        google.maps.event.addListener(marker, 'mouseover', (function(marker,i) {
+            return function() {
+                infowindow.setContent(locations[i][4]);
+                infowindow.open(map, marker);
+            }
+        })(marker, i));
 
 //        google.maps.event.addListener(marker, 'mouseout', (function(marker,i) {
 //           return function() {
@@ -39842,8 +39842,8 @@ function initialize() {
     //call to the path coordinates function
 
     line.addListener('click', function () {
-     getPathVariableCode(line);
- });
+        getPathVariableCode(line);
+    });
 
     //set map
     line.setMap(map);
@@ -39854,17 +39854,17 @@ google.maps.event.addDomListener(window, 'load', initialize);
 
 //function to get all the coordinates of the polyline
 function getPathVariableCode(line){
-	var codeStr = '  var linePath = [\n';
-	var pathArr = line.getPath();
-	for (var i = 0; i < pathArr.length; i++){
-		codeStr += '    {lat: ' + pathArr.getAt(i).lat() + ', lng: ' + pathArr.getAt(i).lng() + '}' ;
+    var codeStr = '  var linePath = [\n';
+    var pathArr = line.getPath();
+    for (var i = 0; i < pathArr.length; i++){
+        codeStr += '    {lat: ' + pathArr.getAt(i).lat() + ', lng: ' + pathArr.getAt(i).lng() + '}' ;
         if (i !== pathArr.length-1) {
-			codeStr += ',\n';
-		};
+            codeStr += ',\n';
+        };
 
-	};
+    };
 
-	codeStr += '\n  ];';
+    codeStr += '\n  ];';
 
     //the coordinates path it´s print on the console of the browser
 
@@ -39872,207 +39872,208 @@ function getPathVariableCode(line){
     console.log(pathArr.length);
 
 };
+
 //function to make the filter
 function filterMarkers(category) {
- infowindow.close();
- var fullList = "";
- var servicesCounter = 1;
+    infowindow.close();
+    var fullList = "";
+    var servicesCounter = 1;
 
- for (i = 0; i < locations.length; i++) {
-  marker = gmarkers[i]; //here we pass all the markers then we only show the selected one
-  // If is same category or category not picked
-  // console.log(gmarkers[i]);
-  marker.setVisible(false);
+    for (i = 0; i < locations.length; i++) {
+        marker = gmarkers[i]; //here we pass all the markers then we only show the selected one
+        // If is same category or category not picked
+        // console.log(gmarkers[i]);
+        marker.setVisible(false);
 
 
-  if (locations[i][3] == category && category.length != 0) {
-   marker.setVisible(true);
-   fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
-   servicesCounter++;
-   map.setZoom(9);
+        if (locations[i][3] == category && category.length != 0) {
+            marker.setVisible(true);
+            fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            servicesCounter++;
+            map.setZoom(9);
 
-  } else if (category == "all") {
+        } else if (category == "all") {
 
-   marker.setVisible(true);
-   fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + "Kilometro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
-   servicesCounter++;
-   map.setZoom(9);
-  }
+            marker.setVisible(true);
+            fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + "Kilómetro: " + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+            servicesCounter++;
+            map.setZoom(9);
+        }
 
-  else {
+        else {
 
-   fullList += "";
-  }
- }
+            fullList += "";
+        }
+    }
 
- //siempre se ejecuta la función lados para aplicar el segundo filtro
- $( "#infowindow" ).scrollTop( 0 );
- lados();
+    //siempre se ejecuta la función lados para aplicar el segundo filtro
+    $( "#infowindow" ).scrollTop( 0 );
+    lados();
 
 }
 
 //this function is to display the info from the mas información button display on the checkList of only one element
 function justOne(pos, scrollPosition) {
 
- infowindow.close();
- //this div is to put the scroll bar to the top
- var myDiv = document.getElementById('infowindow');
- myDiv.scrollTop = 0;
- //end
+    infowindow.close();
+    //this div is to put the scroll bar to the top
+    var myDiv = document.getElementById('infowindow');
+    myDiv.scrollTop = 0;
+    //end
 
- var fullList = "";
- //console.log(pos);
- for (i = 0; i < locations.length; i++) {
-  marker = gmarkers[i];
+    var fullList = "";
+    //console.log(pos);
+    for (i = 0; i < locations.length; i++) {
+        marker = gmarkers[i];
 
-  if (i == pos - 1) {
-   marker.setVisible(true);
-   fullList += locations[i][0] + " " + "<br>" + "<br>";
-   map.setCenter(marker.getPosition());
-   map.setZoom(9);
+        if (i == pos - 1) {
+            marker.setVisible(true);
+            fullList += locations[i][0] + " " + "<br>" + "<br>";
+            map.setCenter(marker.getPosition());
+            map.setZoom(9);
 
-  } else {
-   marker.setVisible(false);
+        } else {
+            marker.setVisible(false);
 
-  }
+        }
 
 
- }
- //console.log(fullList);
+    }
+    //console.log(fullList);
 
- $('#displayInfo-2').html(fullList);
- currentScrollPosition = scrollPosition;
- //console.log(scrollPosition);
+    $('#displayInfo-2').html(fullList);
+    currentScrollPosition = scrollPosition;
+    //console.log(scrollPosition);
 }
 
 
 //this function is to show all the mas información buttons when the page loads
 function start(){
- var fullList = "";
- var servicesCounter = 1;
+    var fullList = "";
+    var servicesCounter = 1;
 
- for (i = 0; i < locations.length; i++) {
+    for (i = 0; i < locations.length; i++) {
 
-  fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
-  servicesCounter++;
- }
+        fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>"+ "<div class ='titleSquareInfo'>"+"Señalamiento # "+servicesCounter + "</div>" + locations[i][4] +  "<br>" + locations[i][5] +"</div>";
+        servicesCounter++;
+    }
 
 
- $('#displayInfo-2').html(fullList);
+    $('#displayInfo-2').html(fullList);
 
 
 }
 
 
 function back() {
- var fullList = "";
- var servicesCounter = 1;
+    var fullList = "";
+    var servicesCounter = 1;
 
- //this div is to put the scroll bar to the top
- //var myDiv = document.getElementById('infowindow');
- console.log(currentScrollPosition);
- //myDiv.scrollTop = 60000;
+    //this div is to put the scroll bar to the top
+    //var myDiv = document.getElementById('infowindow');
+    console.log(currentScrollPosition);
+    //myDiv.scrollTop = 60000;
 
- //end
+    //end
 
- //this section is to get the selected option from the select
- var e = document.getElementById("singleSelect");
- var selectValue = e.options[e.selectedIndex].value;
- //end
+    //this section is to get the selected option from the select
+    var e = document.getElementById("singleSelect");
+    var selectValue = e.options[e.selectedIndex].value;
+    //end
 
- //console.log(selectValue);
- map.setZoom(9);
-
-
- for (i = 0; i < locations.length; i++) {
-  if (locations[i][3] == selectValue) {
-
-   fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" +"Señalamiento # "+servicesCounter + "</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
-   servicesCounter++;
-  }
-  //this else is to show all the info
-  else if (selectValue == "all"){
-
-   fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" +"Señalamiento # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
-   servicesCounter++;
-
-  }
- }
+    //console.log(selectValue);
+    map.setZoom(9);
 
 
- $('#displayInfo-2').html(fullList);
- $( "#infowindow" ).scrollTop( currentScrollPosition );
- currentScrollPosition = 0;
- lados();
+    for (i = 0; i < locations.length; i++) {
+        if (locations[i][3] == selectValue) {
+
+            fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" +"Señalamiento # "+servicesCounter + "</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
+            servicesCounter++;
+        }
+        //this else is to show all the info
+        else if (selectValue == "all"){
+
+            fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" +"Señalamiento # "+servicesCounter +"</div>" + locations[i][4] + "<br>" + locations[i][5] + "</div>";
+            servicesCounter++;
+
+        }
+    }
+
+
+    $('#displayInfo-2').html(fullList);
+    $( "#infowindow" ).scrollTop( currentScrollPosition );
+    currentScrollPosition = 0;
+    lados();
 
 
 }
 
 function lados() {
 
- infowindow.close();
- var valor = $('#multipleSelect').val(); //obtenemos el valor del filtro
- var category=$('#singleSelect').val(); //obtenemos la categoria para solo mostrar los kilometros que se seleccionen
+    infowindow.close();
+    var valor = $('#multipleSelect').val(); //obtenemos el valor del filtro
+    var category=$('#singleSelect').val(); //obtenemos la categoria para solo mostrar los Kilómetros que se seleccionen
 
- var count = 0;
- var servicesCounter = 1;
- var fullList = "";
+    var count = 0;
+    var servicesCounter = 1;
+    var fullList = "";
 
- //console.log(category);//km 5 + 10
- //console.log(valor);//centro
+    //console.log(category);//km 5 + 10
+    //console.log(valor);//centro
 
- if (valor != "" ) {//caso 1, cuando se selecciono algo del select multiple
+    if (valor != "" ) {//caso 1, cuando se selecciono algo del select multiple
 
-  for (var j = 0; j < locations.length; j++) {//recorremos el arreglo de donde esta toda la información
-   marker = gmarkers[j];
-   marker.setVisible(false);
+        for (var j = 0; j < locations.length; j++) {//recorremos el arreglo de donde esta toda la información
+            marker = gmarkers[j];
+            marker.setVisible(false);
 
-   for (var i = 0; i < valor.length; i++) {//recorremos el arreglo que nos devuelve el select multple el cual contiene los lados
+            for (var i = 0; i < valor.length; i++) {//recorremos el arreglo que nos devuelve el select multple el cual contiene los lados
 
-    if (valor[i] == locations[j][6] && category==locations[j][3]) {//comparamos la categoria por los kilometros que queremos que muestre + el lado especificado
+                if (valor[i] == locations[j][6] && category==locations[j][3]) {//comparamos la categoria por los Kilómetros que queremos que muestre + el lado especificado
 
-     marker.setVisible(true);
+                    marker.setVisible(true);
 
-     fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
+                    fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
 
-     servicesCounter++;
+                    servicesCounter++;
+                }
+                else if(valor[i] == locations[j][6] && category == "all"){//cuando la categoria es todos
+
+                    marker.setVisible(true);
+
+                    fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
+
+                    servicesCounter++;
+                }
+
+
+            }
+
+        }
     }
-    else if(valor[i] == locations[j][6] && category == "all"){//cuando la categoria es todos
+    else {//caso 2 cuando no se selecciono nada del select multiple para mostrar todos los lados
+        for (var j = 0; j < locations.length; j++) {
 
-     marker.setVisible(true);
+            if (category ==  locations[j][3]){//mostramos todos los lados con el Kilómetro seleccionado
 
-     fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
+                marker = gmarkers[j];
+                marker.setVisible(true);
+                fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + "" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
+                servicesCounter++;
 
-     servicesCounter++;
+            }
+
+            else if (category ==  "all"){//mostramos de nuevo todo
+
+                marker = gmarkers[j];
+                marker.setVisible(true);
+                fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + "" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
+                servicesCounter++;
+            }
+        }
     }
-
-
-   }
-
-  }
- }
- else {//caso 2 cuando no se selecciono nada del select multiple para mostrar todos los lados
-  for (var j = 0; j < locations.length; j++) {
-
-   if (category ==  locations[j][3]){//mostramos todos los lados con el kilometro seleccionado
-
-    marker = gmarkers[j];
-    marker.setVisible(true);
-    fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + "" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
-    servicesCounter++;
-
-   }
-
-   else if (category ==  "all"){//mostramos de nuevo todo
-
-    marker = gmarkers[j];
-    marker.setVisible(true);
-    fullList += "<div class='squareInfo borderSquareInfoSenalamientos'>" + "<div class ='titleSquareInfo'>" + "Señalamiento # " + servicesCounter + "</div>" + "" + locations[j][4] + "<br>" + locations[j][5] + "</div>";
-    servicesCounter++;
-   }
-  }
- }
- $('#displayInfo-2').html(fullList);
+    $('#displayInfo-2').html(fullList);
 };
 
 

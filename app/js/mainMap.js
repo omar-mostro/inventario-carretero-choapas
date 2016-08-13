@@ -2,9 +2,9 @@ var map;
 function initialize() {
 
     //vars to show the info window of the main page
-    var km0 = '<div class="infoWindow"><div class="title"> Inicio de Tramo</div><div class="info-image"> <img src="./img/inicioChoapas.jpg" /></div><div class="description"> km 0+000 Las Choapas </div></div>'
+    var km0 = '<div class="infoWindow"><div class="title"> Inicio de Tramo</div><div class="info-image"> <img src="./img/inicioChoapas.jpg" /></div><div class="description"> Kilómetro 0+000 Las Choapas </div></div>'
 
-    var km200 = '<div class="infoWindow"><div class="title"> Fin de Tramo </div><div class="info-image"> <img src="./img/finalChoapas.jpg" /></div><div class="description"> Kilometro 200+000 Ocozocoautla </div></div>'
+    var km200 = '<div class="infoWindow"><div class="title"> Fin de Tramo </div><div class="info-image"> <img src="./img/finalChoapas.jpg" /></div><div class="description"> Kilómetro 200+000 Ocozocoautla </div></div>'
 
     //locations array
     var locations = [

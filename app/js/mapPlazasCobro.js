@@ -23,7 +23,7 @@ var infowindow = new google.maps.InfoWindow();
 17.94486667,
 -94.1723,
  'KM 15+000 AL 20+000',
-' <b>Kilometro: </b> 16+690.00 <br> <b>Número de Cabinas:</b> 10',
+' <b>Kilómetro: </b> 16+690.00 <br> <b>Número de Cabinas:</b> 10',
 '<a class="hvr-bounce-to-right" onClick="justOne( 1 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -43,7 +43,7 @@ var infowindow = new google.maps.InfoWindow();
 17.34904444,
 -93.58646389,
  'KM 110+000 AL 115+000',
-' <b>Kilometro: </b> 112+700 <br> <b>Número de Cabinas:</b> 6',
+' <b>Kilómetro: </b> 112+700 <br> <b>Número de Cabinas:</b> 6',
 '<a class="hvr-bounce-to-right" onClick="justOne( 2 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
 
@@ -63,7 +63,7 @@ var infowindow = new google.maps.InfoWindow();
 16.86313611,
 -93.40688889,
  'KM 180+000 AL 185+000',
-' <b>Kilometro: </b> 182+000 <br> <b>Número de Cabinas:</b> 6',
+' <b>Kilómetro: </b> 182+000 <br> <b>Número de Cabinas:</b> 6',
 '<a class="hvr-bounce-to-right" onClick="justOne( 3 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
 
     ];

@@ -79,7 +79,7 @@ var locations = [
 '<h5 class="subTitle"> Altitud </h5> <p class="description"> 56.7 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-18.21701389,
+18.050347,
 -94.238675,
  'KM 0+000 AL 5+000',
 ' <b>Cadenamiento Inicial(km): </b> 2+900 <br> <b>Cadenamiento Final (km):</b> 3+100 <br> <b>Cuerpo:</b> UNICO',
@@ -359,8 +359,8 @@ var locations = [
 '<h5 class="subTitle"> Altitud </h5> <p class="description"> 22 M.S.N.M. </p>' +
 '<a class="hvr-bounce-to-right" onClick="back()"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Regresar.</a>'+
 '</div>', 
-17.87629722,
--94.12935278,
+17.870412,
+-94.114955,
  'KM 25+000 AL 30+000',
 ' <b>Cadenamiento Inicial(km): </b> 26+850 <br> <b>Cadenamiento Final (km):</b> 27+180 <br> <b>Cuerpo:</b> UNICO',
 '<a class="hvr-bounce-to-right" onClick="justOne( 18 ,$(\'#infowindow\').scrollTop() )"> Mas Información.</a>' ],
